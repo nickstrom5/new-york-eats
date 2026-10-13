@@ -565,5 +565,1313 @@
     "severity": "P2",
     "evidence": "$SP/work/link-scan/evidence/ny/albertinakerr.org.html",
     "found": "2026-10-12"
+  },
+  {
+    "domain": "columbusbakingco.com",
+    "match": "domain",
+    "place": "Columbus Baking Company (Syracuse)",
+    "reason": "domain taken over: whole site is \"NUVO77\" Indonesian togel/slot portal",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/columbusbakingco.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "harlemshake.com",
+    "match": "domain",
+    "place": "Harlem Shake (Manhattan); Harlem Shake (Brooklyn)",
+    "reason": "injected hidden links: 1x1-pixel image link to 1win1.mx (\"1 win\" betting) on both location pages",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/harlemshake.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "sohoroomnyc.com",
+    "match": "domain",
+    "place": "Soho Room (Manhattan)",
+    "reason": "injected text: sidebar box \"Discover great bonuses here: https://yep.casino/hu-hu\" in red",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/sohoroomnyc.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "puertadelalma.com",
+    "match": "domain",
+    "place": "Puerta del Alma (Brooklyn)",
+    "reason": "expired: \"Squarespace - Website Expired\"",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/puertadelalma.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "portuguesechurras.com",
+    "match": "domain",
+    "place": "Portuguese Churrasqueira (Spring Valley)",
+    "reason": "no site: \"Website not found…\"",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/portuguesechurras.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "deliciasrestaurant.com",
+    "match": "domain",
+    "place": "Delicias (Brentwood)",
+    "reason": "domain taken over: domain is now \"Top 3 Restaurant Evaluation Essay Writing Services\" (essay-mill spam)",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/deliciasrestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "flavorsindianrestaurant.com",
+    "match": "domain",
+    "place": "Flavors Indian Restaurant Canandaigua; Happy India Resturant Geneva (Canandaigua)",
+    "reason": "injected hidden links: off-screen (left:-9966px) casino links: hoppibox.com \"best paying online casinos in canada\", tsuren.ru \"1win\"",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/flavorsindianrestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "muscatglatt.com",
+    "match": "domain",
+    "place": "Muscat Glatt (Lawrence)",
+    "reason": "injected hidden links: off-screen (left:-52796px, -87895px) Polish casino links (vulkanvegas-slots.com, olimp-restauracja.pl)",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/muscatglatt.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "bagelworldcafeny.com",
+    "match": "domain",
+    "place": "Bagel World (Wappingers Falls)",
+    "reason": "injected hidden links: off-screen (left:-7566px) casino links: glorion-casino.at, vegashero-swiss.com, webdunia.com \"kasyno online legalne\"",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/bagelworldcafeny.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "pedrosdumbo.net",
+    "match": "domain",
+    "place": "Pedro's bar and restaurant (Brooklyn)",
+    "reason": "injected link: catering sentence rewritten to link onlinecasinoschweiznow.com in white text",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/pedrosdumbo.net.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "uncuttbar.com",
+    "match": "domain",
+    "place": "Uncutt Bar & Restaurant (Brooklyn)",
+    "reason": "injected hidden links: clipped 1px block linking spēļu kazino (Latvian casino)",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/uncuttbar.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "littletokyopittsburgh.com",
+    "match": "domain",
+    "place": "Little Tokyo (Lake Grove)",
+    "reason": "another business: Little Tokyo, Pittsburgh, PA (not Lake Grove, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/littletokyopittsburgh.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "joeyspizzeriaokc.com",
+    "match": "domain",
+    "place": "Joey's Diner; Joey's Pizzeria (Utica); Joey's Pizzeria (Endicott)",
+    "reason": "another business: Joey's Pizzeria, Oklahoma City (not Endicott, NY); Joey's Pizzeria, Oklahoma City (not Utica, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/joeyspizzeriaokc.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "kobebloomington.com",
+    "match": "domain",
+    "place": "Kobe Hibachi Steakhouse And Sushi (Jericho)",
+    "reason": "another business: Kobe Hibachi, Bloomington, IL (not Jericho, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/kobebloomington.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "sandbarmarco.com",
+    "match": "domain",
+    "place": "Sand Bar (Mastic Beach)",
+    "reason": "another business: Sand Bar, Marco Island, FL (not Mastic Beach, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/sandbarmarco.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "andys-restaurant.com",
+    "match": "domain",
+    "place": "Andy's Restaurant (Manhattan)",
+    "reason": "another business: Andy's Restaurants, Arkansas (not Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/andys-restaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "goinggreek.co.uk",
+    "match": "domain",
+    "place": "Go Greek (Bohemia)",
+    "reason": "another business: Going Greek, UK (for Go Greek, Bohemia, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/goinggreek.co.uk.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "parkwaypizza.net",
+    "match": "domain",
+    "place": "Parkway Pizza (Utica)",
+    "reason": "another business: Parkway Pizza, New Jersey (not Utica, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/parkwaypizza.net.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "armandospizza.com",
+    "match": "domain",
+    "place": "Armando's Pizza (Brooklyn)",
+    "reason": "another business: redirects to Armando's Pizza, Canada (not Brooklyn)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/armandospizza.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "laislarestaurant.com",
+    "match": "domain",
+    "place": "La Isla (Brooklyn)",
+    "reason": "another business: La Isla, New Jersey (not Brooklyn)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/laislarestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "luckykitchen.net",
+    "match": "domain",
+    "place": "Lucky Kitchen (Homer)",
+    "reason": "another business: Lucky Kitchen, Michigan (not Homer, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/luckykitchen.net.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "orientalhouse.ca",
+    "match": "domain",
+    "place": "Oriental House (Pine Bush)",
+    "reason": "another business: Oriental House, Canada (not Pine Bush, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/orientalhouse.ca.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "tomorestaurant.com",
+    "match": "domain",
+    "place": "Tomo Sushi Staten Island (Staten Island)",
+    "reason": "another business: Tomo, Buckhead, Atlanta (not Staten Island)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/tomorestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "caffetorinotucson.com",
+    "match": "domain",
+    "place": "Caffe Torino (Queens)",
+    "reason": "another business: Caffe Torino, Tucson, AZ (not Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/caffetorinotucson.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "groundround.com",
+    "match": "domain",
+    "place": "Jim's Ground (Rochester)",
+    "reason": "another business: Ground Round chain site, Massachusetts (for Jim's Ground, Rochester)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/groundround.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "sweetcharlies.com",
+    "match": "domain",
+    "place": "Sweet Charlie's (Garden City Park)",
+    "reason": "another business: Sweet Charlie's, Pennsylvania (not Garden City Park, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/sweetcharlies.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "thebrassmonkey.net",
+    "match": "domain",
+    "place": "The Brass Monkey (Gloversville)",
+    "reason": "another business: The Brass Monkey, Pass-A-Grille, FL (not Gloversville, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/thebrassmonkey.net.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "ilforno.com",
+    "match": "domain",
+    "place": "Il Forno Hell's Kitchen (Manhattan)",
+    "reason": "another business: Il Forno, Deerfield, IL (for Il Forno Hell's Kitchen, Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/ilforno.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "jonesfamilykitchen.co.uk",
+    "match": "domain",
+    "place": "Family Kitchen (Brooklyn)",
+    "reason": "another business: The Jones Family Kitchen, Belgravia, London (for Family Kitchen, Brooklyn)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/jonesfamilykitchen.co.uk.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "larondinepizzaandrestaurant.com",
+    "match": "domain",
+    "place": "La Rondine Pizza (Queens)",
+    "reason": "domain taken over: domain is now an Indonesian football-fan content site, not the pizzeria",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/larondinepizzaandrestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "chinatasteny.com",
+    "match": "domain",
+    "place": "China Taste (Staten Island)",
+    "reason": "domain taken over: whole site is a Chinese racing-lottery results page (赛车福彩168, 体彩)",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/chinatasteny.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "thelinden.net",
+    "match": "domain",
+    "place": "The Linden (Lindenhurst)",
+    "reason": "domain taken over: whole site is a Chinese racing-lottery live-results page",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/thelinden.net.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "labodegakc.com",
+    "match": "domain",
+    "place": "La Bodega (Bronx)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MO and it names neither the city nor the state of La Bodega (Bronx)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/labodegakc.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "mainmoonrestaurant.com",
+    "match": "domain",
+    "place": "Main Moon (Hamilton)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in WI and it names neither the city nor the state of Main Moon (Hamilton)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/mainmoonrestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "kotosakejapanesesteakhouse.com",
+    "match": "domain",
+    "place": "Koto Japanese Steak House (Latham)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MD and it names neither the city nor the state of Koto Japanese Steak House (Latham)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/kotosakejapanesesteakhouse.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "wasabisushi.com",
+    "match": "domain",
+    "place": "Wasabi (Hudson)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in VA and it names neither the city nor the state of Wasabi (Hudson)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/wasabisushi.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "brattleboropizza.com",
+    "match": "domain",
+    "place": "House Of Pizza (South Glens Falls)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in VT and it names neither the city nor the state of House Of Pizza (South Glens Falls)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/brattleboropizza.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "chuckwagononmackinac.com",
+    "match": "domain",
+    "place": "Chris' Chuck Wagon Diner (Duanesburg)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MI and it names neither the city nor the state of Chris' Chuck Wagon Diner (Duanesburg)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/chuckwagononmackinac.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "mandyspizza.com",
+    "match": "domain",
+    "place": "Mandy's Pizza & Subs (Hudson Falls)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in PA and it names neither the city nor the state of Mandy's Pizza & Subs (Hudson Falls)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/mandyspizza.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "anheuserbusch.com",
+    "match": "domain",
+    "place": "Anheuser-Busch Brewery (Baldwinsville)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MO and it names neither the city nor the state of Anheuser-Busch Brewery (Baldwinsville)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/anheuserbusch.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "chinabuffetma.com",
+    "match": "domain",
+    "place": "China Buffet; Sakura Sushi Buffet (Henrietta)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MA and it names neither the city nor the state of China Buffet; Sakura Sushi Buffet (Henrietta)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/chinabuffetma.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "clubsodafortwayne.com",
+    "match": "domain",
+    "place": "Club Soda (Rochester)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in IN and it names neither the city nor the state of Club Soda (Rochester)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/clubsodafortwayne.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "coltersbbq.com",
+    "match": "domain",
+    "place": "Colter's (Rochester)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in TX and it names neither the city nor the state of Colter's (Rochester)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/coltersbbq.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "saigoncafeusa.com",
+    "match": "domain",
+    "place": "Saigon Pho (Rochester)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in GA and it names neither the city nor the state of Saigon Pho (Rochester)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/saigoncafeusa.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "url": "http://www.kixonmain.com",
+    "match": "url",
+    "place": "Kix on Main (Canandaigua)",
+    "reason": "domain does not resolve: DNS lookup fails (SERVFAIL) (checked with dig @1.1.1.1)",
+    "severity": "P2",
+    "evidence": null,
+    "found": "2026-10-12",
+    "domain": "http://www.kixonmain.com"
+  },
+  {
+    "url": "http://www.wholesomewonder.com/",
+    "match": "url",
+    "place": "Wholesome Wonders (Penn Yan)",
+    "reason": "domain does not resolve: host name does not exist (NXDOMAIN) though the domain does (checked with dig @1.1.1.1)",
+    "severity": "P2",
+    "evidence": null,
+    "found": "2026-10-12",
+    "domain": "http://www.wholesomewonder.com/"
+  },
+  {
+    "domain": "guadalajaragrill.us",
+    "match": "domain",
+    "place": "El Guadalajara Grill (Hempstead)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in TX and it names neither the city nor the state of El Guadalajara Grill (Hempstead)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/guadalajaragrill.us.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "mcgrathspub.net",
+    "match": "domain",
+    "place": "McGraths Pub (Massapequa)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in PA and it names neither the city nor the state of McGraths Pub (Massapequa)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/mcgrathspub.net.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "michael-anthonys.com",
+    "match": "domain",
+    "place": "Michael Anthony's (Merrick)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in SC and it names neither the city nor the state of Michael Anthony's (Merrick)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/michael-anthonys.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "superiorpawn.com",
+    "match": "domain",
+    "place": "Super Taco (Brentwood)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in VA and it names neither the city nor the state of Super Taco (Brentwood)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/superiorpawn.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "mistersoftee.com",
+    "match": "domain",
+    "place": "Mister Softee (Center Moriches)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in NJ and it names neither the city nor the state of Mister Softee (Center Moriches)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/mistersoftee.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "littleanthonyspizzamenu.com",
+    "match": "domain",
+    "place": "Little Vincent's Pizza Restaurant (Lake Ronkonkoma)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in PA and it names neither the city nor the state of Little Vincent's Pizza Restaurant (Lake Ronkonkoma)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/littleanthonyspizzamenu.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "mooselodge109.org",
+    "match": "domain",
+    "place": "Loyal Order of Moose (Mount Sinai)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in PA and it names neither the city nor the state of Loyal Order of Moose (Mount Sinai)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/mooselodge109.org.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "countryjunctiondeli.com",
+    "match": "domain",
+    "place": "Porco's Country Deli (North Sea)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in CA and it names neither the city nor the state of Porco's Country Deli (North Sea)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/countryjunctiondeli.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "lobsterwok.com",
+    "match": "domain",
+    "place": "Lobster Wok (Riverhead)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MA and it names neither the city nor the state of Lobster Wok (Riverhead)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/lobsterwok.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "osakatogo.com",
+    "match": "domain",
+    "place": "Osaka (Shoreham)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MN and it names neither the city nor the state of Osaka (Shoreham)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/osakatogo.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "luckyfarms.com",
+    "match": "domain",
+    "place": "Lucky Farms (South Huntington)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in CA and it names neither the city nor the state of Lucky Farms (South Huntington)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/luckyfarms.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "eatatchubbys.com",
+    "match": "domain",
+    "place": "Chubby's (Wappingers Falls)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in TX and it names neither the city nor the state of Chubby's (Wappingers Falls)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/eatatchubbys.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "thegrill.com",
+    "match": "domain",
+    "place": "The Grill (Greenwood Lake)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in CA and it names neither the city nor the state of The Grill (Greenwood Lake)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/thegrill.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "gertrudehawkchocolates.com",
+    "match": "domain",
+    "place": "Gertrude Hawk (Middletown)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in PA and it names neither the city nor the state of Gertrude Hawk (Middletown)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/gertrudehawkchocolates.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "mingscc.com",
+    "match": "domain",
+    "place": "Ming's Chinese Restaurant (Middletown)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in NV and it names neither the city nor the state of Ming's Chinese Restaurant (Middletown)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/mingscc.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "firehousedelifairfield.com",
+    "match": "domain",
+    "place": "Greenville Fire House Deli (Port Jervis)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in CT and it names neither the city nor the state of Greenville Fire House Deli (Port Jervis)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/firehousedelifairfield.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "kcmasterwok.com",
+    "match": "domain",
+    "place": "Master Wok (Wallkill)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in TX and it names neither the city nor the state of Master Wok (Wallkill)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/kcmasterwok.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "cornerstonegeneseedepot.com",
+    "match": "domain",
+    "place": "Cornerstone (Congers)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in WI and it names neither the city nor the state of Cornerstone (Congers)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/cornerstonegeneseedepot.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "sorrentopizzeria.com",
+    "match": "domain",
+    "place": "Sorrento Pizza & Restaurant (Pearl River)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in TX and it names neither the city nor the state of Sorrento Pizza & Restaurant (Pearl River)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/sorrentopizzeria.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "avantipizzafreshpasta.com",
+    "match": "domain",
+    "place": "Avanti Restaurant (Pomona)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in CA and it names neither the city nor the state of Avanti Restaurant (Pomona)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/avantipizzafreshpasta.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "haciendafiesta.com",
+    "match": "domain",
+    "place": "Hacienda Restaurant (Spring Valley)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in IN and it names neither the city nor the state of Hacienda Restaurant (Spring Valley)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/haciendafiesta.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "wilsonsmarket.com",
+    "match": "domain",
+    "place": "Wilson's Market (Ellenville)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in OR and it names neither the city nor the state of Wilson's Market (Ellenville)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/wilsonsmarket.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "marketsthelena.com",
+    "match": "domain",
+    "place": "Valley Market (Jefferson Valley)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in CA and it names neither the city nor the state of Valley Market (Jefferson Valley)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/marketsthelena.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "mazzys.com",
+    "match": "domain",
+    "place": "Mazzys Bar (Mount Vernon)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in GA and it names neither the city nor the state of Mazzys Bar (Mount Vernon)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/mazzys.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "elchalanrestaurant.com",
+    "match": "domain",
+    "place": "El Chalan Restaurant (Port Chester)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in FL and it names neither the city nor the state of El Chalan Restaurant (Port Chester)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/elchalanrestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "irelands32.com",
+    "match": "domain",
+    "place": "Ireland's 32 (Yonkers)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in CA and it names neither the city nor the state of Ireland's 32 (Yonkers)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/irelands32.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "xsushiexpress.com",
+    "match": "domain",
+    "place": "X Sushi Express (Yorktown Heights)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in FL, WI and it names neither the city nor the state of X Sushi Express (Yorktown Heights)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/xsushiexpress.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "bigmikesnc.com",
+    "match": "domain",
+    "place": "Big Mikes (Gloversville)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in NC and it names neither the city nor the state of Big Mikes (Gloversville)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/bigmikesnc.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "pinositalianrestaurant.com",
+    "match": "domain",
+    "place": "Pino's Italian Restaurant (Johnstown)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in NC and it names neither the city nor the state of Pino's Italian Restaurant (Johnstown)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/pinositalianrestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "boscosbeer.com",
+    "match": "domain",
+    "place": "Bosco’s Family Restaurant (Amsterdam)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in TN and it names neither the city nor the state of Bosco’s Family Restaurant (Amsterdam)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/boscosbeer.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "acaiberryfoods.com",
+    "match": "domain",
+    "place": "Acai Berry the Amazon Boost (Manhattan)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in UK and it names neither the city nor the state of Acai Berry the Amazon Boost (Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/acaiberryfoods.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "coreysbagels.com",
+    "match": "domain",
+    "place": "B & B Bagels (Manhattan)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in IL and it names neither the city nor the state of B & B Bagels (Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/coreysbagels.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "eastsidebagel.com",
+    "match": "domain",
+    "place": "East Side Bagel & Appetizing (Manhattan)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MI and it names neither the city nor the state of East Side Bagel & Appetizing (Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/eastsidebagel.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "borikenrestaurant.com",
+    "match": "domain",
+    "place": "El Nuevo Taino (Manhattan)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in OR and it names neither the city nor the state of El Nuevo Taino (Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/borikenrestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "hearthla.com",
+    "match": "domain",
+    "place": "Hearth On The Highline (Manhattan)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in CA and it names neither the city nor the state of Hearth On The Highline (Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/hearthla.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "lafiesta.com",
+    "match": "domain",
+    "place": "La Fiesta (Manhattan)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in TX and it names neither the city nor the state of La Fiesta (Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/lafiesta.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "pizzapetes.com",
+    "match": "domain",
+    "place": "Pizza Pete's (Manhattan)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in IL and it names neither the city nor the state of Pizza Pete's (Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/pizzapetes.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "primesteakhouseaiken.com",
+    "match": "domain",
+    "place": "STK Steakhouse (Manhattan)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in SC and it names neither the city nor the state of STK Steakhouse (Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/primesteakhouseaiken.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "saboramex.com",
+    "match": "domain",
+    "place": "Sabor A Mexico (Manhattan)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in CA and it names neither the city nor the state of Sabor A Mexico (Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/saboramex.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "taishokenusa.com",
+    "match": "domain",
+    "place": "Taishoken (Manhattan)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in CA and it names neither the city nor the state of Taishoken (Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/taishokenusa.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "thehudson.nyc",
+    "match": "domain",
+    "place": "The Hudson (Manhattan)",
+    "reason": "expired, suspended or no site (auto, not hand-checked): wi:parked: quiv=\"expires\" content=\"0\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1\"> <title>account suspended</title> <link rel=\"stylesheet",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/thehudson.nyc.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "tottoramen.com",
+    "match": "domain",
+    "place": "Toribro Ramen (Manhattan)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MA and it names neither the city nor the state of Toribro Ramen (Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/tottoramen.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "bluemountainfarm.com",
+    "match": "domain",
+    "place": "Blue Mountain (Brooklyn)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in IL and it names neither the city nor the state of Blue Mountain (Brooklyn)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/bluemountainfarm.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "chinamoonrestaurant.com",
+    "match": "domain",
+    "place": "China Moon (Brooklyn)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in CA and it names neither the city nor the state of China Moon (Brooklyn)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/chinamoonrestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "kingwokftworth.com",
+    "match": "domain",
+    "place": "King Wok (Brooklyn)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in TX and it names neither the city nor the state of King Wok (Brooklyn)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/kingwokftworth.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "kingstonpizza.com",
+    "match": "domain",
+    "place": "Kingston Pizza (Brooklyn); Kingston Pizza Kosher (Brooklyn)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in RI and it names neither the city nor the state of Kingston Pizza (Brooklyn); Kingston Pizza Kosher (Brooklyn)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/kingstonpizza.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "lennyspizzaandpasta.com",
+    "match": "domain",
+    "place": "Lenny's Pizza (Brooklyn)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in NJ and it names neither the city nor the state of Lenny's Pizza (Brooklyn)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/lennyspizzaandpasta.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "mikadova.com",
+    "match": "domain",
+    "place": "Mikado (Brooklyn)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in VA and it names neither the city nor the state of Mikado (Brooklyn)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/mikadova.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "tacoselbrother.com",
+    "match": "domain",
+    "place": "Tacos El Brother (Brooklyn)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in CA and it names neither the city nor the state of Tacos El Brother (Brooklyn)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/tacoselbrother.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "thebrothersdeli.com",
+    "match": "domain",
+    "place": "The Brothers Bagels (Brooklyn)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MN and it names neither the city nor the state of The Brothers Bagels (Brooklyn)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/thebrothersdeli.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "vitosbakery.net",
+    "match": "domain",
+    "place": "Vito's Bakery and Grocery (Brooklyn)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MI and it names neither the city nor the state of Vito's Bakery and Grocery (Brooklyn)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/vitosbakery.net.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "kababcafe.com",
+    "match": "domain",
+    "place": "Ali's Kabab Cafe (Queens)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in PA and it names neither the city nor the state of Ali's Kabab Cafe (Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/kababcafe.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "coffeestoryco.com",
+    "match": "domain",
+    "place": "Coffee Story (Queens)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in CO and it names neither the city nor the state of Coffee Story (Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/coffeestoryco.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "elcoyotecincy.com",
+    "match": "domain",
+    "place": "El Coyote (Queens)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in OH and it names neither the city nor the state of El Coyote (Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/elcoyotecincy.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "gildas-restaurant.com",
+    "match": "domain",
+    "place": "Gilda's (Queens)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in CA and it names neither the city nor the state of Gilda's (Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/gildas-restaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "golden-chopsticks.com",
+    "match": "domain",
+    "place": "Golden Chopstick Chinese Food (Queens)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in OH and it names neither the city nor the state of Golden Chopstick Chinese Food (Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/golden-chopsticks.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "happykitchenal.com",
+    "match": "domain",
+    "place": "Happy Kitchen (Queens)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in AL and it names neither the city nor the state of Happy Kitchen (Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/happykitchenal.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "paulsmarketdeli.com",
+    "match": "domain",
+    "place": "Paul's Market (Queens)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MO and it names neither the city nor the state of Paul's Market (Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/paulsmarketdeli.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "rosascafe.com",
+    "match": "domain",
+    "place": "Rosa Coffee Shop (Queens)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in TX and it names neither the city nor the state of Rosa Coffee Shop (Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/rosascafe.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "royalpizza.ca",
+    "match": "domain",
+    "place": "Royal Pizza (Queens)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in Canada and it names neither the city nor the state of Royal Pizza (Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/royalpizza.ca.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "skymusiclounge.com",
+    "match": "domain",
+    "place": "Sky Lounge (Queens)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MO and it names neither the city nor the state of Sky Lounge (Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/skymusiclounge.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "skylon.com",
+    "match": "domain",
+    "place": "Skylon Tower Revolving Dining Room (Queens)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in Canada and it names neither the city nor the state of Skylon Tower Revolving Dining Room (Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/skylon.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "witchtopokki.com",
+    "match": "domain",
+    "place": "Witch Topokki (Queens)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MI and it names neither the city nor the state of Witch Topokki (Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/witchtopokki.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "anheuser-busch.com",
+    "match": "domain",
+    "place": "Anheuser-Busch (Bronx)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MO and it names neither the city nor the state of Anheuser-Busch (Bronx)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/anheuser-busch.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "dragonvillagerestaurant.com",
+    "match": "domain",
+    "place": "Dragon Village (Bronx)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in AZ and it names neither the city nor the state of Dragon Village (Bronx)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/dragonvillagerestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "giovannispizzapower.com",
+    "match": "domain",
+    "place": "Giovanni's Pizza (Bronx)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in KY and it names neither the city nor the state of Giovanni's Pizza (Bronx)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/giovannispizzapower.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "grillhouse.net",
+    "match": "domain",
+    "place": "Grill House (Bronx)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MI and it names neither the city nor the state of Grill House (Bronx)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/grillhouse.net.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "gustitoslatinobronx.com",
+    "match": "domain",
+    "place": "Gustitos Latino Restaurant (Bronx)",
+    "reason": "domain does not resolve: domain is not registered (NXDOMAIN) (checked with dig @1.1.1.1)",
+    "severity": "P2",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "missuenosrestaurant.com",
+    "match": "domain",
+    "place": "Mi Sueno (Bronx)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in WI and it names neither the city nor the state of Mi Sueno (Bronx)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/missuenosrestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "cafelunanyc.com",
+    "match": "domain",
+    "place": "Cafe Luna (Staten Island)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in NJ and it names neither the city nor the state of Cafe Luna (Staten Island)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/cafelunanyc.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "miyabiasianfusion.com",
+    "match": "domain",
+    "place": "Miyabi II Asian Fusion (Staten Island)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in TX and it names neither the city nor the state of Miyabi II Asian Fusion (Staten Island)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/miyabiasianfusion.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "amvets.org",
+    "match": "domain",
+    "place": "Malone Amvets Malone Post No. 8 (Malone)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MD, PA and it names neither the city nor the state of Malone Amvets Malone Post No. 8 (Malone)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/amvets.org.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "foe.com",
+    "match": "domain",
+    "place": "Eagles Club (Watertown)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in OH and it names neither the city nor the state of Eagles Club (Watertown)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/foe.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "dragonhousemma.com",
+    "match": "domain",
+    "place": "Dragon House (Lowville)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in CA and it names neither the city nor the state of Dragon House (Lowville)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/dragonhousemma.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "hendels.com",
+    "match": "domain",
+    "place": "Hendels (Lyons Falls)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in AZ and it names neither the city nor the state of Hendels (Lyons Falls)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/hendels.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "casablanca-restaurant.com",
+    "match": "domain",
+    "place": "Casa Blanca (Gouverneur)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in MA and it names neither the city nor the state of Casa Blanca (Gouverneur)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/casablanca-restaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "losurdofoods.com",
+    "match": "domain",
+    "place": "Losurdo Creamery (Heuvelton)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in NJ and it names neither the city nor the state of Losurdo Creamery (Heuvelton)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/losurdofoods.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "maryskitchenvb.com",
+    "match": "domain",
+    "place": "Mary's Bar & Lounge (Binghamton)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in VA and it names neither the city nor the state of Mary's Bar & Lounge (Binghamton)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/maryskitchenvb.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "chinachef.org",
+    "match": "domain",
+    "place": "China Chef (Endicott)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in IL and it names neither the city nor the state of China Chef (Endicott)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/chinachef.org.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "samsplacetavern.com",
+    "match": "domain",
+    "place": "Sam's Place (Endicott)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in OR and it names neither the city nor the state of Sam's Place (Endicott)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/samsplacetavern.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "lasbrasasdecatur.com",
+    "match": "domain",
+    "place": "Las Brasas Grill Mexican Restaurant (Wellsville)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in GA and it names neither the city nor the state of Las Brasas Grill Mexican Restaurant (Wellsville)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/lasbrasasdecatur.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "chinakitchenmadison.com",
+    "match": "domain",
+    "place": "China Jade Kitchen (Cheektowaga)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in WI and it names neither the city nor the state of China Jade Kitchen (Cheektowaga)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/chinakitchenmadison.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "itgo.com",
+    "match": "domain",
+    "place": "China One (Lancaster)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in AL and it names neither the city nor the state of China One (Lancaster)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/itgo.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "marinerslanding.com",
+    "match": "domain",
+    "place": "Mariner's Landing (Olcott)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in VA and it names neither the city nor the state of Mariner's Landing (Olcott)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/marinerslanding.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "url": "https://www.elks.org/lodges/home.cfm",
+    "match": "url",
+    "place": "Elks Lodge Centereach (Centereach)",
+    "reason": "another business (auto, not hand-checked): the site's addresses are in IL and it names neither the city nor the state of Elks Lodge Centereach (Centereach)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/elks.org_lodges_home.cfm.html",
+    "found": "2026-10-12",
+    "domain": "https://www.elks.org/lodges/home.cfm"
+  },
+  {
+    "domain": "cafecityguide.website",
+    "match": "domain",
+    "place": "New York Pizzeria (Union Springs); The Casbah - Halal Cart (Manhattan)",
+    "reason": "listing farm or directory, not the place's own site: auto-generated restaurant listing pages ('<name> - <city> - Full Menu, Reviews, Photos'), not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "cafesplanet.com",
+    "match": "domain",
+    "place": "Gotham Cafe (Manhattan); Mary's White Pine Bakery (Inlet); Sake Sushi (Brooklyn)",
+    "reason": "listing farm or directory, not the place's own site: auto-generated restaurant listing pages ('<name> - <city> - Full Menu, Reviews, Photos'), not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "mybistro.online",
+    "match": "domain",
+    "place": "Fishmarket II (Manhattan); Giuseppina's (Brooklyn); Kiki's (Manhattan); La Boina Roja Steak House (Queens); Mechanicville House of Pizza (Mechanicville); New Fortune House (Deer Park) (+3 more)",
+    "reason": "listing farm or directory, not the place's own site: auto-generated restaurant listing pages ('<name> - <city> - Full Menu, Reviews, Photos'), not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "gastro-america.com",
+    "match": "domain",
+    "place": "Bedouin Tent (Brooklyn); Best Bagels In Town (Endicott); Big Daddy's Of Rome (Rome); China Lake (Endwell); Chung Moo Rollrice & Dongas (Queens); Leche y Miel Restaurant (Bronx) (+5 more)",
+    "reason": "listing farm or directory, not the place's own site: auto-generated restaurant listing pages ('<name> - <city> - Full Menu, Reviews, Photos'), not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "bestcafes.online",
+    "match": "domain",
+    "place": "Ba Xuyen (Brooklyn); Gotham Pizza (Manhattan); Great Taste Dumpling (Brooklyn); Marino's Pizza (Saratoga Springs); Shanghai Heping Restaurant (Manhattan); Zhu Ji Dumpling House (Queens)",
+    "reason": "listing farm or directory, not the place's own site: auto-generated restaurant listing pages ('<name> - <city> - Full Menu, Reviews, Photos'), not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "four-food.com",
+    "match": "domain",
+    "place": "Pioneer Patio (Cooperstown)",
+    "reason": "listing farm or directory, not the place's own site: listing pages (<place>.four-food.com: menu/photos/business info), not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "openingtimes.co",
+    "match": "domain",
+    "place": "Bev's Dairy Treat (Oswego); Good Life Tavern (Camden); Griffin's Irish Pub (Buffalo); Howies E (Ogdensburg); Meadowbrook Restaurant and Bar (Derby); Mugshotz Tavern (North Syracuse) (+2 more)",
+    "reason": "listing farm or directory, not the place's own site: opening-hours directory, not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "whereyoueat.com",
+    "match": "domain",
+    "place": "Brooklyn's Finest Pizza (Staten Island); El Malecon (Brooklyn); Foo Sing (Staten Island); Island Kitchen Chinese (Staten Island); Jade Island (Staten Island); La cholita Mexicana Restaurant & Coffee Shop (Brooklyn) (+3 more)",
+    "reason": "listing farm or directory, not the place's own site: dining directory page, not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "cyrusramsey.com",
+    "match": "domain",
+    "place": "Broad Street Pub (Waverly); Country Gals Cafe (Cambridge); Mandy's Bar & Grill (Mount Vision)",
+    "reason": "listing farm or directory, not the place's own site: food blog/directory place pages, not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "buzzfile.com",
+    "match": "domain",
+    "place": "Caffe Rustico (Queens); Four Corner Deli (Central Islip)",
+    "reason": "listing farm or directory, not the place's own site: business-directory profile pages (one 'Four Corners Deli' link lands on another company's profile), not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "untappd.com",
+    "match": "domain",
+    "place": "Alkies Tap Room & Bottle Shop (Massena); The Brewery of Broken Dreams (Hammondsport)",
+    "reason": "listing farm or directory, not the place's own site: beer-app venue page, not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "beermenus.com",
+    "match": "domain",
+    "place": "Augurs Well (Manhattan); Deacon Brodie's Tavern (Manhattan); Nostrand Avenue Pub (Brooklyn); Union Street Pub (Brooklyn); Union Whiskey (Olean)",
+    "reason": "listing farm or directory, not the place's own site: beer-menu directory page, not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "iloveny.com",
+    "match": "domain",
+    "place": "Bear Mountain Inn (Bear Mountain); Bella Regina (Utica); Broadway Gourmet Bagel Cafe & Caterers (North Massapequa); Joe & Pat's Pizzeria (Staten Island); Mama's Boy Burgers (Tannersville); The Krebs (Skaneateles) (+1 more)",
+    "reason": "listing farm or directory, not the place's own site: state tourism directory listing, not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "eater.com",
+    "match": "domain",
+    "place": "Brooklyn Ice House (Brooklyn)",
+    "reason": "listing farm or directory, not the place's own site: press/venue page on Eater, not the place's own site",
+    "severity": "P3",
+    "evidence": null,
+    "found": "2026-10-12"
   }
 ]

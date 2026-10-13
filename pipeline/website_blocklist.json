@@ -223,5 +223,347 @@
     "severity": "P2",
     "evidence": "$SP/work/link-scan/evidence/ny/theotherplace.com.html",
     "found": "2026-10-12"
+  },
+  {
+    "domain": "islandbagelbar.com",
+    "match": "domain",
+    "place": "Island Bagel Bar (Lawrence)",
+    "reason": "injected links: link \"zahraničné online casino\" to vitasirup.sk (Slovak casino SEO)",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/islandbagelbar.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "bagelbuzzwestislip.com",
+    "match": "domain",
+    "place": "Bagel Buzz (West Islip)",
+    "reason": "injected hidden links: zero-width block of Turkish casino and porn links (vaycasino, jojobet, casibom, uzuk.org \"porno izle\")",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/bagelbuzzwestislip.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "essencebar.com",
+    "match": "domain",
+    "place": "Essence Bar and Grill (Brooklyn)",
+    "reason": "injected hidden links: clipped 1px block linking legalskazino.com \"legālo kazino\" (Latvian casino)",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/essencebar.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "hibiscusbrew.co",
+    "match": "domain",
+    "place": "Hibiscus Brew (Brooklyn)",
+    "reason": "injected hidden links: off-screen anchor (top/left:-9999px) \"mostbet\" to fermetal.com.tr",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/hibiscusbrew.co.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "matizlatincuisine.com",
+    "match": "domain",
+    "place": "Matiz Latin Cuisine (Queens)",
+    "reason": "injected hidden links: off-screen (left:-9999px) Indonesian togel link farm (kaostogel, tartoto login...)",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/matizlatincuisine.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "onceuponasundae.com",
+    "match": "domain",
+    "place": "Once Upon A Sundae (Rockville Centre)",
+    "reason": "injected hidden links: zero-size and off-screen blocks of replica-watch links (watchesbuy.to, ufrgs.br \"rolex replica watches\")",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/onceuponasundae.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "georgiosvillagecafe.com",
+    "match": "domain",
+    "place": "Georgio's Village Cafe (New Hartford)",
+    "reason": "injected hidden links: off-screen (left:-7984px) link \"online pokies\" (greenwoodscafe.co.nz)",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/georgiosvillagecafe.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "balvaneranyc.com",
+    "match": "domain",
+    "place": "Balvanera (Manhattan)",
+    "reason": "domain taken over: domain is now an Italian recipe blog with Hungarian casino and OnlyFans spam posts",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/balvaneranyc.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "terremotocoffee.com",
+    "match": "domain",
+    "place": "Terremoto Coffee (Manhattan)",
+    "reason": "injected hidden links: off-screen (left:-7248px) betting links: iplay77-au.bet, unitiate.ca \"sports betting sites\"",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/terremotocoffee.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "dumplinggalaxynyc.com",
+    "match": "domain",
+    "place": "Dumpling Galaxy (Queens)",
+    "reason": "domain taken over: domain now promotes Indonesian \"agen138\" gambling (\"play with agen138 official partnership\")",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/dumplinggalaxynyc.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "villaparadisorestaurant.com",
+    "match": "domain",
+    "place": "Villa Paradiso Ristorante Italiano (Staten Island)",
+    "reason": "injected hidden links: off-screen (left:-7566px) link to casinotest2.com (same campaign as Goody's)",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/villaparadisorestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "hydraulichearth.com",
+    "match": "domain",
+    "place": "Hydraulic Hearth (Buffalo)",
+    "reason": "injected hidden links: off-screen (top:-9321px) link \"buy essay\" (buy2essays.com)",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/hydraulichearth.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "bocachicarestaurant.com",
+    "match": "domain",
+    "place": "Boca Chica (Queens)",
+    "reason": "another business: Boca Chica Restaurante y Cantina, Minnesota (not Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/bocachicarestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "littlehavanas.com",
+    "match": "domain",
+    "place": "Little Havana Restaurant (Manhattan)",
+    "reason": "another business: Little Havana, Maryland (not Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/littlehavanas.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "chinawokwvtogo.com",
+    "match": "domain",
+    "place": "China Wok (Rochester)",
+    "reason": "another business: China Wok, West Virginia (not Rochester, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/chinawokwvtogo.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "jimmyspizza.com",
+    "match": "domain",
+    "place": "Jimmy's Pizza (Centerport)",
+    "reason": "another business: Jimmy's Pizza, Minnesota (not Centerport, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/jimmyspizza.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "elsabordemitierra.net",
+    "match": "domain",
+    "place": "El Sabor de mi Tierra (New Rochelle)",
+    "reason": "another business: El Sabor de mi Tierra, Colorado (not New Rochelle, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/elsabordemitierra.net.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "tacosrevo.com",
+    "match": "domain",
+    "place": "Taqueria Revolucion (Queens)",
+    "reason": "another business: Taqueria Revolucion in California (for the Queens taqueria)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/tacosrevo.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "lasdeliciasmexicanas.com",
+    "match": "domain",
+    "place": "Las Delicias Mexicanas (Manhattan)",
+    "reason": "another business: Mexican candy gift shop, Texas (for the Manhattan restaurant)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/lasdeliciasmexicanas.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "nutcrackerfamilyrestaurant.com",
+    "match": "domain",
+    "place": "The Nutcracker (Webster)",
+    "reason": "another business: Nutcracker Family Restaurant, Ohio (not Webster, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/nutcrackerfamilyrestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "lakesiderestaurant.info",
+    "match": "domain",
+    "place": "Lakeside Restaurant (Ontario)",
+    "reason": "another business: Lakeside Restaurant, North Carolina (not Ontario, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/lakesiderestaurant.info.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "luckyhousepeabodyma.com",
+    "match": "domain",
+    "place": "Lucky House (Schenectady)",
+    "reason": "another business: Lucky House, Peabody, MA (not Schenectady)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/luckyhousepeabodyma.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "edithmaecoffee.com",
+    "match": "domain",
+    "place": "Edith Mae Café (Hogansburg)",
+    "reason": "another business: Edith Mae Coffee with a California address (not Hogansburg, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/edithmaecoffee.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "westenddelipizza.com",
+    "match": "domain",
+    "place": "West End Deli And Pizza (Hempstead)",
+    "reason": "another business: West End Deli & Pizza with a California address (not Hempstead, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/westenddelipizza.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "chinatanglondon.co.uk",
+    "match": "domain",
+    "place": "New China (Brooklyn)",
+    "reason": "another business: China Tang at the Dorchester, London (for New China, Brooklyn)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/chinatanglondon.co.uk.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "thecountryclubdiner.com",
+    "match": "domain",
+    "place": "Country Club Diner (Rochester)",
+    "reason": "another business: Country Club Diner, Philadelphia, PA (not Rochester, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/thecountryclubdiner.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "mojitocafe.net",
+    "match": "domain",
+    "place": "Mojito Cafe and Lounge (Baxter Estates)",
+    "reason": "another business: Mojito Cafe, Georgia (not Baxter Estates, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/mojitocafe.net.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "kellyspub.com",
+    "match": "domain",
+    "place": "Kelly's Pub (Queens)",
+    "reason": "another business: Kelly's Pub with an Illinois address (not Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/kellyspub.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "greatwallrestaurant.us",
+    "match": "domain",
+    "place": "New Great Wall (Brooklyn)",
+    "reason": "another business: Great Wall, Minneapolis (for New Great Wall, Brooklyn)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/greatwallrestaurant.us.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "twobrotherspizza.com",
+    "match": "domain",
+    "place": "Tetaj Brothers Pizzeria (Bronx)",
+    "reason": "another business: Two Brothers Pizza, Massachusetts (for Tetaj Brothers Pizzeria, Bronx)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/twobrotherspizza.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "borinquenbakery.com",
+    "match": "domain",
+    "place": "Borinquen Bakery (Rochester)",
+    "reason": "another business: Borinquen Bakery, New Jersey (not Rochester, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/borinquenbakery.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "trappersbarandgrill.net",
+    "match": "domain",
+    "place": "Trapper's (Memphis)",
+    "reason": "another business: Trappers Bar and Grill, Minnesota (not Memphis, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/trappersbarandgrill.net.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "shamrockboats.com",
+    "match": "domain",
+    "place": "Shamrock (Halesite)",
+    "reason": "another business: Shamrock Boats, Florida boat builder (for Shamrock, Halesite, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/shamrockboats.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "punjabichaapcorner.us",
+    "match": "domain",
+    "place": "Punjabi Chaap Hicksville (Hicksville)",
+    "reason": "another business: Punjabi Chaap Corner with Canadian addresses (not Hicksville, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/punjabichaapcorner.us.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "tinnelspatties.com",
+    "match": "domain",
+    "place": "Tinnels Patties (Baldwin)",
+    "reason": "another business: Tinnel's Patties, Toronto (not Baldwin, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/tinnelspatties.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "littlewaysnyc.com",
+    "match": "domain",
+    "place": "Little Ways (Manhattan)",
+    "reason": "another business: redirects to Good Company (goodcompanysoho.com), a different bar",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/littlewaysnyc.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "yakisushius.com",
+    "match": "domain",
+    "place": "Yaki Sushi (Manhattan)",
+    "reason": "another business: Yaki Sushi, Virginia (not Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/yakisushius.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "albertinakerr.org",
+    "match": "domain",
+    "place": "Albertina Restaurant (Freeport)",
+    "reason": "another business: Albertina Kerr, Oregon nonprofit (for Albertina Restaurant, Freeport, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/albertinakerr.org.html",
+    "found": "2026-10-12"
   }
 ]

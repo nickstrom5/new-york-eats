@@ -17,7 +17,7 @@ shared #p= link opens the place on a cold load; a NYSDOH place quotes NYSDOH's d
 place shows "violations cited in 2025"; an Erie place says there's no inspection data; an emoji search lists nothing; Near me sorts by
 distance; Back closes a place; the phone panel is a modal dialog and the desktop panel covers no control; search rules shared with the
 app ("dim sum in flushing", "pizza near me", "route 9", "bleecker street", "flushing"); a search for a town in another region moves
-there; #g=constructor; the skip link; rank numbers only on ranking sorts; Confirmed only / Hide chains keep hand-checked places;
+there; #g=constructor; the skip link; rank numbers only on ranking sorts; High-confidence only / Hide chains keep hand-checked places;
 Featured order from outside New York; the map draws the state and the dots, a slow drag opens nothing, stacked dots open a chooser;
 no layout shift while the list loads; a dish search ("riggies", "spiedies", "tomato pie") lists that dish and offers the region that
 has it; saved places stay under the nye- localStorage prefix (nickstrom5.github.io is shared by every state's site).
@@ -36,6 +36,11 @@ Round 3 (2026-10-12): no website on pipeline/website_blocklist.json (hacked, exp
 missing or empty list fails (check_blocklist); a search inside a guide that finds nothing ("carbone" in Slices) offers "Search all
 restaurants" with a count the list then keeps, and one tap finds the place; a famous place in another region ("anchor bar" from New
 York City) is offered in its region; the search field's placeholder fits, uncut, at phone widths from 320 to 430 px and at 1280.
+Copy decisions (Nick, 2026-10-13; check_copy_decisions): the label is "High-confidence listing", so "Confirmed listing" (any case) appears
+nowhere in docs/ and the web app's tier label is the new one; the filter is "High-confidence only", so no "Confirmed only" either; nothing promises a TestFlight invite or link (only Nick's internal
+TestFlight group exists): no "we'll/you'll ... invite/TestFlight/beta", no "send you an invite/link", no "early access is by invite", no
+"ask for an invite and try it", no "a TestFlight invite/link" in the copy, no "Get early access" (the button asks: "Ask for early
+access").
 
 Usage: .venv/bin/python scripts/qa-site.py      (serves docs/ itself on a free localhost port; exits 1 on any problem)
   QA_DOCS=<dir>   check another copy of docs/ (used to confirm that each check can fail)
@@ -395,6 +400,17 @@ def check_blocklist(problems):
 OLD_EMAIL, EMAIL = "work-with-nick@gmail.com", "nick@eatsranked.com"   # Nick, 2026-10-12: the site's contact is nick@eatsranked.com
 FAMILY = 'Part of <a href="https://eatsranked.com/">Eats Ranked</a>, restaurant apps state by state.'
 PARENT = {"@type": "Organization", "@id": "https://eatsranked.com/#organization", "name": "Eats Ranked", "url": "https://eatsranked.com/"}
+# Nick, 2026-10-13: "High-confidence listing", never "Confirmed listing"; and the site promises no TestFlight invite or link (only his
+# internal TestFlight group exists), so the early-access copy ends at an ask ("Ask for early access")
+OLD_LABEL = re.compile(r"confirmed\s+listing", re.I)
+NEW_LABEL = "High-confidence listing"
+OLD_FILTER = re.compile(r"\bconfirmed\s+only\b", re.I)   # the web app's filter is "High-confidence only" (code comments may still say "confirmed")
+PROMISES = [re.compile(r"\b(we'll|we will|we'd|we would|you'll|you will|you'd|you would)\b[^.]{0,60}\b(invites?|invitations?|testflight|beta)\b", re.I),
+            re.compile(r"\b(send|email|text|mail)(s|ing)? you\b[^.]{0,40}\b(invites?|invitations?|testflight|beta|link)\b", re.I),
+            re.compile(r"\bget (early access|an? (testflight|beta|invite|invitation)|the (testflight|beta)( (link|build|app))?|invited)\b", re.I),
+            re.compile(r"\b(early access|access|testflight|the beta)\b[^.]{0,20}\bby invit(e|ation)\b", re.I),   # "early access is by invite"
+            re.compile(r"\bask for\b[^.]{0,40}\band (then )?(try|get|use|download|install)\b", re.I),         # "ask for an invite and try it"
+            re.compile(r"\btestflight\s+(invit|link)", re.I)]   # offering "a TestFlight invite/link" (a mailto body is %20-encoded, so it's left alone)
 UPSTATE_WORDS = {"Riggies": ["riggies", "greens"], "Spiedies": ["spiedie"], "Half-Moons": ["half-moon"]}
 TITLE_WORDS = {"Slices": ["slice", "buffalo pizza", "tomato pie"], "Bagels": ["bagel", "deli", "appetizing"], "Wings": ["wings", "beef on weck"],
                "Hots": ["hots", "plate"], "Dim Sum": ["dim sum"], **UPSTATE_WORDS}
@@ -406,6 +422,30 @@ def page_meta(doc):
     canon = (re.search(r'<link rel="canonical" href="([^"]+)"', doc) or [None, None])[1]
     og = (re.search(r'<meta property="og:url" content="([^"]+)"', doc) or [None, None])[1]
     return title, desc, canon, og
+
+
+def check_copy_decisions(problems):
+    """Nick's 2026-10-13 copy decisions, over every text file in docs/ (pages, attributes, JSON-LD, the web app's code and data; entities
+    decoded and curly apostrophes straightened, so "we&#39;ll" and "we’ll" count): no "Confirmed listing", the web app's tier label is
+    "High-confidence listing", and nothing promises a TestFlight invite or link."""
+    for d, _, files in os.walk(DOCS):
+        for x in files:
+            if not x.endswith((".html", ".json", ".txt", ".xml", ".webmanifest", ".js", ".css")):
+                continue
+            f = os.path.join(d, x)
+            rel = os.path.relpath(f, DOCS)
+            t = H.unescape(open(f, encoding="utf-8", errors="replace").read()).replace("\u2019", "'")
+            if OLD_LABEL.search(t):
+                problems.append(f"{rel}: says \"Confirmed listing\" (the label is \"{NEW_LABEL}\")")
+            if OLD_FILTER.search(t):
+                problems.append(f"{rel}: says \"Confirmed only\" (the web app's filter is \"High-confidence only\")")
+            for rx in PROMISES:
+                m = rx.search(t)
+                if m:
+                    problems.append(f"{rel}: promises a TestFlight invite or early access: {m.group(0)!r} (the copy ends at an ask)")
+    js = open(os.path.join(DOCS, "explore", "index.html"), encoding="utf-8").read()
+    if not re.search(r'const TIER = \{[^}]*1: "' + re.escape(NEW_LABEL) + '"', js):
+        problems.append(f"explore/index.html: the place panel's tier label isn't \"{NEW_LABEL}\"")
 
 
 def check_site_seo(data, problems):
@@ -1001,11 +1041,11 @@ def check_explore(page, base, width, data, problems, errors):
     if bad_rows:
         problems.append(f"{where}: list rows show a grade without its date ({bad_rows[:2]})")
 
-    # 15. "Confirmed only" keeps hand-checked places; "Hide chains" keeps hand-checked originals
+    # 15. "High-confidence only" keeps hand-checked places; "Hide chains" keeps hand-checked originals
     slices = data.guide_ids(GUIDE_KINDS["new-york-pizza-slices.html"][1])
     fresh("g=slices&r=all&conf=1")
     if len(all_rows(page)) != len(slices):
-        problems.append(f"{where}: Confirmed only drops hand-checked slice places ({len(rows(page))} of {len(slices)})")
+        problems.append(f"{where}: High-confidence only drops hand-checked slice places ({len(rows(page))} of {len(slices)})")
     fresh("g=slices&r=all&chains=1")
     want = {key(r) for r in data.guides if r["id"] in slices and not (r["ch"] >= 5 and not (r["hc"] == 1 and not r["br"]))}
     if {r["key"] for r in all_rows(page)} != want:
@@ -1156,6 +1196,7 @@ def main():
     check_static_guides(data, problems)
     check_static_pages(data, problems)
     check_site_seo(data, problems)
+    check_copy_decisions(problems)
     check_copy_claims(data, problems)
     check_blocklist(problems)
     if SHOTS:

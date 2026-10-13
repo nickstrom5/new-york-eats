@@ -302,7 +302,7 @@
     }
     current = list();
     if (!current.length && followTown()) return;   // nothing here, and the search names a town elsewhere: go there
-    const filters = [st.town && `in ${st.town}`, st.cuisine && st.cuisine, st.chains && "no chains", st.conf && "confirmed only"].filter(Boolean);
+    const filters = [st.town && `in ${st.town}`, st.cuisine && st.cuisine, st.chains && "no chains", st.conf && "high-confidence only"].filter(Boolean);
     const where = st.g === "saved" ? "" : ` · ${st.r === "all" ? "all of New York" : regionName(st.r)}`;
     // "Nearest" before there's a fix (asking, denied, timed out) is the Featured order: the label says so, not "Nearest"
     const label = o === "nearest" && !here ? (g.needsHere ? "no location yet" : "Featured first (no location yet)") : SORT_LABEL[o];
@@ -412,7 +412,7 @@
   // ---------------------------------------------------------------- place panel (PlaceDetailView.swift)
   const JUR_LIST = { 1: "NYC Health Department (DOHMH) restaurant permits", 2: "New York State Department of Health food service permits",
     3: "Suffolk County Department of Health Services inspections", 4: "City of Buffalo restaurant licenses", 5: "New York State Liquor Authority licenses" };
-  const TIER = { 2: "On an official list", 1: "Confirmed listing", 0: "Listing only" };
+  const TIER = { 2: "On an official list", 1: "High-confidence listing", 0: "Listing only" };   // the family wording (Nick, 2026-10-13)
   const CHECKED = "checked in October 2026 against a 2025 or 2026 source";
   // NYSDOH's own words, quoted verbatim wherever its counts appear, and ours
   const NYSDOH_DISCLAIMER = "Any use of this data to develop a restaurant grading system is not supported or endorsed by the New York State Department of Health.";

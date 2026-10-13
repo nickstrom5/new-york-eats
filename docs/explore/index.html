@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" data-base="/new-york-eats">
 <head>
-<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'sha256-z8GxiZsuD0/gSxJn4KPj7JaHOSAJZ/SRXznwS1+cGzo='; style-src 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'sha256-YaxOKUOmKjX6sVq94iAxyl2+aGd6JjX+27KHQp+E8Ww='; style-src 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>New York Restaurant Search: NYC Grades, Slices &amp; Bagels</title>
@@ -379,7 +379,7 @@
         <select id="ex-town" aria-label="City, town or borough" disabled><option value="">All towns</option></select>
         <select id="ex-cuisine" aria-label="Kind of place" disabled><option value="">All kinds</option></select>
         <label><input type="checkbox" id="ex-chains" disabled> Hide chains</label>
-        <label><input type="checkbox" id="ex-conf" disabled> Confirmed only</label>
+        <label><input type="checkbox" id="ex-conf" disabled> High-confidence only</label>
         <button type="button" id="ex-clear" class="ex-small" hidden>Clear filters</button>
         <div class="ex-view" role="group" aria-label="View"><button type="button" data-v="list" aria-pressed="true" disabled>List</button><button type="button" data-v="map" aria-pressed="false" disabled>Map</button></div>
       </div>
@@ -394,7 +394,7 @@
       <div id="ex-chooser" class="ex-chooser" role="dialog" aria-labelledby="ex-chooser-h" hidden></div>
       <p id="ex-maphint"></p>
     </div>
-    <p class="fine">Confirmed = on an official list (an NYC Health Department or state food service permit, a Suffolk inspection, a Buffalo or liquor license), a high-confidence map listing, or hand-checked by us. Gas-station and grocery counters and other non-restaurants are left out. NYC letter grades are the Health Department's own, with their dates; outside New York City there is no official grade, and this site doesn't make one. County outlines: U.S. Census Bureau. See also <a href="/new-york-eats/new-york-oldest-restaurants.html">New York's oldest restaurants</a>.</p>
+    <p class="fine">High-confidence only keeps places on an official list (an NYC Health Department or state food service permit, a Suffolk inspection, a Buffalo or liquor license), high-confidence map listings and places we checked by hand. Gas-station and grocery counters and other non-restaurants are left out. NYC letter grades are the Health Department's own, with their dates; outside New York City there is no official grade, and this site doesn't make one. County outlines: U.S. Census Bureau. See also <a href="/new-york-eats/new-york-oldest-restaurants.html">New York's oldest restaurants</a>.</p>
   </div>
   <div id="ex-panel" class="ex-panel" role="complementary" aria-labelledby="ex-pname" hidden></div>
   </main>
@@ -705,7 +705,7 @@ window.APP_STORE_URL = "";
     }
     current = list();
     if (!current.length && followTown()) return;   // nothing here, and the search names a town elsewhere: go there
-    const filters = [st.town && `in ${st.town}`, st.cuisine && st.cuisine, st.chains && "no chains", st.conf && "confirmed only"].filter(Boolean);
+    const filters = [st.town && `in ${st.town}`, st.cuisine && st.cuisine, st.chains && "no chains", st.conf && "high-confidence only"].filter(Boolean);
     const where = st.g === "saved" ? "" : ` · ${st.r === "all" ? "all of New York" : regionName(st.r)}`;
     // "Nearest" before there's a fix (asking, denied, timed out) is the Featured order: the label says so, not "Nearest"
     const label = o === "nearest" && !here ? (g.needsHere ? "no location yet" : "Featured first (no location yet)") : SORT_LABEL[o];
@@ -815,7 +815,7 @@ window.APP_STORE_URL = "";
   // ---------------------------------------------------------------- place panel (PlaceDetailView.swift)
   const JUR_LIST = { 1: "NYC Health Department (DOHMH) restaurant permits", 2: "New York State Department of Health food service permits",
     3: "Suffolk County Department of Health Services inspections", 4: "City of Buffalo restaurant licenses", 5: "New York State Liquor Authority licenses" };
-  const TIER = { 2: "On an official list", 1: "Confirmed listing", 0: "Listing only" };
+  const TIER = { 2: "On an official list", 1: "High-confidence listing", 0: "Listing only" };   // the family wording (Nick, 2026-10-13)
   const CHECKED = "checked in October 2026 against a 2025 or 2026 source";
   // NYSDOH's own words, quoted verbatim wherever its counts appear, and ours
   const NYSDOH_DISCLAIMER = "Any use of this data to develop a restaurant grading system is not supported or endorsed by the New York State Department of Health.";

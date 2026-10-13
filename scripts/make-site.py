@@ -45,7 +45,7 @@ TAGLINE = "Statewide slice & bagel guide"
 # the public contact address (Nick, 2026-10-12: Cloudflare Email Routing on eatsranked.com). The app's About screen and the App Store
 # listing still carry the old address until the next build (NewYorkEats/App/Links.swift, scripts/listing-copy.py).
 EMAIL = "nick@eatsranked.com"
-# Once the App Store listing exists, paste its URL here (https://apps.apple.com/app/id...) and re-run: every "Get early access"
+# Once the App Store listing exists, paste its URL here (https://apps.apple.com/app/id...) and re-run: every "Ask for early access"
 # button becomes an App Store link (Apple's badge if docs/img/app-store-badge.svg is there; never draw the Apple logo), the notes stop
 # saying "coming", the privacy page says the label "is", and the web app's place panel links the App Store (window.APP_STORE_URL).
 APP_STORE_URL = ""
@@ -636,19 +636,20 @@ def crumbs(trail):
     return f'<nav class="crumbs" aria-label="Breadcrumb"><ol>{items}</ol></nav>', ld
 
 
-def store_button(label="Get early access"):
+def store_button(label="Ask for early access"):
     if APP_STORE_URL:
         if os.path.exists(f"{DOCS}/img/app-store-badge.svg"):
             return (f'<a class="store-badge" href="{e(APP_STORE_URL)}" rel="noopener"><img src="/img/app-store-badge.svg" '
                     'alt="Download on the App Store" width="150" height="50"></a>')
         return f'<a class="btn store-btn" href="{e(APP_STORE_URL)}" rel="noopener">Download on the App Store</a>'
-    # pre-launch: no App Store link exists yet, so the button asks for a TestFlight invite by email
+    # pre-launch: no App Store link exists yet, so the button asks for early access by email. Only Nick's internal TestFlight group
+    # exists (Nick, 2026-10-13): the copy ends at an ask, and nothing says we'll send an invite or a link, or that access is by invite.
     return (f'<a class="btn store-btn" href="mailto:{EMAIL}?subject=New%20York%20Eats%20early%20access&amp;body=Send%20me%20the%20TestFlight%20link.">'
             f'{label}</a>')
 
 
 def store_note(text="Free on iPhone and iPad."):
-    return f'{text} Not in the App Store yet: early access is by invite.' if not APP_STORE_URL else text
+    return f'{text} Not in the App Store yet.' if not APP_STORE_URL else text
 
 
 REGION_PAGE = {r: f"regions/{REGION_SLUG[r]}.html" for r in REGIONS}
@@ -1737,7 +1738,7 @@ body = f"""{nav}
         <select id="ex-town" aria-label="City, town or borough" disabled><option value="">All towns</option></select>
         <select id="ex-cuisine" aria-label="Kind of place" disabled><option value="">All kinds</option></select>
         <label><input type="checkbox" id="ex-chains" disabled> Hide chains</label>
-        <label><input type="checkbox" id="ex-conf" disabled> Confirmed only</label>
+        <label><input type="checkbox" id="ex-conf" disabled> High-confidence only</label>
         <button type="button" id="ex-clear" class="ex-small" hidden>Clear filters</button>
         <div class="ex-view" role="group" aria-label="View"><button type="button" data-v="list" aria-pressed="true" disabled>List</button><button type="button" data-v="map" aria-pressed="false" disabled>Map</button></div>
       </div>
@@ -1752,7 +1753,7 @@ body = f"""{nav}
       <div id="ex-chooser" class="ex-chooser" role="dialog" aria-labelledby="ex-chooser-h" hidden></div>
       <p id="ex-maphint"></p>
     </div>
-    <p class="fine">Confirmed = on an official list (an NYC Health Department or state food service permit, a Suffolk inspection, a Buffalo or liquor license), a high-confidence map listing, or hand-checked by us. Gas-station and grocery counters and other non-restaurants are left out. NYC letter grades are the Health Department's own, with their dates; outside New York City there is no official grade, and this site doesn't make one. County outlines: U.S. Census Bureau. See also <a href="/{OLDEST_PAGE[0]}">New York's oldest restaurants</a>.</p>
+    <p class="fine">High-confidence only keeps places on an official list (an NYC Health Department or state food service permit, a Suffolk inspection, a Buffalo or liquor license), high-confidence map listings and places we checked by hand. Gas-station and grocery counters and other non-restaurants are left out. NYC letter grades are the Health Department's own, with their dates; outside New York City there is no official grade, and this site doesn't make one. County outlines: U.S. Census Bureau. See also <a href="/{OLDEST_PAGE[0]}">New York's oldest restaurants</a>.</p>
   </div>
   <div id="ex-panel" class="ex-panel" role="complementary" aria-labelledby="ex-pname" hidden></div>
   </main>
@@ -1874,7 +1875,7 @@ body = f"""  <main id="main">
 
   <section id="download" class="final">
     <h2>Find the next slice</h2>
-    <p class="sub">{f"{BRAND} is free on the App Store for iPhone and iPad." if APP_STORE_URL else f"{BRAND} isn't in the App Store yet. Ask for an early-access invite and try it on your iPhone or iPad, free."}</p>
+    <p class="sub">{f"{BRAND} is free on the App Store for iPhone and iPad." if APP_STORE_URL else f"{BRAND} isn't in the App Store yet. It's free for iPhone and iPad, and you can ask to try it early."}</p>
     <div class="cta-row">{store_button()}</div>
   </section>
   </main>"""

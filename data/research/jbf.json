@@ -1,0 +1,5029 @@
+[
+ {
+  "name": "2nd Avenue Deli",
+  "address": "162 E 33rd St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Murray Hill",
+  "county": "New York",
+  "zip": "10016",
+  "james_beard": [
+   "America's Classics winner 1998"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 1998,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026",
+  "closed_date": null,
+  "note": "Honored in 1998 at the original 2nd Ave location (closed 2006); reopened Dec 2007 at 162 E 33rd St; second location at 1442 First Ave. Zip 10016 not on a source we read.",
+  "sources": [
+   "https://2ndavedeli.com/",
+   "https://en.wikipedia.org/wiki/2nd_Avenue_Deli",
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics"
+  ]
+ },
+ {
+  "name": "A&A Bake & Doubles Shop",
+  "address": "1337 Fulton St",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Bedford-Stuyvesant",
+  "county": "Kings",
+  "zip": "11216",
+  "james_beard": [
+   "America's Classics winner 2019"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2019,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-07",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/A&A_Bake_&_Doubles_Shop",
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50075900"
+  ]
+ },
+ {
+  "name": "Anchor Bar",
+  "address": "1047 Main St",
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14209",
+  "james_beard": [
+   "America's Classics winner 2003"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2003,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026",
+  "closed_date": null,
+  "note": "Own site carries 2025-26 dates.",
+  "sources": [
+   "https://anchorbar.com/",
+   "https://en.wikipedia.org/wiki/Anchor_Bar",
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics"
+  ]
+ },
+ {
+  "name": "Atomix",
+  "address": "104 E 30th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Flatiron District",
+  "county": "New York",
+  "zip": "10016",
+  "james_beard": [
+   "Best Chef: New York State winner 2023 (Junghyun Park)",
+   "Outstanding Hospitality winner 2025"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "winner",
+    "person": "Junghyun Park"
+   },
+   {
+    "award": "Outstanding Hospitality",
+    "year": 2025,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": "Junghyun Park",
+  "michelin_2025": "2 Stars (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2025-11",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/2025-james-beard-awards-restaurant-and-chef-nominees",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-award-winners",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-restaurant-and-chef-awards-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-winners",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Barney Greengrass",
+  "address": "541 Amsterdam Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Upper West Side",
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "America's Classics winner 2006"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2006,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026",
+  "closed_date": null,
+  "note": "Own site shows current hours, footer dated 2026.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Barney_Greengrass",
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://www.barneygreengrass.com/"
+  ]
+ },
+ {
+  "name": "Borgo",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Professional in Beverage Service winner 2026 (Lee Campbell)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Professional in Beverage Service",
+    "year": 2026,
+    "level": "winner",
+    "person": "Lee Campbell"
+   }
+  ],
+  "chef": "Lee Campbell",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-06",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/james-beard-award-winners-2026",
+   "https://www.jamesbeard.org/stories/james-beard-awards-restaurant-and-chef-nominees-2026"
+  ]
+ },
+ {
+  "name": "Brooks' House of Bar-B-Q",
+  "address": null,
+  "city": "Oneonta",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Otsego",
+  "zip": null,
+  "james_beard": [
+   "America's Classics winner 2016"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2016,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026",
+  "closed_date": null,
+  "note": "Own site lists 2026 events; street address not confirmed on a page we read.",
+  "sources": [
+   "https://brooksbbq.com/",
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics"
+  ]
+ },
+ {
+  "name": "Clover Hill",
+  "address": "20 Columbia Pl",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Brooklyn Heights",
+  "county": "Kings",
+  "zip": null,
+  "james_beard": [
+   "Emerging Chef nominee 2023 (Charlie Mitchell)",
+   "Best Chef: New York State winner 2024 (Charlie Mitchell)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Emerging Chef",
+    "year": 2023,
+    "level": "nominee",
+    "person": "Charlie Mitchell"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "winner",
+    "person": "Charlie Mitchell"
+   }
+  ],
+  "chef": "Charlie Mitchell",
+  "michelin_2025": null,
+  "open": false,
+  "evidence_date": null,
+  "closed_date": "2025-10",
+  "note": "Closed permanently in October 2025. Charlie Mitchell (2024 Best Chef: New York State winner) had left in early 2025 to lead Saga.",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-restaurant-and-chef-awards-nominees",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-award-winners",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-restaurant-and-chef-award-nominees",
+   "https://en.wikipedia.org/wiki/Clover_Hill_(restaurant)"
+  ]
+ },
+ {
+  "name": "Eng's",
+  "address": null,
+  "city": "Kingston",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Ulster",
+  "zip": null,
+  "james_beard": [
+   "America's Classics winner 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2026,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026",
+  "closed_date": null,
+  "note": "Founded 1927; at its current location since 1966 (JBF). Street address not captured from a page we read.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://www.engsrestaurant.com/",
+   "https://www.jamesbeard.org/stories/james-beard-americas-classics-award-winners-2026"
+  ]
+ },
+ {
+  "name": "Frenchette",
+  "address": "241 West Broadway",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Tribeca",
+  "county": "New York",
+  "zip": "10013",
+  "james_beard": [
+   "Outstanding Restaurateur winner 2025 (Lee Hanson and Riad Nasr)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2025,
+    "level": "winner",
+    "person": "Lee Hanson and Riad Nasr"
+   }
+  ],
+  "chef": "Lee Hanson and Riad Nasr",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-06",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/2025-james-beard-awards-restaurant-and-chef-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-winners",
+   "https://en.wikipedia.org/wiki/Frenchette"
+  ]
+ },
+ {
+  "name": "Grand Central Oyster Bar",
+  "address": "89 E 42nd St (Lower Level, Grand Central Terminal)",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Midtown East",
+  "county": "New York",
+  "zip": "10017",
+  "james_beard": [
+   "America's Classics winner 1999"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 1999,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-10",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar",
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40368223"
+  ]
+ },
+ {
+  "name": "Jungsik",
+  "address": "2 Harrison St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Tribeca",
+  "county": "New York",
+  "zip": "10013",
+  "james_beard": [
+   "Outstanding Chef winner 2025 (Jungsik Yim)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Chef",
+    "year": 2025,
+    "level": "winner",
+    "person": "Jungsik Yim"
+   }
+  ],
+  "chef": "Jungsik Yim",
+  "michelin_2025": "3 Stars (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2025-11",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/2025-james-beard-awards-restaurant-and-chef-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-winners",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Keens Steakhouse",
+  "address": "72 W 36th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Garment District",
+  "county": "New York",
+  "zip": "10018",
+  "james_beard": [
+   "America's Classics winner 2013"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2013,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-05",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Keens_Steakhouse",
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://www.keens.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50162845"
+  ]
+ },
+ {
+  "name": "Le Rock",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Restaurateur winner 2025 (Lee Hanson and Riad Nasr)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2025,
+    "level": "winner",
+    "person": "Lee Hanson and Riad Nasr"
+   }
+  ],
+  "chef": "Lee Hanson and Riad Nasr",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-06",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/2025-james-beard-awards-restaurant-and-chef-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-winners"
+  ]
+ },
+ {
+  "name": "Le Veau d'Or",
+  "address": "129 E 60th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Upper East Side",
+  "county": "New York",
+  "zip": "10022",
+  "james_beard": [
+   "America's Classics winner 2011",
+   "Outstanding Restaurateur winner 2025 (Lee Hanson and Riad Nasr)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2011,
+    "level": "winner",
+    "person": null
+   },
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2025,
+    "level": "winner",
+    "person": "Lee Hanson and Riad Nasr"
+   }
+  ],
+  "chef": "Lee Hanson and Riad Nasr",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-06",
+  "closed_date": null,
+  "note": "Reopened July 2024 under Lee Hanson and Riad Nasr.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://www.jamesbeard.org/stories/2025-james-beard-awards-restaurant-and-chef-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-winners",
+   "https://en.wikipedia.org/wiki/Le_Veau_d'Or"
+  ]
+ },
+ {
+  "name": "Lei",
+  "address": "15-17 Doyers St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Chinatown",
+  "county": "New York",
+  "zip": "10013",
+  "james_beard": [
+   "Best New Restaurant winner 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Restaurant",
+    "year": 2026,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": "Recommended (new in MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2026-06",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/james-beard-award-winners-2026",
+   "https://www.jamesbeard.org/stories/james-beard-awards-restaurant-and-chef-nominees-2026",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+  ]
+ },
+ {
+  "name": "Mario's",
+  "address": "2342 Arthur Ave",
+  "city": "Bronx",
+  "municipality": null,
+  "neighborhood": "Belmont (Arthur Avenue)",
+  "county": "Bronx",
+  "zip": "10458",
+  "james_beard": [
+   "America's Classics winner 2000"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2000,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-09",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40941045"
+  ]
+ },
+ {
+  "name": "Meju",
+  "address": "5-28 49th Ave",
+  "city": "Queens",
+  "municipality": null,
+  "neighborhood": "Hunters Point",
+  "county": "Queens",
+  "zip": "11101",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2025 (Hooni Kim)",
+   "Best Chef: New York State winner 2026 (Hooni Kim)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Hooni Kim"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "winner",
+    "person": "Hooni Kim"
+   }
+  ],
+  "chef": "Hooni Kim",
+  "michelin_2025": "1 Star (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2026-06",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/james-beard-award-winners-2026",
+   "https://www.jamesbeard.org/stories/james-beard-awards-restaurant-and-chef-nominees-2026",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Moosewood Restaurant",
+  "address": "215 N Cayuga St",
+  "city": "Ithaca",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Tompkins",
+  "zip": "14850",
+  "james_beard": [
+   "America's Classics winner 2000"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2000,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-07",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://en.wikipedia.org/wiki/Moosewood_Restaurant",
+   "https://moosewood.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=312746"
+  ]
+ },
+ {
+  "name": "Peter Luger Steak House",
+  "address": "178 Broadway",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Williamsburg",
+  "county": "Kings",
+  "zip": "11211",
+  "james_beard": [
+   "America's Classics winner 2002"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2002,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026",
+  "closed_date": null,
+  "note": "Own site footer dated 2026.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://en.wikipedia.org/wiki/Peter_Luger_Steak_House",
+   "https://peterluger.com/"
+  ]
+ },
+ {
+  "name": "Prime Burger",
+  "address": "5 E 51st St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Midtown East",
+  "county": "New York",
+  "zip": "10022",
+  "james_beard": [
+   "America's Classics winner 2004"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2004,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": false,
+  "evidence_date": null,
+  "closed_date": "2012",
+  "note": "Closed in 2012.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://en.wikipedia.org/wiki/Prime_Burger"
+  ]
+ },
+ {
+  "name": "Sahadi's",
+  "address": null,
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Brooklyn Heights / Cobble Hill (Atlantic Ave)",
+  "county": "Kings",
+  "zip": null,
+  "james_beard": [
+   "America's Classics winner 2017"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2017,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026",
+  "closed_date": null,
+  "note": "Own shop site copyright 2026; street address not captured from a page we read.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://sahadis.com/"
+  ]
+ },
+ {
+  "name": "Semma",
+  "address": "60 Greenwich Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Greenwich Village",
+  "county": "New York",
+  "zip": "10011",
+  "james_beard": [
+   "Best Chef: New York State winner 2025 (Vijay Kumar)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "winner",
+    "person": "Vijay Kumar"
+   }
+  ],
+  "chef": "Vijay Kumar",
+  "michelin_2025": "1 Star (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2025-11",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/2025-james-beard-awards-restaurant-and-chef-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-winners",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Sevilla",
+  "address": "62 Charles St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "West Village",
+  "county": "New York",
+  "zip": "10014",
+  "james_beard": [
+   "America's Classics winner 2015"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2015,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026",
+  "closed_date": null,
+  "note": "Own site copyright 2002-2026.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://en.wikipedia.org/wiki/Sevilla_(restaurant)",
+   "https://sevillarestaurantandbar.com/"
+  ]
+ },
+ {
+  "name": "Superbueno",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Professional in Cocktail Service winner 2025 (Ignacio \"Nacho\" Jimenez)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Professional in Cocktail Service",
+    "year": 2025,
+    "level": "winner",
+    "person": "Ignacio \"Nacho\" Jimenez"
+   }
+  ],
+  "chef": "Ignacio \"Nacho\" Jimenez",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-06",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/2025-james-beard-awards-restaurant-and-chef-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-winners"
+  ]
+ },
+ {
+  "name": "Sylvia's Restaurant",
+  "address": "328 Malcolm X Blvd",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Harlem",
+  "county": "New York",
+  "zip": "10027",
+  "james_beard": [
+   "America's Classics winner 2024"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2024,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://en.wikipedia.org/wiki/Sylvia's_Restaurant",
+   "https://sylviasrestaurant.com/",
+   "https://www.jamesbeard.org/stories/announcing-the-2024-restaurant-and-chef-americas-classics-winners"
+  ]
+ },
+ {
+  "name": "Totonno's",
+  "address": "1524 Neptune Ave",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Coney Island",
+  "county": "Kings",
+  "zip": "11224",
+  "james_beard": [
+   "America's Classics winner 2009"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2009,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-03",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://en.wikipedia.org/wiki/Totonno's",
+   "https://www.totonnosconeyisland.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40561290",
+   "https://www.bkmag.com/2026/01/07/totonnos-pizza-coney-island-for-sale/"
+  ]
+ },
+ {
+  "name": "Wo Hop",
+  "address": "17 Mott St (basement)",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Chinatown",
+  "county": "New York",
+  "zip": "10013",
+  "james_beard": [
+   "America's Classics winner 2022"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "America's Classics",
+    "year": 2022,
+    "level": "winner",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026",
+  "closed_date": null,
+  "note": "Own site lists hours; footer dated 2026.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://www.jamesbeard.org/stories/announcing-the-2022-americas-classics-winners",
+   "https://www.wohop17.com/"
+  ]
+ },
+ {
+  "name": "Agi's Counter",
+  "address": "818 Franklin Ave",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Crown Heights",
+  "county": "Kings",
+  "zip": "11225",
+  "james_beard": [
+   "Best Chef: New York State nominee 2024 (Jeremy Salamon)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "nominee",
+    "person": "Jeremy Salamon"
+   }
+  ],
+  "chef": "Jeremy Salamon",
+  "michelin_2025": "Bib Gourmand (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2025-11",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-restaurant-and-chef-award-nominees",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+  ]
+ },
+ {
+  "name": "Cafe Mutton",
+  "address": null,
+  "city": "Hudson",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Columbia",
+  "zip": null,
+  "james_beard": [
+   "Best Chef: New York State nominee 2023 (Shaina Loew-Banayan)",
+   "Best Chef: New York State semifinalist 2024 (Shaina Loew-Banayan)",
+   "Best Chef: New York State semifinalist 2025 (Shaina Loew-Banayan)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "nominee",
+    "person": "Shaina Loew-Banayan"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Shaina Loew-Banayan"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Shaina Loew-Banayan"
+   }
+  ],
+  "chef": "Shaina Loew-Banayan",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-restaurant-and-chef-awards-nominees",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Carnitas Ramírez",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2025 (Giovanni Cervantes)",
+   "Best Chef: New York State nominee 2026 (Giovanni Cervantes and Yvon de Tassigny)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Giovanni Cervantes"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "nominee",
+    "person": "Giovanni Cervantes and Yvon de Tassigny"
+   }
+  ],
+  "chef": "Giovanni Cervantes; Giovanni Cervantes and Yvon de Tassigny",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-03",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/james-beard-awards-restaurant-and-chef-nominees-2026",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Chambers",
+  "address": "94 Chambers St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Tribeca",
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Wine and Other Beverages Program nominee 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Wine and Other Beverages Program",
+    "year": 2026,
+    "level": "nominee",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-03",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/james-beard-awards-restaurant-and-chef-nominees-2026",
+   "https://en.wikipedia.org/wiki/Chambers_(restaurant)"
+  ]
+ },
+ {
+  "name": "Claud",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Best Chef: New York State nominee 2026 (Joshua Pinsky)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "nominee",
+    "person": "Joshua Pinsky"
+   }
+  ],
+  "chef": "Joshua Pinsky",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-03",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/james-beard-awards-restaurant-and-chef-nominees-2026"
+  ]
+ },
+ {
+  "name": "Clemente Bar",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Best New Bar nominee 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Bar",
+    "year": 2026,
+    "level": "nominee",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-03",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/james-beard-awards-restaurant-and-chef-nominees-2026"
+  ]
+ },
+ {
+  "name": "Corima",
+  "address": "3 Allen St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Chinatown",
+  "county": "New York",
+  "zip": "10002",
+  "james_beard": [
+   "Best New Restaurant semifinalist 2025",
+   "Best Chef: New York State nominee 2026 (Fidel Caballero)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Restaurant",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": null
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "nominee",
+    "person": "Fidel Caballero"
+   }
+  ],
+  "chef": "Fidel Caballero",
+  "michelin_2025": "1 Star (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2026-03",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/james-beard-awards-restaurant-and-chef-nominees-2026",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "COTE",
+  "address": "16 W 22nd St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Flatiron District",
+  "county": "New York",
+  "zip": "10010",
+  "james_beard": [
+   "Outstanding Wine and Other Beverages Program nominee 2023",
+   "Outstanding Wine and Other Beverages Program semifinalist 2024",
+   "Outstanding Restaurateur semifinalist 2025 (Simon Kim (Gracious Hospitality))",
+   "Outstanding Restaurateur semifinalist 2026 (Simon Kim (Gracious Hospitality))"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Wine and Other Beverages Program",
+    "year": 2023,
+    "level": "nominee",
+    "person": null
+   },
+   {
+    "award": "Outstanding Wine and Other Beverages Program",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": null
+   },
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Simon Kim (Gracious Hospitality)"
+   },
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Simon Kim (Gracious Hospitality)"
+   }
+  ],
+  "chef": "Simon Kim (Gracious Hospitality)",
+  "michelin_2025": "1 Star (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-restaurant-and-chef-awards-nominees",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Daniel",
+  "address": "60 E 65th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Upper East Side",
+  "county": "New York",
+  "zip": "10065",
+  "james_beard": [
+   "Outstanding Professional in Beverage Service nominee 2025 (Cassandra Felix)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Professional in Beverage Service",
+    "year": 2025,
+    "level": "nominee",
+    "person": "Cassandra Felix"
+   }
+  ],
+  "chef": "Cassandra Felix",
+  "michelin_2025": "1 Star (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2025-11",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/2025-james-beard-awards-restaurant-and-chef-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Dept of Culture",
+  "address": null,
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Kings",
+  "zip": null,
+  "james_beard": [
+   "Best New Restaurant nominee 2023",
+   "Best Chef: New York State semifinalist 2024 (Ayo Balogun)",
+   "Best Chef: New York State semifinalist 2025 (Ayo Balogun)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Restaurant",
+    "year": 2023,
+    "level": "nominee",
+    "person": null
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Ayo Balogun"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Ayo Balogun"
+   }
+  ],
+  "chef": "Ayo Balogun",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": "JBF listed it under New York, NY (2023 Best New Restaurant) and Brooklyn, NY (Best Chef 2024, 2025).",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-restaurant-and-chef-awards-nominees",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Dirt Candy",
+  "address": "86 Allen St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Lower East Side",
+  "county": "New York",
+  "zip": "10002",
+  "james_beard": [
+   "Best Chef: New York State nominee 2023 (Amanda Cohen)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "nominee",
+    "person": "Amanda Cohen"
+   }
+  ],
+  "chef": "Amanda Cohen",
+  "michelin_2025": "1 Star (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2025-11",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-restaurant-and-chef-awards-nominees",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Gabriel Kreuther",
+  "address": "41 W 42nd St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Midtown West",
+  "county": "New York",
+  "zip": "10036",
+  "james_beard": [
+   "Outstanding Chef nominee 2025 (Gabriel Kreuther)",
+   "Outstanding Chef semifinalist 2026 (Gabriel Kreuther)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Chef",
+    "year": 2025,
+    "level": "nominee",
+    "person": "Gabriel Kreuther"
+   },
+   {
+    "award": "Outstanding Chef",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Gabriel Kreuther"
+   }
+  ],
+  "chef": "Gabriel Kreuther",
+  "michelin_2025": "2 Stars (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/2025-james-beard-awards-restaurant-and-chef-nominees",
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Harana Market",
+  "address": "5125 Route 209",
+  "city": "Accord",
+  "municipality": "Rochester",
+  "neighborhood": null,
+  "county": "Ulster",
+  "zip": "12404",
+  "james_beard": [
+   "Best Chef: New York State nominee 2024 (Chris Mauricio)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "nominee",
+    "person": "Chris Mauricio"
+   }
+  ],
+  "chef": "Chris Mauricio",
+  "michelin_2025": null,
+  "open": null,
+  "evidence_date": null,
+  "closed_date": null,
+  "note": "Own site describes Harana as a food project by Chris Mauricio (events, catering) and lists the property for sale; no regular restaurant service confirmed.",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-restaurant-and-chef-award-nominees",
+   "https://www.haranamarket.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=1130096",
+   "https://www.haranamarket.com/upcoming-events"
+  ]
+ },
+ {
+  "name": "Hav & Mar",
+  "address": "245 Eleventh Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Chelsea",
+  "county": "New York",
+  "zip": "10001",
+  "james_beard": [
+   "Emerging Chef nominee 2024 (Fariyal Abdullahi)",
+   "Best Chef: New York State semifinalist 2025 (Fariyal Abdullahi)",
+   "Best Chef: New York State semifinalist 2026 (Fariyal Abdullahi)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Emerging Chef",
+    "year": 2024,
+    "level": "nominee",
+    "person": "Fariyal Abdullahi"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Fariyal Abdullahi"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Fariyal Abdullahi"
+   }
+  ],
+  "chef": "Fariyal Abdullahi",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-restaurant-and-chef-award-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://en.wikipedia.org/wiki/Hav_&_Mar"
+  ]
+ },
+ {
+  "name": "Kono",
+  "address": "46 Bowery",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Chinatown",
+  "county": "New York",
+  "zip": "10013",
+  "james_beard": [
+   "Best Chef: New York State nominee 2024 (Atsushi Kono)",
+   "Best Chef: New York State nominee 2025 (Atsushi Kono)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "nominee",
+    "person": "Atsushi Kono"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "nominee",
+    "person": "Atsushi Kono"
+   }
+  ],
+  "chef": "Atsushi Kono",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/2025-james-beard-awards-restaurant-and-chef-nominees",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-restaurant-and-chef-award-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://en.wikipedia.org/wiki/Kono_(restaurant)"
+  ]
+ },
+ {
+  "name": "Llama Inn",
+  "address": "50 Withers St",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Williamsburg",
+  "county": "Kings",
+  "zip": "11211",
+  "james_beard": [
+   "Outstanding Chef nominee 2023 (Erik Ramirez)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Chef",
+    "year": 2023,
+    "level": "nominee",
+    "person": "Erik Ramirez"
+   }
+  ],
+  "chef": "Erik Ramirez",
+  "michelin_2025": null,
+  "open": false,
+  "evidence_date": null,
+  "closed_date": null,
+  "note": "Wikipedia's Bib Gourmand table marks it closed in the 2025 column; no dated closure story was read. Treat as closed until re-checked.",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-restaurant-and-chef-awards-nominees",
+   "https://en.wikipedia.org/wiki/Llama_Inn",
+   "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+  ]
+ },
+ {
+  "name": "Mel the Bakery",
+  "address": "324 Warren St",
+  "city": "Hudson",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Columbia",
+  "zip": "12534",
+  "james_beard": [
+   "Outstanding Pastry Chef or Baker semifinalist 2023 (Nora Faye Allen)",
+   "Outstanding Bakery nominee 2024"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Pastry Chef or Baker",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Nora Faye Allen"
+   },
+   {
+    "award": "Outstanding Bakery",
+    "year": 2024,
+    "level": "nominee",
+    "person": null
+   }
+  ],
+  "chef": "Nora Faye Allen",
+  "michelin_2025": null,
+  "open": null,
+  "evidence_date": null,
+  "closed_date": null,
+  "note": "Moved from Manhattan to Hudson around the end of 2023 (Breadfolks space); the 2023 pastry honor (Nora Faye Allen) was listed under New York, NY.",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-restaurant-and-chef-award-nominees",
+   "https://en.wikipedia.org/wiki/Mel_the_Bakery"
+  ]
+ },
+ {
+  "name": "Melba's",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Hospitality semifinalist 2023",
+   "Outstanding Hospitality nominee 2024",
+   "Outstanding Hospitality semifinalist 2025"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Hospitality",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": null
+   },
+   {
+    "award": "Outstanding Hospitality",
+    "year": 2024,
+    "level": "nominee",
+    "person": null
+   },
+   {
+    "award": "Outstanding Hospitality",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-restaurant-and-chef-award-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Penny",
+  "address": "90 E 10th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "East Village",
+  "county": "New York",
+  "zip": "10003",
+  "james_beard": [
+   "Best New Restaurant nominee 2025"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Restaurant",
+    "year": 2025,
+    "level": "nominee",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/2025-james-beard-awards-restaurant-and-chef-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://en.wikipedia.org/wiki/Penny_(restaurant)"
+  ]
+ },
+ {
+  "name": "Ramen by Ra",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Emerging Chef nominee 2026 (Rasheeda Purdie)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Emerging Chef",
+    "year": 2026,
+    "level": "nominee",
+    "person": "Rasheeda Purdie"
+   }
+  ],
+  "chef": "Rasheeda Purdie",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-03",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/james-beard-awards-restaurant-and-chef-nominees-2026"
+  ]
+ },
+ {
+  "name": "Shukette",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2023 (Ayesha Nurdjaja)",
+   "Best Chef: New York State nominee 2026 (Ayesha Nurdjaja)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Ayesha Nurdjaja"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "nominee",
+    "person": "Ayesha Nurdjaja"
+   }
+  ],
+  "chef": "Ayesha Nurdjaja",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-03",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/james-beard-awards-restaurant-and-chef-nominees-2026",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists"
+  ]
+ },
+ {
+  "name": "Sofreh",
+  "address": null,
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Kings",
+  "zip": null,
+  "james_beard": [
+   "Best Chef: New York State nominee 2023 (Nasim Alikhani)",
+   "Best Chef: New York State nominee 2024 (Nasim Alikhani)",
+   "Best Chef: New York State nominee 2025 (Nasim Alikhani)",
+   "Outstanding Hospitality semifinalist 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "nominee",
+    "person": "Nasim Alikhani"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "nominee",
+    "person": "Nasim Alikhani"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "nominee",
+    "person": "Nasim Alikhani"
+   },
+   {
+    "award": "Outstanding Hospitality",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": "Nasim Alikhani",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/2025-james-beard-awards-restaurant-and-chef-nominees",
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-restaurant-and-chef-awards-nominees",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-restaurant-and-chef-award-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Southern Junction",
+  "address": null,
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": null,
+  "james_beard": [
+   "Emerging Chef nominee 2024 (Ryan Fernandez)",
+   "Best Chef: New York State nominee 2025 (Ryan Fernandez)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Emerging Chef",
+    "year": 2024,
+    "level": "nominee",
+    "person": "Ryan Fernandez"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "nominee",
+    "person": "Ryan Fernandez"
+   }
+  ],
+  "chef": "Ryan Fernandez",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/2025-james-beard-awards-restaurant-and-chef-nominees",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-restaurant-and-chef-award-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Sushi Ichimura",
+  "address": "412 Greenwich St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Tribeca",
+  "county": "New York",
+  "zip": "10013",
+  "james_beard": [
+   "Best Chef: New York State nominee 2025 (Eiji Ichimura)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "nominee",
+    "person": "Eiji Ichimura"
+   }
+  ],
+  "chef": "Eiji Ichimura",
+  "michelin_2025": null,
+  "open": false,
+  "evidence_date": null,
+  "closed_date": "2025",
+  "note": "Closed in 2025; Muku (1 MICHELIN Star) opened in the same space.",
+  "sources": [
+   "https://www.jamesbeard.org/stories/2025-james-beard-awards-restaurant-and-chef-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://en.wikipedia.org/wiki/Sushi_Ichimura"
+  ]
+ },
+ {
+  "name": "The Four Horsemen",
+  "address": "295 Grand St",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Williamsburg",
+  "county": "Kings",
+  "zip": "11211",
+  "james_beard": [
+   "Outstanding Restaurant semifinalist 2025",
+   "Outstanding Restaurant nominee 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurant",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": null
+   },
+   {
+    "award": "Outstanding Restaurant",
+    "year": 2026,
+    "level": "nominee",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": "1 Star (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2026-03",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/james-beard-awards-restaurant-and-chef-nominees-2026",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "The Musket Room",
+  "address": "265 Elizabeth St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Nolita",
+  "county": "New York",
+  "zip": "10012",
+  "james_beard": [
+   "Best Chef: New York State nominee 2023 (Mary Attea)",
+   "Outstanding Pastry Chef or Baker semifinalist 2023 (Camari Mick)",
+   "Best Chef: New York State semifinalist 2024 (Mary Attea)",
+   "Outstanding Pastry Chef or Baker semifinalist 2024 (Camari Mick)",
+   "Outstanding Restaurateur semifinalist 2026 (Jennifer Vitagliano and Nicole Vitagliano (Elizabeth Street Hospitality))"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "nominee",
+    "person": "Mary Attea"
+   },
+   {
+    "award": "Outstanding Pastry Chef or Baker",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Camari Mick"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Mary Attea"
+   },
+   {
+    "award": "Outstanding Pastry Chef or Baker",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Camari Mick"
+   },
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Jennifer Vitagliano and Nicole Vitagliano (Elizabeth Street Hospitality)"
+   }
+  ],
+  "chef": "Mary Attea; Camari Mick; Jennifer Vitagliano and Nicole Vitagliano (Elizabeth Street Hospitality)",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": "Pastry chef Camari Mick (honored 2023-2025) is opening her own restaurant, Calabash, in the West Village (reported Sept 2026).",
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-restaurant-and-chef-awards-nominees",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://en.wikipedia.org/wiki/The_Musket_Room"
+  ]
+ },
+ {
+  "name": "Waxlight Bar à Vin",
+  "address": null,
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Wine and Other Beverages Program semifinalist 2023",
+   "Outstanding Wine and Other Beverages Program nominee 2024",
+   "Outstanding Wine and Other Beverages Program semifinalist 2025"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Wine and Other Beverages Program",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": null
+   },
+   {
+    "award": "Outstanding Wine and Other Beverages Program",
+    "year": 2024,
+    "level": "nominee",
+    "person": null
+   },
+   {
+    "award": "Outstanding Wine and Other Beverages Program",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-restaurant-and-chef-award-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Whoopsie Daisy",
+  "address": null,
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Kings",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Professional in Cocktail Service nominee 2026 (Ivy Mix)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Professional in Cocktail Service",
+    "year": 2026,
+    "level": "nominee",
+    "person": "Ivy Mix"
+   }
+  ],
+  "chef": "Ivy Mix",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-03",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/james-beard-awards-restaurant-and-chef-nominees-2026"
+  ]
+ },
+ {
+  "name": "Acru",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Emerging Chef semifinalist 2025 (Daniel Garwood)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Emerging Chef",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Daniel Garwood"
+   }
+  ],
+  "chef": "Daniel Garwood",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Al Coro",
+  "address": "85 10th Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Chelsea",
+  "county": "New York",
+  "zip": "10011",
+  "james_beard": [
+   "Best New Restaurant semifinalist 2023"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Restaurant",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": false,
+  "evidence_date": null,
+  "closed_date": "2023",
+  "note": "Closed at the end of 2023 after Tao Group bought the venue; the team reopened the space as Crane Club.",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://en.wikipedia.org/wiki/Al_Coro",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+  ]
+ },
+ {
+  "name": "Aldama",
+  "address": "91 S 6th St",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Kings",
+  "zip": "11249",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2023 (Gerardo Alcaraz)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Gerardo Alcaraz"
+   }
+  ],
+  "chef": "Gerardo Alcaraz",
+  "michelin_2025": null,
+  "open": false,
+  "evidence_date": null,
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://greenpointers.com/2025/10/03/good-days-a-modern-american-bistro-opened-this-week-in-williamsburg/"
+  ]
+ },
+ {
+  "name": "Aldo Sohm Wine Bar",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Bar semifinalist 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Bar",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026"
+  ]
+ },
+ {
+  "name": "All Night Skate",
+  "address": "54 Rockaway Ave",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Kings",
+  "zip": "11233",
+  "james_beard": [
+   "Outstanding Bar semifinalist 2024"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Bar",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-02",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.allnightskate.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50102782"
+  ]
+ },
+ {
+  "name": "Aquavit",
+  "address": "65 E 55th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Midtown East",
+  "county": "New York",
+  "zip": "10022",
+  "james_beard": [
+   "Outstanding Chef semifinalist 2024 (Emma Bengtsson)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Chef",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Emma Bengtsson"
+   }
+  ],
+  "chef": "Emma Bengtsson",
+  "michelin_2025": "2 Stars (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2025-11",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Arnold House Tavern",
+  "address": "839 Shandelee Rd",
+  "city": "Livingston Manor",
+  "municipality": "Rockland",
+  "neighborhood": null,
+  "county": "Sullivan",
+  "zip": "12758",
+  "james_beard": [
+   "Outstanding Restaurateur semifinalist 2023 (Sims and Kirsten Harlow Foster (Foster Supply Hospitality))"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Sims and Kirsten Harlow Foster (Foster Supply Hospitality)"
+   }
+  ],
+  "chef": "Sims and Kirsten Harlow Foster (Foster Supply Hospitality)",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-02",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.thearnoldhouse.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=345410"
+  ]
+ },
+ {
+  "name": "Avant Garden",
+  "address": "95 Avenue A, 2nd Floor",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": "10009",
+  "james_beard": [
+   "Outstanding Restaurateur semifinalist 2024 (Ravi DeRossi (Overthrow Hospitality))"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Ravi DeRossi (Overthrow Hospitality)"
+   }
+  ],
+  "chef": "Ravi DeRossi (Overthrow Hospitality)",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-09",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.avantgardennyc.com/",
+   "https://www.avantgardennyc.com/upcoming-events",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41467140"
+  ]
+ },
+ {
+  "name": "Bar Contra",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Best New Bar semifinalist 2025"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Bar",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Bar Snack",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Best New Bar semifinalist 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Bar",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026"
+  ]
+ },
+ {
+  "name": "Birdee",
+  "address": null,
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Kings",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Pastry Chef or Baker semifinalist 2026 (Renata Ameni)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Pastry Chef or Baker",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Renata Ameni"
+   }
+  ],
+  "chef": "Renata Ameni",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026"
+  ]
+ },
+ {
+  "name": "Bong",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Best New Restaurant semifinalist 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Restaurant",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026"
+  ]
+ },
+ {
+  "name": "Bonnie's",
+  "address": "398 Manhattan Ave",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Williamsburg",
+  "county": "Kings",
+  "zip": "11211",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2023 (Calvin Eng)",
+   "Best Chef: New York State semifinalist 2024 (Calvin Eng)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Calvin Eng"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Calvin Eng"
+   }
+  ],
+  "chef": "Calvin Eng",
+  "michelin_2025": "Bib Gourmand (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2025-11",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+  ]
+ },
+ {
+  "name": "Brushland Eating House",
+  "address": "1927 County Highway 6",
+  "city": "Bovina",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Delaware",
+  "zip": "13740",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2023 (Sohail Zandi)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Sohail Zandi"
+   }
+  ],
+  "chef": "Sohail Zandi",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-05",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.brushlandeatinghouse.com/",
+   "https://www.brushlandeatinghouse.com/happenings"
+  ]
+ },
+ {
+  "name": "Bungalow",
+  "address": "24 1st Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "East Village",
+  "county": "New York",
+  "zip": "10009",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2026 (Vikas Khanna)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Vikas Khanna"
+   }
+  ],
+  "chef": "Vikas Khanna",
+  "michelin_2025": "Bib Gourmand (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+  ]
+ },
+ {
+  "name": "Bánh by Lauren",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Bakery semifinalist 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Bakery",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026"
+  ]
+ },
+ {
+  "name": "Cadence",
+  "address": "111 E 7th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": "10009",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2023 (Shenarri Freeman)",
+   "Outstanding Restaurateur semifinalist 2024 (Ravi DeRossi (Overthrow Hospitality))"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Shenarri Freeman"
+   },
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Ravi DeRossi (Overthrow Hospitality)"
+   }
+  ],
+  "chef": "Shenarri Freeman; Ravi DeRossi (Overthrow Hospitality)",
+  "michelin_2025": null,
+  "open": false,
+  "evidence_date": null,
+  "closed_date": null,
+  "note": "Treated as closed: left off Overthrow Hospitality's venue list and no NYC health inspection since Nov 7, 2024.",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50085102"
+  ]
+ },
+ {
+  "name": "Cafe Zaffri",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Restaurateur semifinalist 2026 (Jennifer Vitagliano and Nicole Vitagliano (Elizabeth Street Hospitality))"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Jennifer Vitagliano and Nicole Vitagliano (Elizabeth Street Hospitality)"
+   }
+  ],
+  "chef": "Jennifer Vitagliano and Nicole Vitagliano (Elizabeth Street Hospitality)",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026"
+  ]
+ },
+ {
+  "name": "Café Carmellini",
+  "address": "250 Fifth Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "NoMad",
+  "county": "New York",
+  "zip": "10001",
+  "james_beard": [
+   "Best New Restaurant semifinalist 2025"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Restaurant",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://en.wikipedia.org/wiki/Café_Carmellini"
+  ]
+ },
+ {
+  "name": "Carissa's Bakery",
+  "address": null,
+  "city": "East Hampton",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Suffolk",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Bakery semifinalist 2025"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Bakery",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Casa Susanna",
+  "address": null,
+  "city": "Leeds",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Greene",
+  "zip": null,
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2024 (Efrén Hernández)",
+   "Best Chef: New York State semifinalist 2025 (Efrén Hernández)",
+   "Best Chef: New York State semifinalist 2026 (Efrén Hernández)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Efrén Hernández"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Efrén Hernández"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Efrén Hernández"
+   }
+  ],
+  "chef": "Efrén Hernández",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Chalong",
+  "address": "749 9th Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Hell's Kitchen",
+  "county": "New York",
+  "zip": "10019",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2026 (Nate Limwong)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Nate Limwong"
+   }
+  ],
+  "chef": "Nate Limwong",
+  "michelin_2025": "Bib Gourmand (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://www.finedininglovers.com/explore/articles/michelin-new-additions-northeast-2025",
+   "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+  ]
+ },
+ {
+  "name": "Charles Pan-Fried Chicken",
+  "address": "340 W 145th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Harlem",
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2023 (Charles Gabriel)",
+   "Best Chef: New York State semifinalist 2024 (Charles Gabriel)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Charles Gabriel"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Charles Gabriel"
+   }
+  ],
+  "chef": "Charles Gabriel",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026",
+  "closed_date": null,
+  "note": "Own site (footer dated 2026) lists 340 W 145th St and 439 W 125th St; JBF did not say which location.",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.charlespanfriedchicken.com/"
+  ]
+ },
+ {
+  "name": "Ci Siamo",
+  "address": "440 W 33rd St, Suite 100",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Hudson Yards",
+  "county": "New York",
+  "zip": "10001",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2023 (Hillary Sterling)",
+   "Best Chef: New York State semifinalist 2024 (Hillary Sterling)",
+   "Best Chef: New York State semifinalist 2025 (Hillary Sterling)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Hillary Sterling"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Hillary Sterling"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Hillary Sterling"
+   }
+  ],
+  "chef": "Hillary Sterling",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://en.wikipedia.org/wiki/Ci_Siamo"
+  ]
+ },
+ {
+  "name": "COQODAQ",
+  "address": "12 E 22nd St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Flatiron District",
+  "county": "New York",
+  "zip": "10010",
+  "james_beard": [
+   "Outstanding Restaurateur semifinalist 2025 (Simon Kim (Gracious Hospitality))",
+   "Outstanding Restaurateur semifinalist 2026 (Simon Kim (Gracious Hospitality))"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Simon Kim (Gracious Hospitality)"
+   },
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Simon Kim (Gracious Hospitality)"
+   }
+  ],
+  "chef": "Simon Kim (Gracious Hospitality)",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://en.wikipedia.org/wiki/Coqodaq",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/"
+  ]
+ },
+ {
+  "name": "Cosme",
+  "address": "35 E 21st St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Flatiron District",
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Hospitality semifinalist 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Hospitality",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://en.wikipedia.org/wiki/Cosme_(restaurant)"
+  ]
+ },
+ {
+  "name": "Dante",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Bar semifinalist 2023"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Bar",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-08",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.dante-nyc.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50035310"
+  ]
+ },
+ {
+  "name": "Deer Mountain Inn",
+  "address": null,
+  "city": "Tannersville",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Greene",
+  "zip": null,
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2026 (Corwin Kave)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Corwin Kave"
+   }
+  ],
+  "chef": "Corwin Kave",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026"
+  ]
+ },
+ {
+  "name": "Don Angie",
+  "address": "103 Greenwich Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "West Village",
+  "county": "New York",
+  "zip": "10014",
+  "james_beard": [
+   "Outstanding Restaurant semifinalist 2025"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurant",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://en.wikipedia.org/wiki/Don_Angie"
+  ]
+ },
+ {
+  "name": "Double Chicken Please",
+  "address": "115 Allen St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Lower East Side",
+  "county": "New York",
+  "zip": "10002",
+  "james_beard": [
+   "Outstanding Bar semifinalist 2024",
+   "Outstanding Bar semifinalist 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Bar",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": null
+   },
+   {
+    "award": "Outstanding Bar",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://en.wikipedia.org/wiki/Double_Chicken_Please"
+  ]
+ },
+ {
+  "name": "Ensenada",
+  "address": "168 Borinquen Pl",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Kings",
+  "zip": "11211",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2024 (Luis Herrera)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Luis Herrera"
+   }
+  ],
+  "chef": "Luis Herrera",
+  "michelin_2025": null,
+  "open": false,
+  "evidence_date": null,
+  "closed_date": "2025-10-26",
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://greenpointers.com/2025/10/09/ensenada-and-ritas-both-closing-this-month/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50165593"
+  ]
+ },
+ {
+  "name": "Essential by Christophe",
+  "address": "103 W 77th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Upper West Side",
+  "county": "New York",
+  "zip": "10024",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2026 (Christophe Bellanca)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Christophe Bellanca"
+   }
+  ],
+  "chef": "Christophe Bellanca",
+  "michelin_2025": "1 Star (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Etérea",
+  "address": "511 E 5th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Restaurateur semifinalist 2024 (Ravi DeRossi (Overthrow Hospitality))"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Ravi DeRossi (Overthrow Hospitality)"
+   }
+  ],
+  "chef": "Ravi DeRossi (Overthrow Hospitality)",
+  "michelin_2025": null,
+  "open": false,
+  "evidence_date": null,
+  "closed_date": "2024-03",
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://evgrieve.com/2025/07/overthrow-hospitality-set-to-debut-al.html",
+   "https://evgrieve.com/2021/04/openings-eterea-debuts-on-5th-street.html"
+  ]
+ },
+ {
+  "name": "F.L.X. Table",
+  "address": null,
+  "city": "Geneva",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Ontario",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Professional in Beverage Service semifinalist 2025 (Christopher Bates)",
+   "Outstanding Wine and Other Beverages Program semifinalist 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Professional in Beverage Service",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Christopher Bates"
+   },
+   {
+    "award": "Outstanding Wine and Other Beverages Program",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": "Christopher Bates",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Fan-Fan Doughnuts",
+  "address": null,
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Kings",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Bakery semifinalist 2025"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Bakery",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "FIELDTRIP",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2023 (JJ Johnson)",
+   "Best Chef: New York State semifinalist 2024 (JJ Johnson)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "JJ Johnson"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "JJ Johnson"
+   }
+  ],
+  "chef": "JJ Johnson",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-09",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50090321",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50107450"
+  ]
+ },
+ {
+  "name": "Foul Witch",
+  "address": "15 Avenue A",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "East Village",
+  "county": "New York",
+  "zip": "10009",
+  "james_beard": [
+   "Best New Restaurant semifinalist 2024"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Restaurant",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": false,
+  "evidence_date": null,
+  "closed_date": "2025-11-30",
+  "note": "own site (live, no 2025-26 date seen); open status unverified",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://en.wikipedia.org/wiki/Foul_Witch",
+   "https://www.foulwitchnyc.com/",
+   "https://evgrieve.com/2026/04/singapore-social-is-opening-in-former.html"
+  ]
+ },
+ {
+  "name": "Foxface Natural",
+  "address": "189 Avenue A",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": "10009",
+  "james_beard": [
+   "Best New Restaurant semifinalist 2024"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Restaurant",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-03",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://evgrieve.com/2025/03/you-can-get-this-fresh-baked-bread-at.html",
+   "https://www.timeout.com/newyork/restaurants/foxface-natural"
+  ]
+ },
+ {
+  "name": "Francie",
+  "address": "134 Broadway",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Williamsburg",
+  "county": "Kings",
+  "zip": "11249",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2025 (Chris Cipollone)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Chris Cipollone"
+   }
+  ],
+  "chef": "Chris Cipollone",
+  "michelin_2025": "1 Star (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2025-11",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Frevo",
+  "address": "48 W 8th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Greenwich Village",
+  "county": "New York",
+  "zip": "10011",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2023 (Franco Sampogna)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Franco Sampogna"
+   }
+  ],
+  "chef": "Franco Sampogna",
+  "michelin_2025": "1 Star (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2025-11",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Gage & Tollner",
+  "address": "372 Fulton St",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Downtown Brooklyn",
+  "county": "Kings",
+  "zip": "11201",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2023 (Sohui Kim)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Sohui Kim"
+   }
+  ],
+  "chef": "Sohui Kim",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-09",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://en.wikipedia.org/wiki/Gage_&_Tollner",
+   "https://www.gageandtollner.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50104274"
+  ]
+ },
+ {
+  "name": "Good Night",
+  "address": "15 Rock City Rd",
+  "city": "Woodstock",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Ulster",
+  "zip": "12498",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2024 (Doris Choi)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Doris Choi"
+   }
+  ],
+  "chef": "Doris Choi",
+  "michelin_2025": null,
+  "open": null,
+  "evidence_date": null,
+  "closed_date": null,
+  "note": "own site (live, no 2025-26 date seen); open status unverified",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.goodnightwoodstock.com/"
+  ]
+ },
+ {
+  "name": "Gramercy Tavern",
+  "address": "42 E 20th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Flatiron District",
+  "county": "New York",
+  "zip": "10003",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2024 (Aretah Ettarh)",
+   "Best Chef: New York State semifinalist 2025 (Aretah Ettarh)",
+   "Best Chef: New York State semifinalist 2026 (Aretah Ettarh)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Aretah Ettarh"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Aretah Ettarh"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Aretah Ettarh"
+   }
+  ],
+  "chef": "Aretah Ettarh",
+  "michelin_2025": "1 Star (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Ha's Snack Bar",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2026 (Sadie Mae Burns and Anthony Ha)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Sadie Mae Burns and Anthony Ha"
+   }
+  ],
+  "chef": "Sadie Mae Burns and Anthony Ha",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026"
+  ]
+ },
+ {
+  "name": "HAGS",
+  "address": "163 1st Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "East Village",
+  "county": "New York",
+  "zip": "10003",
+  "james_beard": [
+   "Emerging Chef semifinalist 2023 (Telly Justice)",
+   "Best Chef: New York State semifinalist 2024 (Telly Justice)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Emerging Chef",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Telly Justice"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Telly Justice"
+   }
+  ],
+  "chef": "Telly Justice",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-02",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://en.wikipedia.org/wiki/Hags_(restaurant)",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50130364"
+  ]
+ },
+ {
+  "name": "Harlem Hops",
+  "address": "2268 Adam Clayton Powell Jr Blvd",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Harlem",
+  "county": "New York",
+  "zip": "10030",
+  "james_beard": [
+   "Outstanding Bar semifinalist 2023"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Bar",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-04",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.harlemhops.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50077763"
+  ]
+ },
+ {
+  "name": "Hawksmoor",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Wine and Other Beverages Program semifinalist 2025"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Wine and Other Beverages Program",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Huso",
+  "address": "323A Greenwich St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Tribeca",
+  "county": "New York",
+  "zip": "10013",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2026 (Buddha Lo)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Buddha Lo"
+   }
+  ],
+  "chef": "Buddha Lo",
+  "michelin_2025": "1 Star (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City",
+   "https://www.timeout.com/newyork/news/these-six-nyc-restaurants-just-earned-michelin-stars-111925"
+  ]
+ },
+ {
+  "name": "ILIS",
+  "address": null,
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Kings",
+  "zip": null,
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2026 (Mads Refslund)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Mads Refslund"
+   }
+  ],
+  "chef": "Mads Refslund",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026"
+  ]
+ },
+ {
+  "name": "Kabawa",
+  "address": "8 Extra Pl",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "East Village",
+  "county": "New York",
+  "zip": "10003",
+  "james_beard": [
+   "Best New Restaurant semifinalist 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Restaurant",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": "Recommended (new in MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+  ]
+ },
+ {
+  "name": "Karenderya",
+  "address": "248 Main St",
+  "city": "Nyack",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Rockland",
+  "zip": "10960",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2023 (Paolo Garcia Mendoza)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Paolo Garcia Mendoza"
+   }
+  ],
+  "chef": "Paolo Garcia Mendoza",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-08",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=957888"
+  ]
+ },
+ {
+  "name": "Kenoza Hall",
+  "address": "5762 NY State Route 52",
+  "city": "Kenoza Lake",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Sullivan",
+  "zip": "12750",
+  "james_beard": [
+   "Outstanding Restaurateur semifinalist 2023 (Sims and Kirsten Harlow Foster (Foster Supply Hospitality))"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Sims and Kirsten Harlow Foster (Foster Supply Hospitality)"
+   }
+  ],
+  "chef": "Sims and Kirsten Harlow Foster (Foster Supply Hospitality)",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.kenozahall.com/",
+   "https://www.kenozahall.com/bethelconcerts",
+   "https://www.kenozahall.com/restaurant-bar",
+   "https://www.kenozahall.com/contact"
+  ]
+ },
+ {
+  "name": "Kisa",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Best New Restaurant semifinalist 2025"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Restaurant",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Koloman",
+  "address": "16 W 29th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "NoMad",
+  "county": "New York",
+  "zip": "10001",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2025 (Markus Glocker)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Markus Glocker"
+   }
+  ],
+  "chef": "Markus Glocker",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://en.wikipedia.org/wiki/Koloman_(restaurant)"
+  ]
+ },
+ {
+  "name": "KRU",
+  "address": "190 N 14th St",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Williamsburg",
+  "county": "Kings",
+  "zip": "11249",
+  "james_beard": [
+   "Best New Restaurant semifinalist 2023"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Restaurant",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.krubrooklyn.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50127235"
+  ]
+ },
+ {
+  "name": "La Marchande",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Professional in Beverage Service semifinalist 2026 (Amy Racine)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Professional in Beverage Service",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Amy Racine"
+   }
+  ],
+  "chef": "Amy Racine",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026"
+  ]
+ },
+ {
+  "name": "La Vara",
+  "address": "268 Clinton St",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Cobble Hill",
+  "county": "Kings",
+  "zip": "11201",
+  "james_beard": [
+   "Outstanding Chef semifinalist 2023 (Eder Montero and Alex Raij)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Chef",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Eder Montero and Alex Raij"
+   }
+  ],
+  "chef": "Eder Montero and Alex Raij",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.lavarany.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41648523"
+  ]
+ },
+ {
+  "name": "Leyenda",
+  "address": null,
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Kings",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Bar semifinalist 2025"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Bar",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Librae Bakery",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Bakery semifinalist 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Bakery",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026"
+  ]
+ },
+ {
+  "name": "Lil' Deb's Oasis",
+  "address": "747 Columbia St",
+  "city": "Hudson",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Columbia",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Hospitality semifinalist 2023"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Hospitality",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": false,
+  "evidence_date": null,
+  "closed_date": "2026-10-12",
+  "note": "Closing announced June 2026; final night of service set for Oct 12, 2026 (five days after this check). Do not list.",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://en.wikipedia.org/wiki/Lil'_Deb's_Oasis"
+  ]
+ },
+ {
+  "name": "Lilia",
+  "address": null,
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Kings",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Chef semifinalist 2026 (Missy Robbins)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Chef",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Missy Robbins"
+   }
+  ],
+  "chef": "Missy Robbins",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026"
+  ]
+ },
+ {
+  "name": "Lingo",
+  "address": null,
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Kings",
+  "zip": null,
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2025 (Emily Yuen)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Emily Yuen"
+   }
+  ],
+  "chef": "Emily Yuen",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "LittleMad",
+  "address": "110 Madison Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "NoMad",
+  "county": "New York",
+  "zip": "10016",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2023 (Sol Han)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Sol Han"
+   }
+  ],
+  "chef": "Sol Han",
+  "michelin_2025": null,
+  "open": false,
+  "evidence_date": null,
+  "closed_date": null,
+  "note": "own site (live, no 2025-26 date seen); open status unverified",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.littlemadnyc.com/",
+   "https://www.nyctourism.com/restaurants/littlemad/"
+  ]
+ },
+ {
+  "name": "Lola's",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2025 (Suzanne Cupps)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Suzanne Cupps"
+   }
+  ],
+  "chef": "Suzanne Cupps",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Lord's",
+  "address": "506 LaGuardia Pl",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Greenwich Village",
+  "county": "New York",
+  "zip": "10012",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2024 (Ed Szymanski)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Ed Szymanski"
+   }
+  ],
+  "chef": "Ed Szymanski",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-09",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://en.wikipedia.org/wiki/Lord's_(restaurant)",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50126842"
+  ]
+ },
+ {
+  "name": "Loring Place",
+  "address": "21 W 8th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Greenwich Village",
+  "county": "New York",
+  "zip": "10011",
+  "james_beard": [
+   "Outstanding Chef semifinalist 2024 (Dan Kluger)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Chef",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Dan Kluger"
+   }
+  ],
+  "chef": "Dan Kluger",
+  "michelin_2025": null,
+  "open": false,
+  "evidence_date": null,
+  "closed_date": "2026-07-14",
+  "note": "Closed after service July 14, 2026, citing rising costs; the own site now points guests to the team's Greywind and Spygold at 451 Tenth Ave.",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://whatnow.com/new-york/restaurants/a-new-york-city-restaurant-is-entering-its-final-weeks-before-closure/",
+   "https://www.loringplacenyc.com/"
+  ]
+ },
+ {
+  "name": "Lysée",
+  "address": "44 E 21st St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Flatiron District",
+  "county": "New York",
+  "zip": "10010",
+  "james_beard": [
+   "Outstanding Pastry Chef or Baker semifinalist 2024 (Eunji Lee)",
+   "Outstanding Pastry Chef or Baker semifinalist 2026 (Eunji Lee)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Pastry Chef or Baker",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Eunji Lee"
+   },
+   {
+    "award": "Outstanding Pastry Chef or Baker",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Eunji Lee"
+   }
+  ],
+  "chef": "Eunji Lee",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://en.wikipedia.org/wiki/Lysée"
+  ]
+ },
+ {
+  "name": "Make My Cake",
+  "address": "409 W 125th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Harlem",
+  "county": "New York",
+  "zip": "10027",
+  "james_beard": [
+   "Outstanding Bakery semifinalist 2024"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Bakery",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": null,
+  "evidence_date": null,
+  "closed_date": null,
+  "note": "own site (live, no 2025-26 date seen); open status unverified",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.makemycake.com/"
+  ]
+ },
+ {
+  "name": "Martiny's",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Professional in Cocktail Service semifinalist 2025 (Takuma Watanabe)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Professional in Cocktail Service",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Takuma Watanabe"
+   }
+  ],
+  "chef": "Takuma Watanabe",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Oiji Mi",
+  "address": "17 W 19th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Flatiron District",
+  "county": "New York",
+  "zip": "10011",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2025 (Brian Kim)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Brian Kim"
+   }
+  ],
+  "chef": "Brian Kim",
+  "michelin_2025": "1 Star (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2025-11",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Raf's",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Pastry Chef or Baker semifinalist 2025 (Camari Mick)",
+   "Outstanding Restaurateur semifinalist 2026 (Jennifer Vitagliano and Nicole Vitagliano (Elizabeth Street Hospitality))"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Pastry Chef or Baker",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Camari Mick"
+   },
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Jennifer Vitagliano and Nicole Vitagliano (Elizabeth Street Hospitality)"
+   }
+  ],
+  "chef": "Camari Mick; Jennifer Vitagliano and Nicole Vitagliano (Elizabeth Street Hospitality)",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": "Pastry chef Camari Mick (honored 2023-2025) is opening her own restaurant, Calabash, in the West Village (reported Sept 2026).",
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Red Hook Tavern",
+  "address": "329 Van Brunt St",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Red Hook",
+  "county": "Kings",
+  "zip": "11231",
+  "james_beard": [
+   "Outstanding Hospitality semifinalist 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Hospitality",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://en.wikipedia.org/wiki/Red_Hook_Tavern"
+  ]
+ },
+ {
+  "name": "Restaurant Le B",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2026 (Angie Mar)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Angie Mar"
+   }
+  ],
+  "chef": "Angie Mar",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026"
+  ]
+ },
+ {
+  "name": "Rezdôra",
+  "address": "27 E 20th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Flatiron District",
+  "county": "New York",
+  "zip": "10003",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2026 (Stefano Secchi)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Stefano Secchi"
+   }
+  ],
+  "chef": "Stefano Secchi",
+  "michelin_2025": "1 Star (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Rolo's",
+  "address": "853 Onderdonk Ave",
+  "city": "Queens",
+  "municipality": null,
+  "neighborhood": "Ridgewood",
+  "county": "Queens",
+  "zip": "11385",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2026 (Rafiq Salim)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Rafiq Salim"
+   }
+  ],
+  "chef": "Rafiq Salim",
+  "michelin_2025": "Bib Gourmand (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+  ]
+ },
+ {
+  "name": "Scarr's Pizza",
+  "address": "35 Orchard St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Lower East Side",
+  "county": "New York",
+  "zip": "10002",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2024 (Scarr Pimentel)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Scarr Pimentel"
+   }
+  ],
+  "chef": "Scarr Pimentel",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-09",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://en.wikipedia.org/wiki/Scarr's_Pizza",
+   "https://www.scarrspizza.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50130050"
+  ]
+ },
+ {
+  "name": "She Wolf Bakery",
+  "address": "141 Flushing Ave, Suite 103 (Brooklyn Navy Yard, Building 77)",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Kings",
+  "zip": "11205",
+  "james_beard": [
+   "Outstanding Bakery semifinalist 2023"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Bakery",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-04",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://data.ny.gov/resource/d6dy-3h7r.json?trade_name=SHE%20WOLF%20BAKERY",
+   "https://www.shewolfbakery.com/where-to-find-us/"
+  ]
+ },
+ {
+  "name": "Shota Omakase",
+  "address": "50 S 3rd St",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Williamsburg",
+  "county": "Kings",
+  "zip": "11249",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2026 (Cheng Lin)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Cheng Lin"
+   }
+  ],
+  "chef": "Cheng Lin",
+  "michelin_2025": "1 Star (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+  ]
+ },
+ {
+  "name": "Sip & Guzzle",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Best New Bar semifinalist 2025"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Bar",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Stissing House",
+  "address": "7801 S Main St",
+  "city": "Pine Plains",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Dutchess",
+  "zip": "12567",
+  "james_beard": [
+   "Best New Restaurant semifinalist 2023",
+   "Best Chef: New York State semifinalist 2024 (Clare de Boer)",
+   "Best Chef: New York State semifinalist 2025 (Clare de Boer)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Restaurant",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": null
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Clare de Boer"
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Clare de Boer"
+   }
+  ],
+  "chef": "Clare de Boer",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://en.wikipedia.org/wiki/Stissing_House"
+  ]
+ },
+ {
+  "name": "Sunn's",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Emerging Chef semifinalist 2026 (Sunny Lee)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Emerging Chef",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Sunny Lee"
+   }
+  ],
+  "chef": "Sunny Lee",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026"
+  ]
+ },
+ {
+  "name": "Superiority Burger",
+  "address": "119 Avenue A",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "East Village",
+  "county": "New York",
+  "zip": "10009",
+  "james_beard": [
+   "Outstanding Restaurant semifinalist 2024"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurant",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": "Bib Gourmand (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2025-11",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+  ]
+ },
+ {
+  "name": "Taqueria Ramírez",
+  "address": "94 Franklin St",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Kings",
+  "zip": "11222",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2023 (Giovanni Cervantes)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Giovanni Cervantes"
+   }
+  ],
+  "chef": "Giovanni Cervantes",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-07",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50110456"
+  ]
+ },
+ {
+  "name": "Tatiana",
+  "address": "10 Lincoln Center Plaza",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Lincoln Square",
+  "county": "New York",
+  "zip": "10023",
+  "james_beard": [
+   "Best New Restaurant semifinalist 2024",
+   "Best Chef: New York State semifinalist 2025 (Kwame Onwuachi)",
+   "Outstanding Chef semifinalist 2026 (Kwame Onwuachi)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best New Restaurant",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": null
+   },
+   {
+    "award": "Best Chef: New York State",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Kwame Onwuachi"
+   },
+   {
+    "award": "Outstanding Chef",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Kwame Onwuachi"
+   }
+  ],
+  "chef": "Kwame Onwuachi",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": "Listed by JBF in 2024 as \"Tatiana by Kwame Onwuachi\".",
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://en.wikipedia.org/wiki/Tatiana_(restaurant)"
+  ]
+ },
+ {
+  "name": "The DeBruce",
+  "address": "982 DeBruce Rd",
+  "city": "Livingston Manor",
+  "municipality": "Rockland",
+  "neighborhood": null,
+  "county": "Sullivan",
+  "zip": "12758",
+  "james_beard": [
+   "Outstanding Restaurateur semifinalist 2023 (Sims and Kirsten Harlow Foster (Foster Supply Hospitality))",
+   "Outstanding Restaurant semifinalist 2024"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Sims and Kirsten Harlow Foster (Foster Supply Hospitality)"
+   },
+   {
+    "award": "Outstanding Restaurant",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": "Sims and Kirsten Harlow Foster (Foster Supply Hospitality)",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-05",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.thedebruce.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=346522"
+  ]
+ },
+ {
+  "name": "The Restaurant at Kanopi",
+  "address": "3 Renaissance Square",
+  "city": "White Plains",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Westchester",
+  "zip": "10601",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2023 (Anthony Gonçalves)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Anthony Gonçalves"
+   }
+  ],
+  "chef": "Anthony Gonçalves",
+  "michelin_2025": null,
+  "open": null,
+  "evidence_date": null,
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.theopuswestchester.com/dining/kanopi"
+  ]
+ },
+ {
+  "name": "Time & Tide",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Emerging Chef semifinalist 2025 (Danny Garcia)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Emerging Chef",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Danny Garcia"
+   }
+  ],
+  "chef": "Danny Garcia",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2025-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Tourmaline",
+  "address": null,
+  "city": "Queens",
+  "municipality": null,
+  "neighborhood": "Forest Hills",
+  "county": "Queens",
+  "zip": null,
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2026 (Yvan Lemoine)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Yvan Lemoine"
+   }
+  ],
+  "chef": "Yvan Lemoine",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026"
+  ]
+ },
+ {
+  "name": "Undercote",
+  "address": "16 W 22nd St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Flatiron District",
+  "county": "New York",
+  "zip": "10010",
+  "james_beard": [
+   "Outstanding Restaurateur semifinalist 2025 (Simon Kim (Gracious Hospitality))",
+   "Outstanding Restaurateur semifinalist 2026 (Simon Kim (Gracious Hospitality))"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2025,
+    "level": "semifinalist",
+    "person": "Simon Kim (Gracious Hospitality)"
+   },
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": "Simon Kim (Gracious Hospitality)"
+   }
+  ],
+  "chef": "Simon Kim (Gracious Hospitality)",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": "Downstairs bar at COTE (same address as COTE per its group listing); address not separately verified.",
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists"
+  ]
+ },
+ {
+  "name": "Ursula",
+  "address": "387A Nostrand Ave",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Kings",
+  "zip": "11216",
+  "james_beard": [
+   "Best Chef: New York State semifinalist 2023 (Eric See)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Best Chef: New York State",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": "Eric See"
+   }
+  ],
+  "chef": "Eric See",
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-05",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50134582"
+  ]
+ },
+ {
+  "name": "Veselka",
+  "address": "144 Second Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "East Village",
+  "county": "New York",
+  "zip": "10003",
+  "james_beard": [
+   "Outstanding Restaurant semifinalist 2023"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurant",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026",
+  "closed_date": null,
+  "note": "Own site footer dated 2026; Veselka also has other locations (e.g. Williamsburg, Grand Central).",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://en.wikipedia.org/wiki/Veselka",
+   "https://veselka.com/"
+  ]
+ },
+ {
+  "name": "Via Carota",
+  "address": null,
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "New York",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Restaurant semifinalist 2023",
+   "Outstanding Restaurant semifinalist 2026"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurant",
+    "year": 2023,
+    "level": "semifinalist",
+    "person": null
+   },
+   {
+    "award": "Outstanding Restaurant",
+    "year": 2026,
+    "level": "semifinalist",
+    "person": null
+   }
+  ],
+  "chef": null,
+  "michelin_2025": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/james-beard-award-semifinalists-2026",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists"
+  ]
+ },
+ {
+  "name": "Zaab Zaab",
+  "address": "76-04 Woodside Ave",
+  "city": "Queens",
+  "municipality": null,
+  "neighborhood": "Elmhurst",
+  "county": "Queens",
+  "zip": "11373",
+  "james_beard": [
+   "Outstanding Restaurateur semifinalist 2024 (Bryan Chunton and Pei Shan Wei)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Bryan Chunton and Pei Shan Wei"
+   }
+  ],
+  "chef": "Bryan Chunton and Pei Shan Wei",
+  "michelin_2025": "Bib Gourmand (MICHELIN Guide New York 2025)",
+  "open": true,
+  "evidence_date": "2025-11",
+  "closed_date": null,
+  "note": "JBF listed the owners under \"New York, NY\"; the Bib Gourmand Zaab Zaab is in Elmhurst, Queens.",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+   "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+  ]
+ },
+ {
+  "name": "Zaab Zaab Talay",
+  "address": "208 Grand St",
+  "city": "Brooklyn",
+  "municipality": null,
+  "neighborhood": "Williamsburg",
+  "county": "Kings",
+  "zip": null,
+  "james_beard": [
+   "Outstanding Restaurateur semifinalist 2024 (Bryan Chunton and Pei Shan Wei)"
+  ],
+  "james_beard_detail": [
+   {
+    "award": "Outstanding Restaurateur",
+    "year": 2024,
+    "level": "semifinalist",
+    "person": "Bryan Chunton and Pei Shan Wei"
+   }
+  ],
+  "chef": "Bryan Chunton and Pei Shan Wei",
+  "michelin_2025": null,
+  "open": null,
+  "evidence_date": null,
+  "closed_date": null,
+  "note": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists"
+  ]
+ }
+]

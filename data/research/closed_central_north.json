@@ -1,0 +1,46 @@
+[
+ {
+  "name": "Lupo's S&S Char-Pit",
+  "address": "6 W State St",
+  "city": "Binghamton",
+  "county": "Broome",
+  "closed_reason": "Downtown Binghamton spiedie restaurant closed; the Lupo's Char Pit in Endwell/Endicott continues separately",
+  "closed_date": "2023",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Spiedie"
+  ]
+ },
+ {
+  "name": "Sharkey's Bar & Grill",
+  "address": "56 Glenwood Ave",
+  "city": "Binghamton",
+  "county": "Broome",
+  "closed_reason": "Spiedie bar (claimed 1947 start) closed; the state permit for Sharkey's is marked inactive and the address now carries another restaurant's name",
+  "closed_date": null,
+  "sources": [
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=256198",
+   "https://uncoveringnewyork.com/spiedies-in-binghamton/",
+   "https://en.wikipedia.org/wiki/Spiedie"
+  ]
+ },
+ {
+  "name": "The Savoy",
+  "address": "255 E Dominick St",
+  "city": "Rome",
+  "county": "Oneida",
+  "closed_reason": "Family Italian restaurant dating to 1908 closed after 114 years (pandemic, inflation, food costs); building sold April 2026 with no announced reopening",
+  "closed_date": "2022-01",
+  "sources": []
+ },
+ {
+  "name": "Ramon's Bakery",
+  "address": "103 Main St",
+  "city": "Whitesboro",
+  "county": "Oneida",
+  "closed_reason": "Whitesboro branch of the Utica bakery (in the former Star Bakery space) closed for good on December 28, 2025, partly for health reasons; the Utica shop stays open",
+  "closed_date": "2025-12",
+  "sources": [
+   "https://bigfrog104.com/ramons-bakery-closes-whitesboro/"
+  ]
+ }
+]

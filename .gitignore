@@ -1,0 +1,33 @@
+# build caches (Wisconsin once committed a 180 MB DerivedData folder)
+DerivedData*/
+build/
+*.xcodeproj/
+*.xcarchive
+*.ipa
+.DS_Store
+__pycache__/
+.venv/
+
+# data: raw downloads, Google 2021-derived files and the private leaderboard never go in a public repo
+data/*
+!data/research/
+site/
+qa/
+screenshots/
+
+# secrets and signing material never go in a public repo (App Store Connect API keys, certificates, profiles, tokens)
+.env
+.env.*
+*.p8
+*.p12
+*.pem
+*.key
+*.cer
+*.mobileprovision
+AuthKey_*
+.claude/settings.local.json
+# Xcode per-user state and data caches anywhere in the tree
+xcuserdata/
+*.xcuserstate
+*.pkl
+*.parquet

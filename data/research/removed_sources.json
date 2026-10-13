@@ -1,0 +1,789 @@
+[
+ {
+  "file": "app/central_north.json",
+  "name": "Bella Regina",
+  "city": "Utica",
+  "removed_hosts": [
+   "spectrumlocalnews.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://www.iloveny.com/blog/post/everything-you-have-to-eat-in-central-new-york/",
+   "https://exploringupstate.com/utica-food-tour/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=290433"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "Chesterfield's Tavolo",
+  "city": "Utica",
+  "removed_hosts": [
+   "romesentinel.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [],
+  "status": "resourced"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "Cafe CaNole",
+  "city": "New Hartford",
+  "removed_hosts": [
+   "romesentinel.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=290814"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "Pastabilities",
+  "city": "Syracuse",
+  "removed_hosts": [
+   "romesentinel.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=293908"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "O'Scugnizzo Pizzeria",
+  "city": "Utica",
+  "removed_hosts": [
+   "wktv.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://www.uticapizza.com/",
+   "https://pizzahalloffame.com/oscugnizzos-pizzeria/",
+   "https://en.wikipedia.org/wiki/Italian_tomato_pie",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=289033"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "Holland Farms Bakery & Deli",
+  "city": "Yorkville",
+  "removed_hosts": [
+   "cnycentral.com (robots.txt disallows ClaudeBot, anthropic-ai)",
+   "spectrumlocalnews.com (robots.txt disallows ClaudeBot, anthropic-ai)",
+   "thisiscny.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [],
+  "status": "resourced"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "Holland Farms Bakery & Deli",
+  "city": "Manlius",
+  "removed_hosts": [
+   "cnycentral.com (robots.txt disallows ClaudeBot, anthropic-ai)",
+   "spectrumlocalnews.com (robots.txt disallows ClaudeBot, anthropic-ai)",
+   "thisiscny.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=1177045"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "Hemstrought's Bakery",
+  "city": "Utica",
+  "removed_hosts": [
+   "spectrumlocalnews.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://www.hemstroughts.com/",
+   "https://data.ny.gov/resource/d6dy-3h7r.json?trade_name=HEMSTROUGHTS%20BAKERIES",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=802173"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "Florentine Pastry Shop",
+  "city": "Utica",
+  "removed_hosts": [
+   "nysenate.gov (bot check)",
+   "romesentinel.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://exploringupstate.com/utica-food-tour/",
+   "https://data.ny.gov/resource/d6dy-3h7r.json?trade_name=FLORENTINE%20PASTRY%20SHOP"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "Gingerbread Bake Shop",
+  "city": "New Hartford",
+  "removed_hosts": [
+   "romesentinel.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://exploringupstate.com/utica-food-tour/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=290672"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "Ferlo's Original Bakery",
+  "city": "Rome",
+  "removed_hosts": [
+   "romesentinel.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://data.ny.gov/resource/d6dy-3h7r.json?trade_name=THE%20ORIGINAL%20FERLO%20BAKE"
+  ],
+  "status": "moved to leads"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "North Star Orchards",
+  "city": "Westmoreland",
+  "removed_hosts": [
+   "romesentinel.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://data.ny.gov/resource/d6dy-3h7r.json?trade_name=NORTH%20STAR%20ORCHARDS"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "Ramon's Bakery",
+  "city": "Whitesboro",
+  "removed_hosts": [
+   "romesentinel.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [],
+  "status": "moved to leads",
+  "note": "closed 2025-12-28: added to closed_central_north.json; the Utica shop is a lead in LEADS_central_north.md"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "Sweet Life of a Baker",
+  "city": "Sherrill",
+  "removed_hosts": [
+   "romesentinel.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [],
+  "status": "moved to leads"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "Lupo's Char Pit",
+  "city": "Endwell",
+  "removed_hosts": [
+   "bupipedream.com (robots.txt disallows ClaudeBot)",
+   "romesentinel.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=256342"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "Ronnie's Michigan Stand",
+  "city": "Morrisonville",
+  "removed_hosts": [
+   "wcax.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://www.townofplattsburghny.gov/home-of-the-michigan/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=268702"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/central_north.json",
+  "name": "The Krebs",
+  "city": "Skaneateles",
+  "removed_hosts": [
+   "cnycentral.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://www.thekrebs.com/",
+   "https://www.iloveny.com/listing/the-krebs/126098/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=877944"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/gaps.json",
+  "name": "Hand Rolled Bagels",
+  "city": "New Hyde Park",
+  "removed_hosts": [
+   "nassaucountytourism.com (page-level crawler check)"
+  ],
+  "left": [
+   "https://hrbagels.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=577029"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/gaps.json",
+  "name": "Bagel Hut",
+  "city": "Great Neck",
+  "removed_hosts": [
+   "nassaucountytourism.com (page-level crawler check)"
+  ],
+  "left": [
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=570429"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/gaps.json",
+  "name": "Manhasset Bagels",
+  "city": "Manhasset",
+  "removed_hosts": [
+   "nassaucountytourism.com (page-level crawler check)"
+  ],
+  "left": [
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=1053970"
+  ],
+  "status": "moved to leads"
+ },
+ {
+  "file": "app/gaps.json",
+  "name": "Traditions Eatery",
+  "city": "Lawrence",
+  "removed_hosts": [
+   "nassaucountytourism.com (page-level crawler check)"
+  ],
+  "left": [
+   "https://traditionseatery.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=666090"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/manhattan.json",
+  "name": "Scarr's Pizza",
+  "city": "Manhattan",
+  "removed_hosts": [
+   "theinfatuation.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://www.timeout.com/newyork/restaurants/best-pizza-in-nyc",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50130050",
+   "https://en.wikipedia.org/wiki/Scarr%27s_Pizza"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/manhattan.json",
+  "name": "Cuts & Slices",
+  "city": "Manhattan",
+  "removed_hosts": [
+   "theinfatuation.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://www.timeout.com/newyork/restaurants/best-pizza-in-nyc",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50158594"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/manhattan.json",
+  "name": "Ess-a-Bagel",
+  "city": "Manhattan",
+  "removed_hosts": [
+   "theinfatuation.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://www.timeout.com/newyork/restaurants/15-best-bagels-in-new-york-ranked",
+   "https://www.essabagel.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50052503"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/manhattan.json",
+  "name": "Murray's Bagels",
+  "city": "Manhattan",
+  "removed_hosts": [
+   "theinfatuation.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://www.timeout.com/newyork/restaurants/15-best-bagels-in-new-york-ranked",
+   "https://www.murraysbagels.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40544823"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/manhattan.json",
+  "name": "Kossar's Bagels & Bialys",
+  "city": "Manhattan",
+  "removed_hosts": [
+   "theinfatuation.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://kossars.com/new-york-lower-east-side-kossar-s-bagels-and-bialys-main-our-store-and-history",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50078532",
+   "https://en.wikipedia.org/wiki/Kossar%27s_Bialys"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/manhattan.json",
+  "name": "Nom Wah Tea Parlor",
+  "city": "Manhattan",
+  "removed_hosts": [
+   "theinfatuation.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50128675",
+   "https://en.wikipedia.org/wiki/Nom_Wah_Tea_Parlor",
+   "https://www.foodsofny.com/blog/14-best-dim-sum-restaurants-in-chinatown-nyc/"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/manhattan.json",
+  "name": "Golden Unicorn",
+  "city": "Manhattan",
+  "removed_hosts": [
+   "theinfatuation.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://www.goldenunicornrestaurant.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50001456"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/manhattan.json",
+  "name": "Jing Fong",
+  "city": "Manhattan",
+  "removed_hosts": [
+   "theinfatuation.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://www.ilovetheupperwestside.com/popular-chinese-spot-closes-doors/",
+   "http://jingfongny.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50114127"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/manhattan.json",
+  "name": "Royal Seafood Restaurant",
+  "city": "Manhattan",
+  "removed_hosts": [
+   "theinfatuation.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50106213",
+   "https://www.foodsofny.com/blog/14-best-dim-sum-restaurants-in-chinatown-nyc/"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/manhattan.json",
+  "name": "Ping's Seafood",
+  "city": "Manhattan",
+  "removed_hosts": [
+   "theinfatuation.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50172633"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/manhattan.json",
+  "name": "House of Joy",
+  "city": "Manhattan",
+  "removed_hosts": [
+   "theinfatuation.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50114708"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/manhattan.json",
+  "name": "Dim Sum Palace",
+  "city": "Manhattan",
+  "removed_hosts": [
+   "theinfatuation.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50189950"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/manhattan.json",
+  "name": "100 Feast & Lounge",
+  "city": "Manhattan",
+  "removed_hosts": [
+   "theinfatuation.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50180638"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/manhattan.json",
+  "name": "Tim Ho Wan",
+  "city": "Manhattan",
+  "removed_hosts": [
+   "theinfatuation.com (robots.txt disallows ClaudeBot, anthropic-ai)"
+  ],
+  "left": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50056918",
+   "https://timhowanusa.com/"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/manhattan.json",
+  "name": "Grand Central Oyster Bar",
+  "city": "Manhattan",
+  "removed_hosts": [
+   "oysterbarny.com (robots.txt disallows ClaudeBot, Claude-User, anthropic-ai)"
+  ],
+  "left": [
+   "https://www.tastingtable.com/1557248/oldest-nyc-restaurants-open-today",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40368223",
+   "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Anchor Bar",
+  "city": "Buffalo",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://anchorbar.com/locations/buffalo-ny/",
+   "https://anchorbar.com/history/",
+   "https://buffalohistory.org/who-served-buffalos-first-wings/",
+   "https://www.buffalorising.com/2026/08/chicken-wings-in-buffalo-a-timeline/",
+   "https://en.wikipedia.org/wiki/Anchor_Bar"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Duff's Famous Wings",
+  "city": "Amherst",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://duffswings.com/our-story/"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Bar-Bill Tavern",
+  "city": "East Aurora",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://www.wkbw.com/news/local-news/man-facing-multiple-charges-after-allegedly-pulling-a-gun-on-another-customer-at-bar-bill",
+   "https://www.wkbw.com/news/local-news/cattaraugus-county/the-depot-stays-the-depot-bar-bill-tavern-owners-set-to-reopen-the-ellicottville-depot"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Gabriel's Gate",
+  "city": "Buffalo",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Elmo's Bar & Restaurant",
+  "city": "Getzville",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Kelly's Korner",
+  "city": "Buffalo",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Nine-Eleven Tavern",
+  "city": "Buffalo",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Mammoser's Tavern & Restaurant",
+  "city": "Hamburg",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Glen Park Tavern",
+  "city": "Williamsville",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://glenparktavern.com/",
+   "https://glenparktavern.com/about"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Cole's",
+  "city": "Buffalo",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://coles-buffalo.com/"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Gene McCarthy's",
+  "city": "Buffalo",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://www.genemccarthys.com/"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Blackthorn Restaurant & Pub",
+  "city": "Buffalo",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://www.blackthornrestaurant.com/"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Doc Sullivan's",
+  "city": "Buffalo",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "O'Neill's Stadium Inn + Grill",
+  "city": "Orchard Park",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Schwabl's",
+  "city": "West Seneca",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://www.schwabls.com/"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Charlie the Butcher's Kitchen",
+  "city": "Williamsville",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://www.btpm.org/local/2025-06-12/beef-on-weck-takes-center-stage-in-wny-on-national-roast-beef-day",
+   "https://www.buffalorising.com/2026/08/7-sandwiches-every-buffalonian-should-eat-at-least-once/"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Anderson's Frozen Custard",
+  "city": "Kenmore",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://www.andersonscustard.com/"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Eagle House",
+  "city": "Williamsville",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://eaglehouseonline.com/",
+   "https://eaglehouseonline.com/williamsville-the-eagle-house-restaurant-about"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Bocce Club Pizza",
+  "city": "Amherst",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "La Nova Pizzeria",
+  "city": "Buffalo",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://www.lanovapizzeriabuffalo.com/"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Imperial Pizza",
+  "city": "Buffalo",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Santora's Pizzeria",
+  "city": "Depew",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://santoraspizza.com/"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Lovejoy Pizza",
+  "city": "Buffalo",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://lovejoypizza.com/"
+  ],
+  "status": "moved to leads"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Picasso's Pizza",
+  "city": "West Seneca",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Bob & John's La Hacienda",
+  "city": "Buffalo",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Ted's Hot Dogs",
+  "city": "Tonawanda",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://www.wkbw.com/news/local-news/northtowns/a-buffalo-staple-national-hot-dog-day-brings-long-lines-and-excitement-to-teds-hot-dogs",
+   "https://www.tedshotdogs.com/history",
+   "https://www.iloveny.com/blog/post/best-places-to-get-a-hot-dog-in-new-york/"
+  ],
+  "status": "resourced"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Taffy's Hot Dog Stand",
+  "city": "Orchard Park",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [],
+  "status": "moved to leads"
+ },
+ {
+  "file": "app/western.json",
+  "name": "Ulrich's 1868 Tavern",
+  "city": "Buffalo",
+  "removed_hosts": [
+   "visitbuffalo.com (bot check)"
+  ],
+  "left": [
+   "https://www.wkbw.com/news/local-news/buffalo/buffalos-osteria-166-restaurant-moving-new-location-downtown-with-new-concept",
+   "https://www.buffalorising.com/2026/02/osteria-166-announces-closure-and-launch-of-new-lunch-concept-at-ulrichs-1868-tavern/",
+   "https://www.preservationready.org/Buildings/674EllicottStreet"
+  ],
+  "status": "resourced"
+ }
+]

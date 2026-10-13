@@ -1,0 +1,173 @@
+[
+ {
+  "name": "Foul Witch",
+  "address": "15 Avenue A",
+  "city": "Manhattan",
+  "county": "New York",
+  "closed_reason": "Closed Nov 30, 2025 (EV Grieve); Singapore Social is opening in the former space (EV Grieve, Apr 2026).",
+  "closed_date": "2025-11-30",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://en.wikipedia.org/wiki/Foul_Witch",
+   "https://www.foulwitchnyc.com/",
+   "https://evgrieve.com/2026/04/singapore-social-is-opening-in-former.html"
+  ]
+ },
+ {
+  "name": "Ensenada",
+  "address": "168 Borinquen Pl",
+  "city": "Brooklyn",
+  "county": "Kings",
+  "closed_reason": "Closing announced by Greenpointers on Oct 9, 2025; last service Oct 26, 2025.",
+  "closed_date": "2025-10-26",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://greenpointers.com/2025/10/09/ensenada-and-ritas-both-closing-this-month/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50165593"
+  ]
+ },
+ {
+  "name": "Etérea",
+  "address": "511 E 5th St",
+  "city": "Manhattan",
+  "county": "New York",
+  "closed_reason": "Closed March 2024 (EV Grieve).",
+  "closed_date": "2024-03",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://evgrieve.com/2025/07/overthrow-hospitality-set-to-debut-al.html",
+   "https://evgrieve.com/2021/04/openings-eterea-debuts-on-5th-street.html"
+  ]
+ },
+ {
+  "name": "Aldama",
+  "address": "91 S 6th St",
+  "city": "Brooklyn",
+  "county": "Kings",
+  "closed_reason": "Good Days opened in the former space (Greenpointers, Oct 3, 2025).",
+  "closed_date": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://greenpointers.com/2025/10/03/good-days-a-modern-american-bistro-opened-this-week-in-williamsburg/"
+  ]
+ },
+ {
+  "name": "LittleMad",
+  "address": "110 Madison Ave",
+  "city": "Manhattan",
+  "county": "New York",
+  "closed_reason": "NYC Tourism lists it as out of business (no date); no NYC inspection record remains.",
+  "closed_date": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.littlemadnyc.com/",
+   "https://www.nyctourism.com/restaurants/littlemad/"
+  ]
+ },
+ {
+  "name": "Clover Hill",
+  "address": "20 Columbia Pl",
+  "city": "Brooklyn",
+  "county": "Kings",
+  "closed_reason": "Closed permanently in October 2025.",
+  "closed_date": "2025-10",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-restaurant-and-chef-awards-nominees",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-award-winners",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-restaurant-and-chef-award-nominees",
+   "https://en.wikipedia.org/wiki/Clover_Hill_(restaurant)"
+  ]
+ },
+ {
+  "name": "Loring Place",
+  "address": "21 W 8th St",
+  "city": "Manhattan",
+  "county": "New York",
+  "closed_reason": "Closed after service July 14, 2026.",
+  "closed_date": "2026-07-14",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://whatnow.com/new-york/restaurants/a-new-york-city-restaurant-is-entering-its-final-weeks-before-closure/",
+   "https://www.loringplacenyc.com/"
+  ]
+ },
+ {
+  "name": "Sushi Ichimura",
+  "address": "412 Greenwich St",
+  "city": "Manhattan",
+  "county": "New York",
+  "closed_reason": "Closed in 2025; Muku opened in the same space.",
+  "closed_date": "2025",
+  "sources": [
+   "https://www.jamesbeard.org/stories/2025-james-beard-awards-restaurant-and-chef-nominees",
+   "https://www.jamesbeard.org/stories/the-2025-james-beard-award-semifinalists",
+   "https://en.wikipedia.org/wiki/Sushi_Ichimura"
+  ]
+ },
+ {
+  "name": "Al Coro",
+  "address": "85 10th Ave",
+  "city": "Manhattan",
+  "county": "New York",
+  "closed_reason": "Closed at the end of 2023; the space reopened as Crane Club.",
+  "closed_date": "2023",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://en.wikipedia.org/wiki/Al_Coro",
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+  ]
+ },
+ {
+  "name": "Llama Inn",
+  "address": "50 Withers St",
+  "city": "Brooklyn",
+  "county": "Kings",
+  "closed_reason": "Marked closed in the 2025 Bib Gourmand list; no NYC inspection record remains.",
+  "closed_date": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-restaurant-and-chef-awards-nominees",
+   "https://en.wikipedia.org/wiki/Llama_Inn",
+   "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+  ]
+ },
+ {
+  "name": "Prime Burger",
+  "address": "5 E 51st St",
+  "city": "Manhattan",
+  "county": "New York",
+  "closed_reason": "Closed in 2012.",
+  "closed_date": "2012",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_James_Beard_America%27s_Classics",
+   "https://en.wikipedia.org/wiki/Prime_Burger"
+  ]
+ },
+ {
+  "name": "Lil' Deb's Oasis",
+  "address": "747 Columbia St",
+  "city": "Hudson",
+  "county": "Columbia",
+  "closed_reason": "Final night of service announced for Oct 12, 2026.",
+  "closed_date": "2026-10-12",
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://en.wikipedia.org/wiki/Lil'_Deb's_Oasis"
+  ]
+ },
+ {
+  "name": "Cadence",
+  "address": "111 E 7th St",
+  "city": "Manhattan",
+  "county": "New York",
+  "closed_reason": "Not on Overthrow Hospitality's current venue list; no NYC health inspection since Nov 7, 2024.",
+  "closed_date": null,
+  "sources": [
+   "https://www.jamesbeard.org/stories/the-2023-james-beard-awards-semifinalists",
+   "https://www.jamesbeard.org/stories/the-2024-james-beard-awards-semifinalists",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50085102"
+  ]
+ }
+]

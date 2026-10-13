@@ -1,0 +1,1607 @@
+[
+ {
+  "name": "Joe's Pizza",
+  "address": "7 Carmine St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Greenwich Village",
+  "county": "New York",
+  "zip": "10014",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [
+   "plain cheese slice"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Founded 1975 by Pino 'Joe' Pozzuoli at the corner of Bleecker and Carmine; later moved three doors down to 7 Carmine St (year of the move not given)",
+  "branch_of": null,
+  "note": "The original Joe's: a Village counter for big, foldable, classic New York cheese slices.",
+  "website": "https://joespizzanyc.com/",
+  "open": true,
+  "evidence_date": "2026-02",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/joes-pizza-1",
+   "https://joespizzanyc.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40575863",
+   "https://en.wikipedia.org/wiki/Joe%27s_Pizza"
+  ]
+ },
+ {
+  "name": "Joe's Pizza",
+  "address": "1435 Broadway",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Times Square",
+  "county": "New York",
+  "zip": "10018",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [
+   "plain cheese slice"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Branch of Joe's Pizza (founded 1975 in Greenwich Village); opening year of this shop not given",
+  "branch_of": "Joe's Pizza, Manhattan (7 Carmine St)",
+  "note": "Times Square branch of the Carmine Street slice counter.",
+  "website": "https://joespizzanyc.com/",
+  "open": true,
+  "evidence_date": "2025-08",
+  "sources": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50066715",
+   "https://en.wikipedia.org/wiki/Joe%27s_Pizza"
+  ]
+ },
+ {
+  "name": "Scarr's Pizza",
+  "address": "35 Orchard St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Lower East Side",
+  "county": "New York",
+  "zip": "10002",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [
+   "cheese slice",
+   "Hot Boi (pepperoni, jalapeño, hot honey)"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2023,
+  "founded_note": "Opened 2016 at 22 Orchard St; moved to the larger 35 Orchard St space in June 2023",
+  "branch_of": null,
+  "note": "Scarr Pimentel's slice shop, which mills part of its own wheat in the basement for its crust.",
+  "website": "https://www.scarrspizza.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/best-pizza-in-nyc",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50130050",
+   "https://en.wikipedia.org/wiki/Scarr%27s_Pizza"
+  ]
+ },
+ {
+  "name": "Prince Street Pizza",
+  "address": "27 Prince St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Nolita",
+  "county": "New York",
+  "zip": "10012",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [
+   "SoHo squares (Sicilian)",
+   "Spicy Spring square"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2012,
+  "founded_note": "Opened 2012 at 27 Prince St, in the space where an early Ray's Pizza once stood",
+  "branch_of": null,
+  "note": "Nolita counter known for its Sicilian 'SoHo' squares; the original of a now multi-city brand.",
+  "website": "https://www.princestreetpizza.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41636395",
+   "https://www.princestreetpizza.com/",
+   "https://locations.princestreetpizza.com/",
+   "https://www.timeout.com/newyork/restaurants/prince-street-pizza"
+  ]
+ },
+ {
+  "name": "Bleecker Street Pizza",
+  "address": "69 7th Ave S",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "West Village",
+  "county": "New York",
+  "zip": "10014",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [
+   "Nonna Maria pie",
+   "grandma pizza"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2004,
+  "founded_note": "The shop's site says it was established in 2004",
+  "branch_of": null,
+  "note": "Late-night West Village slice shop at Seventh Avenue and Bleecker, open until the small hours on weekends.",
+  "website": "https://www.bleeckerstreetpizza.com/",
+  "open": true,
+  "evidence_date": "2025-09",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/bleecker-street-pizza",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50088759",
+   "https://www.bleeckerstreetpizza.com/"
+  ]
+ },
+ {
+  "name": "NY Pizza Suprema",
+  "address": "413 8th Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Midtown West",
+  "county": "New York",
+  "zip": "10001",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [
+   "plain slice"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1964,
+  "founded_note": "Family-owned and run at this spot since 1964 (Time Out)",
+  "branch_of": null,
+  "note": "Family-run slice counter on Eighth Avenue near Penn Station since 1964.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/ny-pizza-suprema",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40365882"
+  ]
+ },
+ {
+  "name": "Mama's Too",
+  "address": "2750 Broadway",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Upper West Side",
+  "county": "New York",
+  "zip": "10025",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Owner Frank Tuttolomondo; opening year not confirmed in sources read",
+  "branch_of": null,
+  "note": "Frank Tuttolomondo's Upper West Side slice shop (no alcohol at this one).",
+  "website": "https://www.mamastoo.com/",
+  "open": true,
+  "evidence_date": "2025-10",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/mamas-too",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50172339"
+  ]
+ },
+ {
+  "name": "L'Industrie Pizzeria",
+  "address": "104 Christopher St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "West Village",
+  "county": "New York",
+  "zip": "10014",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 2023,
+  "founded_note": "Williamsburg original opened 2017; this West Village shop opened in October 2023",
+  "branch_of": "L'Industrie Pizzeria, Brooklyn (Williamsburg)",
+  "note": "Manhattan outpost of Massimo Laveglia's Williamsburg slice shop: thin, naturally fermented crust with Italian toppings.",
+  "website": "https://www.lindustriebk.com/",
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/best-pizza-in-nyc",
+   "https://www.timeout.com/newyork/news/lindustrie-arguably-the-best-slice-in-nyc-is-opening-a-new-location-in-little-italy-020326",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50141803",
+   "https://tastingtable.com/1610288/best-pizza-slices-manhattan"
+  ]
+ },
+ {
+  "name": "L'Industrie Pizzeria",
+  "address": "197 Grand St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Little Italy",
+  "county": "New York",
+  "zip": "10013",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 2026,
+  "founded_note": "Announced Feb 2026 for spring 2026 in the former Margherita space; city inspection records it operating by May 2026",
+  "branch_of": "L'Industrie Pizzeria, Brooklyn (Williamsburg)",
+  "note": "Little Italy branch of L'Industrie, between Mulberry and Mott, run with partners Nick Baglivo and Manuel Jimenez.",
+  "website": "https://www.lindustriebk.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.timeout.com/newyork/news/lindustrie-arguably-the-best-slice-in-nyc-is-opening-a-new-location-in-little-italy-020326",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50182393"
+  ]
+ },
+ {
+  "name": "Cuts & Slices",
+  "address": "321 E Houston St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Lower East Side",
+  "county": "New York",
+  "zip": "10002",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [
+   "Sweet Chili Oxtail slice"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Manhattan branch of a slice shop first opened in Brooklyn in 2018 (Time Out); opening year of this branch not confirmed",
+  "branch_of": "Cuts & Slices, Brooklyn",
+  "note": "Lower East Side branch, on East Houston, of the Brooklyn slice shop known for oxtail and other loaded slices.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-10",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/best-pizza-in-nyc",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50158594"
+  ]
+ },
+ {
+  "name": "Sal & Carmine's Pizza",
+  "address": "2671 Broadway",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Upper West Side",
+  "county": "New York",
+  "zip": "10025",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [
+   "plain slice"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Tasting Table (2024) dates the pizzeria to 1959; not confirmed that it has always been at this address",
+  "branch_of": null,
+  "note": "Longtime Upper West Side slice counter on upper Broadway.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40386569",
+   "https://tastingtable.com/1610288/best-pizza-slices-manhattan"
+  ]
+ },
+ {
+  "name": "Katz's Delicatessen",
+  "address": "205 E Houston St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Lower East Side",
+  "county": "New York",
+  "zip": "10002",
+  "kinds": [
+   "deli"
+  ],
+  "dishes": [
+   "pastrami on rye",
+   "corned beef"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Founded 1888 on Ludlow St as Iceland Brothers; moved across the street to this Houston/Ludlow corner during subway construction (Wikipedia puts the move in the 1930s)",
+  "branch_of": null,
+  "note": "The Lower East Side's hand-carved pastrami and corned beef hall, open since 1888 in the neighborhood.",
+  "website": "https://katzsdelicatessen.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/best-new-york-delis",
+   "https://www.timeout.com/newyork/news/this-is-officially-the-best-deli-in-new-york-city-and-its-a-true-cinema-icon-080326",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40732665",
+   "https://katzsdelicatessen.com/our-story",
+   "https://en.wikipedia.org/wiki/Katz%27s_Delicatessen"
+  ]
+ },
+ {
+  "name": "2nd Ave Deli",
+  "address": "162 E 33rd St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Kips Bay",
+  "county": "New York",
+  "zip": "10016",
+  "kinds": [
+   "deli"
+  ],
+  "dishes": [
+   "pastrami",
+   "pickles"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2007,
+  "founded_note": "Founded 1954 at 156 Second Ave (East Village); that shop closed Jan 2006 and the deli reopened here Dec 17, 2007",
+  "branch_of": null,
+  "note": "Kosher deli carrying on the East Village original; pickles still come to every table.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/best-new-york-delis",
+   "https://www.timeout.com/newyork/news/this-is-officially-the-best-deli-in-new-york-city-and-its-a-true-cinema-icon-080326",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41288201",
+   "https://en.wikipedia.org/wiki/2nd_Ave_Deli"
+  ]
+ },
+ {
+  "name": "Sarge's Delicatessen & Diner",
+  "address": "548 3rd Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Kips Bay",
+  "county": "New York",
+  "zip": "10016",
+  "kinds": [
+   "deli"
+  ],
+  "dishes": [
+   "house-cured pastrami"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Founded 1964 by Abe 'Sarge' Katz (Time Out); founding address not confirmed",
+  "branch_of": null,
+  "note": "Kips Bay deli and diner that still cures its own pastrami on site.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/best-new-york-delis",
+   "https://www.timeout.com/newyork/news/this-is-officially-the-best-deli-in-new-york-city-and-its-a-true-cinema-icon-080326",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41521807"
+  ]
+ },
+ {
+  "name": "PJ Bernstein",
+  "address": "1215 3rd Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Upper East Side",
+  "county": "New York",
+  "zip": "10021",
+  "kinds": [
+   "deli"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Run by Eugene Slobodski, who took it over from his grandfather (Time Out); opening year not confirmed",
+  "branch_of": null,
+  "note": "Family-run Upper East Side Jewish deli.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/best-new-york-delis",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40376718"
+  ]
+ },
+ {
+  "name": "S&P Lunch",
+  "address": "174 5th Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Flatiron",
+  "county": "New York",
+  "zip": "10010",
+  "kinds": [
+   "deli"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Occupies the former Eisenberg's sandwich shop; now run under new management (Time Out)",
+  "branch_of": null,
+  "note": "Old Flatiron lunch counter, formerly Eisenberg's, serving deli sandwiches at the counter.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/best-new-york-delis",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50125513"
+  ]
+ },
+ {
+  "name": "Russ & Daughters",
+  "address": "179 E Houston St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Lower East Side",
+  "county": "New York",
+  "zip": "10002",
+  "kinds": [
+   "appetizing"
+  ],
+  "dishes": [
+   "lox",
+   "herring",
+   "bagels with smoked fish"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1920,
+  "founded_note": "Business dates to 1914 (storefront around the corner, after a pushcart); at 179 E Houston since 1920",
+  "branch_of": null,
+  "note": "Family-run appetizing shop for smoked fish, herring and cream cheese, four generations in.",
+  "website": "https://www.russanddaughters.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/best-new-york-delis",
+   "https://www.timeout.com/newyork/restaurants/15-best-bagels-in-new-york-ranked",
+   "https://data.ny.gov/resource/9a8c-vfzj.json?license_number=624015",
+   "https://en.wikipedia.org/wiki/Russ_%26_Daughters"
+  ]
+ },
+ {
+  "name": "Russ & Daughters Cafe",
+  "address": "127 Orchard St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Lower East Side",
+  "county": "New York",
+  "zip": "10002",
+  "kinds": [
+   "appetizing"
+  ],
+  "dishes": [
+   "smoked fish boards",
+   "bagels and lox"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2014,
+  "founded_note": "Opened May 2014, around the corner from the Houston St shop",
+  "branch_of": "Russ & Daughters, Manhattan (179 E Houston St)",
+  "note": "Sit-down cafe from the Russ & Daughters family serving the shop's smoked fish at the table.",
+  "website": "https://www.russanddaughters.com/",
+  "open": true,
+  "evidence_date": "2025-12",
+  "sources": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50009513",
+   "https://en.wikipedia.org/wiki/Russ_%26_Daughters"
+  ]
+ },
+ {
+  "name": "Barney Greengrass",
+  "address": "541 Amsterdam Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Upper West Side",
+  "county": "New York",
+  "zip": "10024",
+  "kinds": [
+   "appetizing"
+  ],
+  "dishes": [
+   "sturgeon",
+   "Nova Scotia salmon",
+   "whitefish",
+   "chopped liver"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1929,
+  "founded_note": "Founded 1908 at W 113th St and St. Nicholas Ave in Harlem; on Amsterdam Ave since 1929",
+  "branch_of": null,
+  "note": "Upper West Side appetizing counter and dining room built around smoked sturgeon and other fish.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/best-new-york-delis",
+   "https://www.timeout.com/newyork/news/this-is-officially-the-best-deli-in-new-york-city-and-its-a-true-cinema-icon-080326",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40380517",
+   "https://en.wikipedia.org/wiki/Barney_Greengrass"
+  ]
+ },
+ {
+  "name": "Ess-a-Bagel",
+  "address": "324 1st Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Gramercy",
+  "county": "New York",
+  "zip": "10009",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "bagels",
+   "cream cheese"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Brand launched in 1976 on 21st St (Time Out); the shop calls this 1st Ave at 19th St store its original Gramercy shop; year at this address not confirmed",
+  "branch_of": null,
+  "note": "Large, crusty, soft-centered bagels at First Avenue and 19th Street.",
+  "website": "https://www.essabagel.com/",
+  "open": true,
+  "evidence_date": "2026-06",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/15-best-bagels-in-new-york-ranked",
+   "https://www.essabagel.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50052503"
+  ]
+ },
+ {
+  "name": "Murray's Bagels",
+  "address": "500 6th Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Greenwich Village",
+  "county": "New York",
+  "zip": "10011",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "bagels",
+   "smoked fish"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1996,
+  "founded_note": "Opened November 1996 by Adam Pomerantz, named for his father Murray",
+  "branch_of": null,
+  "note": "Greenwich Village bagel shop since 1996 with hand-rolled, kettle-boiled bagels and a long sandwich and smoked-fish menu.",
+  "website": "https://www.murraysbagels.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/15-best-bagels-in-new-york-ranked",
+   "https://www.murraysbagels.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40544823"
+  ]
+ },
+ {
+  "name": "Tompkins Square Bagels",
+  "address": "165 Avenue A",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "East Village",
+  "county": "New York",
+  "zip": "10009",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "hand-rolled bagels"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2011,
+  "founded_note": "Founded 2011 in the East Village; Avenue A is the flagship",
+  "branch_of": null,
+  "note": "Hand-rolled bagels at the Avenue A flagship of a small Manhattan group.",
+  "website": "https://www.tompkinssquarebagels.com/",
+  "open": true,
+  "evidence_date": "2025-12",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/15-best-bagels-in-new-york-ranked",
+   "https://www.tompkinssquarebagels.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41605054"
+  ]
+ },
+ {
+  "name": "Leo's Bagels",
+  "address": "3 Hanover Sq",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Financial District",
+  "county": "New York",
+  "zip": "10004",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "The Leo (lox, eggs and onions)",
+   "smoked fish"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2007,
+  "founded_note": "Opened 2007 by Adam Pomerantz; named for his great-uncle Leo",
+  "branch_of": null,
+  "note": "Hand-rolled, kettle-boiled bagels for the Wall Street crowd at Hanover Square.",
+  "website": "https://www.leosbagels.com/",
+  "open": true,
+  "evidence_date": "2026-03",
+  "sources": [
+   "https://www.leosbagels.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41363485",
+   "https://downtownny.com/news/best-bagels-nyc-leos/"
+  ]
+ },
+ {
+  "name": "Kossar's Bagels & Bialys",
+  "address": "367 Grand St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Lower East Side",
+  "county": "New York",
+  "zip": "10002",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "bialys",
+   "bagels"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1960,
+  "founded_note": "Founded 1936 at 22 Ridge St as Mirsky and Kossar's; after a 1958 explosion at 145 Clinton St it reopened at 367 Grand St in 1960",
+  "branch_of": null,
+  "note": "Lower East Side bakery known first for brick-oven bialys, with kettle-boiled bagels too.",
+  "website": "https://kossars.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://kossars.com/new-york-lower-east-side-kossar-s-bagels-and-bialys-main-our-store-and-history",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50078532",
+   "https://en.wikipedia.org/wiki/Kossar%27s_Bialys"
+  ]
+ },
+ {
+  "name": "Bo's Bagels",
+  "address": "235 W 116th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Harlem",
+  "county": "New York",
+  "zip": "10026",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "bagels",
+   "bialys"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Bo's began in Harlem in 2017 (Time Out); year this storefront opened not confirmed",
+  "branch_of": null,
+  "note": "Harlem bagel shop baking bagels and bialys daily.",
+  "website": "https://www.bosbagels.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/15-best-bagels-in-new-york-ranked",
+   "https://www.bosbagels.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50057837"
+  ]
+ },
+ {
+  "name": "Orwashers",
+  "address": "308 E 78th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Upper East Side",
+  "county": "New York",
+  "zip": "10075",
+  "kinds": [
+   "bagel",
+   "oldest"
+  ],
+  "dishes": [
+   "rye bread",
+   "bagels",
+   "black and white cookie"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1916,
+  "founded_note": "Claims 1916: the bakery says its original Upper East Side storefront is still open (this is its only UES shop in the state license list); bagels added about 2016",
+  "branch_of": null,
+  "note": "Century-old Upper East Side bread bakery, family-run 1916-2008, that now also bakes bagels.",
+  "website": "https://www.orwashers.com/",
+  "open": true,
+  "evidence_date": "2025-12",
+  "sources": [
+   "https://www.timeout.com/newyork/restaurants/15-best-bagels-in-new-york-ranked",
+   "https://www.orwashers.com/",
+   "https://data.ny.gov/resource/9a8c-vfzj.json?license_number=627726"
+  ]
+ },
+ {
+  "name": "Nom Wah Tea Parlor",
+  "address": "13 Doyers St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Chinatown",
+  "county": "New York",
+  "zip": "10013",
+  "kinds": [
+   "dim sum"
+  ],
+  "dishes": [
+   "egg roll",
+   "shrimp and snow pea leaf dumplings",
+   "turnip cake",
+   "roast pork bun"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1968,
+  "founded_note": "Opened 1920 at 15 Doyers St and moved next door to 13 Doyers in 1968; often described as the city's oldest dim sum restaurant",
+  "branch_of": null,
+  "note": "Doyers Street dim sum parlor ordered from a checklist rather than carts.",
+  "website": "https://nomwah.com/",
+  "open": true,
+  "evidence_date": "2025-06",
+  "sources": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50128675",
+   "https://en.wikipedia.org/wiki/Nom_Wah_Tea_Parlor",
+   "https://www.foodsofny.com/blog/14-best-dim-sum-restaurants-in-chinatown-nyc/",
+   "https://nomwah.com/"
+  ]
+ },
+ {
+  "name": "Golden Unicorn",
+  "address": "18 E Broadway",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Chinatown",
+  "county": "New York",
+  "zip": "10002",
+  "kinds": [
+   "dim sum"
+  ],
+  "dishes": [
+   "dim sum"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1989,
+  "founded_note": "Established 1989 (restaurant's site)",
+  "branch_of": null,
+  "note": "East Broadway Cantonese banquet restaurant that has served dim sum since 1989.",
+  "website": "https://www.goldenunicornrestaurant.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.goldenunicornrestaurant.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50001456",
+   "https://www.foodsofny.com/blog/14-best-dim-sum-restaurants-in-chinatown-nyc/",
+   "https://www.timeout.com/newyork/restaurants/best-dim-sum-restaurants-in-new-york-city"
+  ]
+ },
+ {
+  "name": "Jing Fong",
+  "address": "202 Centre St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Chinatown",
+  "county": "New York",
+  "zip": "10013",
+  "kinds": [
+   "dim sum"
+  ],
+  "dishes": [
+   "dim sum"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2021,
+  "founded_note": "Founded 1978 on Elizabeth St; moved to this smaller Centre St space in 2021; its Upper West Side branch closed March 2026",
+  "branch_of": null,
+  "note": "Chinatown Cantonese dim sum house with cart service, now in a smaller room on Centre Street.",
+  "website": "https://www.jingfongny.com/",
+  "open": true,
+  "evidence_date": "2026-03",
+  "sources": [
+   "https://www.ilovetheupperwestside.com/popular-chinese-spot-closes-doors/",
+   "http://jingfongny.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50114127",
+   "https://www.foodsofny.com/blog/14-best-dim-sum-restaurants-in-chinatown-nyc/"
+  ]
+ },
+ {
+  "name": "Royal Seafood Restaurant",
+  "address": "103 Mott St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Chinatown",
+  "county": "New York",
+  "zip": "10013",
+  "kinds": [
+   "dim sum"
+  ],
+  "dishes": [
+   "shrimp rice noodle rolls",
+   "pea shoot dumplings",
+   "mini custard pies"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Mott Street restaurant with cart-service dim sum.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50106213",
+   "https://www.foodsofny.com/blog/14-best-dim-sum-restaurants-in-chinatown-nyc/"
+  ]
+ },
+ {
+  "name": "Ping's Seafood",
+  "address": "22 Mott St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Chinatown",
+  "county": "New York",
+  "zip": "10013",
+  "kinds": [
+   "dim sum"
+  ],
+  "dishes": [
+   "pork shumai",
+   "pan-fried water chestnut cake"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Mott Street seafood restaurant serving traditional dim sum.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "sources": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50172633",
+   "https://www.foodsofny.com/blog/14-best-dim-sum-restaurants-in-chinatown-nyc/",
+   "https://www.timeout.com/newyork/restaurants/best-dim-sum-restaurants-in-new-york-city"
+  ]
+ },
+ {
+  "name": "House of Joy",
+  "address": "28 Pell St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Chinatown",
+  "county": "New York",
+  "zip": "10013",
+  "kinds": [
+   "dim sum"
+  ],
+  "dishes": [
+   "egg custard",
+   "red rice noodles",
+   "black sesame rolls"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Pell Street dim sum restaurant with traditional cart service.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50114708",
+   "https://www.timeout.com/newyork/restaurants/best-dim-sum-restaurants-in-new-york-city"
+  ]
+ },
+ {
+  "name": "Dim Sum Palace",
+  "address": "27 Division St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Chinatown",
+  "county": "New York",
+  "zip": "10002",
+  "kinds": [
+   "dim sum"
+  ],
+  "dishes": [
+   "pork congee",
+   "taro dumplings"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "One of several Manhattan locations of the Dim Sum Palace chain (Time Out)",
+  "branch_of": null,
+  "note": "Division Street branch of a local dim sum chain with several Manhattan locations and a weekday dim sum happy hour.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50189950",
+   "https://www.timeout.com/newyork/restaurants/best-dim-sum-restaurants-in-new-york-city"
+  ]
+ },
+ {
+  "name": "100 Feast & Lounge",
+  "address": "100 E Broadway",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Chinatown",
+  "county": "New York",
+  "zip": "10002",
+  "kinds": [
+   "dim sum"
+  ],
+  "dishes": [
+   "cart-service dim sum"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Recent opening; year not confirmed",
+  "branch_of": null,
+  "note": "Second-floor Cantonese banquet hall on East Broadway with cart-service dim sum; a lounge and rooftop terrace are upstairs.",
+  "website": "https://www.100feast.com/en",
+  "open": true,
+  "evidence_date": "2026-06",
+  "sources": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50180638",
+   "https://www.100feast.com/en",
+   "https://www.nyctourism.com/restaurants/100-feast/"
+  ]
+ },
+ {
+  "name": "Tim Ho Wan",
+  "address": "85 4th Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "East Village",
+  "county": "New York",
+  "zip": "10003",
+  "kinds": [
+   "dim sum"
+  ],
+  "dishes": [
+   "baked barbecue pork buns",
+   "pan-fried turnip cake",
+   "steamed rice rolls"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "New York branch of the Hong Kong dim sum chain and the chain's first in America (Time Out); opening year not confirmed",
+  "branch_of": "Tim Ho Wan, Hong Kong",
+  "note": "East Village branch of the Hong Kong dim sum chain.",
+  "website": "https://timhowanusa.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50056918",
+   "https://timhowanusa.com/",
+   "https://www.timeout.com/newyork/restaurants/best-dim-sum-restaurants-in-new-york-city",
+   "https://www.foodsofny.com/blog/14-best-dim-sum-restaurants-in-chinatown-nyc/"
+  ]
+ },
+ {
+  "name": "Fraunces Tavern",
+  "address": "54 Pearl St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Financial District",
+  "county": "New York",
+  "zip": "10004",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1762,
+  "founded_note": "Building dates to 1719 (heavily restored); a tavern here since 1762",
+  "branch_of": null,
+  "note": "Colonial-era tavern where George Washington bade farewell to his officers after the Revolution; now a restaurant with several bars.",
+  "website": "https://www.frauncestavern.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.frauncestavern.com/",
+   "https://www.timeout.com/newyork/bars/oldest-bars-in-nyc",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41547298",
+   "https://www.tastingtable.com/1557248/oldest-nyc-restaurants-open-today"
+  ]
+ },
+ {
+  "name": "The Ear Inn",
+  "address": "326 Spring St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Hudson Square",
+  "county": "New York",
+  "zip": "10013",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1817,
+  "founded_note": "Claims 'est. 1817'; Time Out says it reportedly opened then, in a house that once stood on the waterfront",
+  "branch_of": null,
+  "note": "Old Hudson Square tavern in a former waterfront house; serves food daily, noon to late.",
+  "website": "https://www.theearinn.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.theearinn.com/",
+   "https://www.timeout.com/newyork/bars/oldest-bars-in-nyc",
+   "https://www.tastingtable.com/1557248/oldest-nyc-restaurants-open-today",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40370168"
+  ]
+ },
+ {
+  "name": "McSorley's Old Ale House",
+  "address": "15 E 7th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "East Village",
+  "county": "New York",
+  "zip": "10003",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1854,
+  "founded_note": "Claims 1854 and calls itself the city's oldest continuously operated saloon",
+  "branch_of": null,
+  "note": "East Village ale house that bills itself as the city's oldest continuously operated saloon; daily food specials.",
+  "website": "https://www.mcsorleysoldalehouse.nyc/",
+  "open": true,
+  "evidence_date": "2025-10",
+  "sources": [
+   "https://www.timeout.com/newyork/bars/oldest-bars-in-nyc",
+   "https://www.mcsorleysoldalehouse.nyc/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40365075"
+  ]
+ },
+ {
+  "name": "Pete's Tavern",
+  "address": "129 E 18th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Gramercy",
+  "county": "New York",
+  "zip": "10003",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1864,
+  "founded_note": "Claims 1864; the building at Irving Place is older and began as a hotel",
+  "branch_of": null,
+  "note": "Irving Place tavern that stayed open through Prohibition behind a flower-shop front; full pub menu.",
+  "website": "https://www.petestavern.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.timeout.com/newyork/bars/oldest-bars-in-nyc",
+   "https://www.tastingtable.com/1557248/oldest-nyc-restaurants-open-today",
+   "https://www.petestavern.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50105448"
+  ]
+ },
+ {
+  "name": "Old Homestead Steakhouse",
+  "address": "56 9th Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Meatpacking District",
+  "county": "New York",
+  "zip": "10011",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "USDA Prime steaks"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1868,
+  "founded_note": "Claims 1868 at this location",
+  "branch_of": null,
+  "note": "Meatpacking District steakhouse serving USDA Prime beef since 1868.",
+  "website": "https://www.theoldhomesteadsteakhouse.com/",
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://www.theoldhomesteadsteakhouse.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40364715",
+   "https://www.6sqft.com/nyc-oldest-bars-and-restaurants-still-dine-at-today/"
+  ]
+ },
+ {
+  "name": "The Landmark Tavern",
+  "address": "626 11th Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Hell's Kitchen",
+  "county": "New York",
+  "zip": "10036",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1868,
+  "founded_note": "Claims 1868; began as a family home with a ground-floor saloon near the old Hudson shoreline",
+  "branch_of": null,
+  "note": "Far-west Hell's Kitchen Irish tavern from the waterfront saloon era, serving pub food.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.timeout.com/newyork/bars/oldest-bars-in-nyc",
+   "https://www.tastingtable.com/1557248/oldest-nyc-restaurants-open-today",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41122841"
+  ]
+ },
+ {
+  "name": "White Horse Tavern",
+  "address": "567 Hudson St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "West Village",
+  "county": "New York",
+  "zip": "10014",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1880,
+  "founded_note": "Claims 1880",
+  "branch_of": null,
+  "note": "West Village corner tavern dating to 1880, serving pub food.",
+  "website": "https://www.whitehorsetavern1880.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.timeout.com/newyork/bars/oldest-bars-in-nyc",
+   "https://www.tastingtable.com/1557248/oldest-nyc-restaurants-open-today",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50095038"
+  ]
+ },
+ {
+  "name": "P.J. Clarke's",
+  "address": "915 3rd Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Midtown East",
+  "county": "New York",
+  "zip": "10022",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "burgers"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1884,
+  "founded_note": "Claims 1884 for this original location; the Clarke name came from a bartender in 1912",
+  "branch_of": null,
+  "note": "The original P.J. Clarke's saloon on Third Avenue, known for its burgers.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.timeout.com/newyork/bars/oldest-bars-in-nyc",
+   "https://www.tastingtable.com/1557248/oldest-nyc-restaurants-open-today",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40931258",
+   "https://www.6sqft.com/nyc-oldest-bars-and-restaurants-still-dine-at-today/"
+  ]
+ },
+ {
+  "name": "Keens Steakhouse",
+  "address": "72 W 36th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Herald Square",
+  "county": "New York",
+  "zip": "10018",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "mutton chop",
+   "steaks"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1885,
+  "founded_note": "Opened 1885 by Albert Keen as an independent chophouse in the old Herald Square theater district",
+  "branch_of": null,
+  "note": "Herald Square chophouse, the last survivor of the old theater district there, known for its mutton chop.",
+  "website": "https://www.keens.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.keens.com/",
+   "https://www.tastingtable.com/1557248/oldest-nyc-restaurants-open-today",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50162845"
+  ]
+ },
+ {
+  "name": "Old Town Bar",
+  "address": "45 E 18th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Flatiron",
+  "county": "New York",
+  "zip": "10003",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "burgers"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1892,
+  "founded_note": "Claims 1892; Time Out notes it began as a German saloon and the current incarnation dates to about 1902",
+  "branch_of": null,
+  "note": "Flatiron saloon that keeps its original mahogany bar; serves burgers.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.timeout.com/newyork/bars/oldest-bars-in-nyc",
+   "https://www.tastingtable.com/1557248/oldest-nyc-restaurants-open-today",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40364389"
+  ]
+ },
+ {
+  "name": "Rao's",
+  "address": "455 E 114th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "East Harlem",
+  "county": "New York",
+  "zip": "10029",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1896,
+  "founded_note": "Opened 1896 at this corner of Pleasant Ave and has stayed there",
+  "branch_of": null,
+  "note": "Small East Harlem Italian restaurant, famously hard to get a table at.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rao%27s",
+   "https://www.tastingtable.com/1557248/oldest-nyc-restaurants-open-today",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40611399"
+  ]
+ },
+ {
+  "name": "Grand Central Oyster Bar",
+  "address": "89 E 42nd St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Midtown East",
+  "county": "New York",
+  "zip": "10017",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "oysters on the half shell"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1913,
+  "founded_note": "Opened in 1913 with Grand Central Terminal, first as the Grand Central Terminal Restaurant; a dinner there on February 1, 1913 celebrated the terminal's opening",
+  "branch_of": null,
+  "note": "Seafood restaurant on Grand Central Terminal's lower level under Guastavino-tiled vaults, with oysters on the half shell at the bar.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.tastingtable.com/1557248/oldest-nyc-restaurants-open-today",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40368223",
+   "https://en.wikipedia.org/wiki/Grand_Central_Oyster_Bar"
+  ]
+ },
+ {
+  "name": "Fanelli Cafe",
+  "address": "94 Prince St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "SoHo",
+  "county": "New York",
+  "zip": "10012",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "burgers"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1847,
+  "founded_note": "Claims 1847 at this corner (first as a grocery with liquor)",
+  "branch_of": null,
+  "note": "SoHo corner bar and cafe, one of the city's longest-running drinking spots at one address.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-10",
+  "sources": [
+   "https://www.timeout.com/newyork/bars/oldest-bars-in-nyc",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41040365"
+  ]
+ },
+ {
+  "name": "Julius'",
+  "address": "159 W 10th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "West Village",
+  "county": "New York",
+  "zip": "10014",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "burgers"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1864,
+  "founded_note": "Claims a bar here since 1864 (a grocery from 1840)",
+  "branch_of": null,
+  "note": "Village bar known as the city's oldest gay bar and site of the 1966 'Sip-In'; serves burgers.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-12",
+  "sources": [
+   "https://www.timeout.com/newyork/bars/oldest-bars-in-nyc",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40729164"
+  ]
+ },
+ {
+  "name": "John's of 12th Street",
+  "address": "302 E 12th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "East Village",
+  "county": "New York",
+  "zip": "10003",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "red-sauce Italian dishes"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1908,
+  "founded_note": "Claims 1908; Time Out (2010) said the place had been here about 100 years",
+  "branch_of": null,
+  "note": "Candle-wax-and-Chianti-bottle East Village red-sauce Italian restaurant, with a full vegan menu too.",
+  "website": "https://www.johnsof12thstreet.com/",
+  "open": true,
+  "evidence_date": "2026",
+  "sources": [
+   "https://www.johnsof12thstreet.com/",
+   "https://www.timeout.com/newyork/restaurants/johns-of-12th-street",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50064456"
+  ]
+ },
+ {
+  "name": "Veniero's",
+  "address": "342 E 11th St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "East Village",
+  "county": "New York",
+  "zip": "10003",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "cannoli",
+   "cheesecake",
+   "sfogliatelle"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1894,
+  "founded_note": "Antonio Veniero opened at this address in 1894; still run by the Veniero family",
+  "branch_of": null,
+  "note": "East Village Italian pastry shop and cafe with stamped-tin ceilings and a long pastry case.",
+  "website": "https://www.venierospastry.com/",
+  "open": true,
+  "evidence_date": "2025-07",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Veniero%27s",
+   "https://untappedcities.com/2014/08/12/5-of-nycs-oldest-bakeries-ferrara-veniero-glasers-parisi-and-caputos/2/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50064557"
+  ]
+ },
+ {
+  "name": "Ferrara Bakery & Cafe",
+  "address": "195 Grand St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Little Italy",
+  "county": "New York",
+  "zip": "10013",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "cannoli",
+   "espresso"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1892,
+  "founded_note": "Opened 1892 and still at its original Grand St location; claims to be America's first espresso bar",
+  "branch_of": null,
+  "note": "Little Italy pastry shop and cafe run by the same family for five generations.",
+  "website": "https://www.ferraranyc.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40600383",
+   "https://en.wikipedia.org/wiki/Ferrara_Bakery_and_Cafe"
+  ]
+ },
+ {
+  "name": "Delmonico's",
+  "address": "56 Beaver St",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Financial District",
+  "county": "New York",
+  "zip": "10004",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1837,
+  "founded_note": "Delmonico's first opened on this corner in 1837 (building rebuilt 1891); closed and reopened several times under different operators (1917-1926, 1977-1982, 1993-1998, 2020-2023), most recently reopened Sept 2023",
+  "branch_of": null,
+  "note": "Historic Financial District restaurant on the corner where Delmonico's has operated, with gaps, since 1837.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.tastingtable.com/1557248/oldest-nyc-restaurants-open-today",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50137565",
+   "https://en.wikipedia.org/wiki/Delmonico%27s"
+  ]
+ },
+ {
+  "name": "Gray's Papaya",
+  "address": "2090 Broadway",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Upper West Side",
+  "county": "New York",
+  "zip": "10023",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "hot dog",
+   "papaya drink"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Founded 1973 by Nicholas Gray, a former Papaya King partner; the 72nd St shop is the last one left",
+  "branch_of": null,
+  "note": "Stand-up hot dog and tropical-drink counter at Broadway and 72nd Street.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-03",
+  "sources": [
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50118535",
+   "https://en.wikipedia.org/wiki/Gray%27s_Papaya"
+  ]
+ },
+ {
+  "name": "William Greenberg Desserts",
+  "address": "1100 Madison Ave",
+  "city": "Manhattan",
+  "municipality": null,
+  "neighborhood": "Upper East Side",
+  "county": "New York",
+  "zip": "10028",
+  "kinds": [
+   "half-moon"
+  ],
+  "dishes": [
+   "black and white cookie",
+   "babka",
+   "schnecken"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "The bakery says it has nearly 80 years of baking; 1100 Madison is its flagship",
+  "branch_of": null,
+  "note": "Upper East Side bakery whose cake-like black and white cookies are its signature.",
+  "website": "https://www.wmgreenbergdesserts.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.wmgreenbergdesserts.com/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41353639"
+  ]
+ }
+]

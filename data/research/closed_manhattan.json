@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Absolute Bagels",
+    "address": "2788 Broadway",
+    "city": "Manhattan",
+    "county": "New York",
+    "closed_reason": "Shut by the city Health Department after a December 2024 inspection found rats and roaches; the original owners did not return. Unaffiliated new owners opened 'New Absolute Bagels' (now listed as 2788 Bagels) in the space in Dec 2025.",
+    "closed_date": "2024-12-12",
+    "sources": [
+      "https://www.ilovetheupperwestside.com/new-absolute-bagels-opens-doors-heres-the-scoop",
+      "https://secretnyc.co/absolute-bagels-reopens/"
+    ]
+  },
+  {
+    "name": "Barbetta",
+    "address": "321 W 46th St",
+    "city": "Manhattan",
+    "county": "New York",
+    "closed_reason": "Closed after 120 years following the death of longtime owner Laura Maioglio in January 2026 (founded 1906).",
+    "closed_date": "2026-02-27",
+    "sources": [
+      "https://www.timeout.com/newyork/news/one-of-the-oldest-italian-restaurants-in-nyc-is-closing-at-the-end-of-the-week-022326",
+      "https://whatnow.com/?p=377251"
+    ]
+  },
+  {
+    "name": "Jing Fong (Upper West Side)",
+    "address": "380 Amsterdam Ave",
+    "city": "Manhattan",
+    "county": "New York",
+    "closed_reason": "Branch closed after eight years; no reason given. The Chinatown restaurant at 202 Centre St stays open.",
+    "closed_date": "2026-03-08",
+    "sources": [
+      "https://www.ilovetheupperwestside.com/popular-chinese-spot-closes-doors/"
+    ]
+  },
+  {
+    "name": "Donohue's Steak House",
+    "address": "845 Lexington Ave",
+    "city": "Manhattan",
+    "county": "New York",
+    "closed_reason": "Family-run steakhouse closed after 76 years; reason not stated.",
+    "closed_date": "2026-06-19",
+    "sources": [
+      "https://whatnow.com/?p=412672"
+    ]
+  },
+  {
+    "name": "Cozy Soup 'n' Burger",
+    "address": "739 Broadway",
+    "city": "Manhattan",
+    "county": "New York",
+    "closed_reason": "Closed after 54+ years, citing rising operating costs and slower business.",
+    "closed_date": "2026-06-22",
+    "sources": [
+      "https://whatnow.com/?p=412672"
+    ]
+  },
+  {
+    "name": "Craft",
+    "address": "43 E 19th St",
+    "city": "Manhattan",
+    "county": "New York",
+    "closed_reason": "Tom Colicchio's restaurant closed after nearly 25 years; reason not disclosed.",
+    "closed_date": "2026-06-27",
+    "sources": [
+      "https://whatnow.com/?p=412672"
+    ]
+  },
+  {
+    "name": "The Leopard at des Artistes",
+    "address": "1 W 67th St",
+    "city": "Manhattan",
+    "county": "New York",
+    "closed_reason": "Closed after about 15 years; reason not specified.",
+    "closed_date": "2026-02-15",
+    "sources": [
+      "https://whatnow.com/?p=377251"
+    ]
+  },
+  {
+    "name": "Red Bamboo",
+    "address": "140 W 4th St",
+    "city": "Manhattan",
+    "county": "New York",
+    "closed_reason": "Vegan restaurant closed after about 24 years, citing financial strain.",
+    "closed_date": "2026-02-28",
+    "sources": [
+      "https://whatnow.com/?p=377251"
+    ]
+  },
+  {
+    "name": "Tin Building by Jean-Georges",
+    "address": "96 South St",
+    "city": "Manhattan",
+    "county": "New York",
+    "closed_reason": "Food hall closed after 3 years; the space is being turned over to a Balloon Museum.",
+    "closed_date": "2026-02-23",
+    "sources": [
+      "https://whatnow.com/?p=377251"
+    ]
+  },
+  {
+    "name": "Francesco's Pizza",
+    "address": "186 Columbus Ave",
+    "city": "Manhattan",
+    "county": "New York",
+    "closed_reason": "27-year Upper West Side pizzeria appears permanently closed: gate down, phone unanswered, interior gutted and a worker said yes when asked if it closed. Not yet confirmed by the owner.",
+    "closed_date": "2026-07",
+    "sources": [
+      "https://www.westsiderag.com/2026/07/02/francescos-pizza-27-year-upper-west-side-pizzeria-appears-to-permanently-close"
+    ]
+  }
+]

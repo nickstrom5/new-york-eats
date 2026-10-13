@@ -1,0 +1,81 @@
+name: NewYorkEats
+options:
+  bundleIdPrefix: com.newyorkeats
+  deploymentTarget:
+    iOS: "18.0"
+  xcodeVersion: "16.0"
+  createIntermediateGroups: true
+  generateEmptyDirectories: true
+
+settings:
+  base:
+    SWIFT_VERSION: "5.10"
+    MARKETING_VERSION: "1.0.0"
+    CURRENT_PROJECT_VERSION: "1"
+    DEVELOPMENT_TEAM: "4C8TU6U7MQ"
+    CODE_SIGN_STYLE: Automatic
+    TARGETED_DEVICE_FAMILY: "1,2"  # iPhone and iPad
+    SWIFT_STRICT_CONCURRENCY: minimal
+
+targets:
+  NewYorkEats:
+    type: application
+    platform: iOS
+    sources:
+      - path: NewYorkEats
+        excludes:
+          - Resources/Data
+      - path: NewYorkEats/Resources/Data
+        type: folder          # the region files ship as one folder (Data/index.json, Data/places-<region>.json)
+        buildPhase: resources
+    info:
+      path: NewYorkEats/Info.plist
+      properties:
+        CFBundleDisplayName: NY Eats
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        UILaunchScreen:
+          UIColorName: LaunchBackground
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
+        UISupportedInterfaceOrientations~ipad:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationPortraitUpsideDown
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
+        UIRequiresFullScreen: false
+        UIUserInterfaceStyle: Light      # the palette is light-only (Design/Theme.swift); dark mode made lists unreadable
+        NSLocationWhenInUseUsageDescription: "Your location sorts slice shops, bagel bakeries and restaurants by distance and shows where you are on the map. It stays on your device."
+        ITSAppUsesNonExemptEncryption: false
+        LSApplicationQueriesSchemes: [maps]
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.newyorkeats.ios
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+    scheme:
+      testTargets: [NewYorkEatsTests, NewYorkEatsUITests]
+
+  NewYorkEatsTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - path: NewYorkEatsTests
+    dependencies:
+      - target: NewYorkEats
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.newyorkeats.ios.tests
+        GENERATE_INFOPLIST_FILE: true
+
+  NewYorkEatsUITests:
+    type: bundle.ui-testing
+    platform: iOS
+    sources:
+      - path: NewYorkEatsUITests
+    dependencies:
+      - target: NewYorkEats
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.newyorkeats.ios.uitests
+        GENERATE_INFOPLIST_FILE: true
+        TEST_TARGET_NAME: NewYorkEats

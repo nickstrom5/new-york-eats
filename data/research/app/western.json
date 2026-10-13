@@ -1,0 +1,1125 @@
+[
+ {
+  "name": "Anchor Bar",
+  "address": "1047 Main St",
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14209",
+  "kinds": [
+   "wings"
+  ],
+  "dishes": [
+   "chicken wings"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Opened by Frank and Teressa Bellissimo in 1935 (Wikipedia); year at 1047 Main St not confirmed. The bar's own story says wings were first served here on March 4, 1964 (its claim): the Buffalo History Museum notes John Young sold wings at Wings & Things (1313 Jefferson Ave) from 1966 and that an 1857 Buffalo hotel menu listed fried chicken wings, and a 2026 archival timeline found the records don't match either pioneer's origin dates.",
+  "branch_of": null,
+  "note": "The Main Street original of the bar that claims to be the birthplace of the Buffalo wing.",
+  "website": "https://anchorbar.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://anchorbar.com/locations/buffalo-ny/",
+   "https://anchorbar.com/history/",
+   "https://buffalohistory.org/who-served-buffalos-first-wings/",
+   "https://www.buffalorising.com/2026/08/chicken-wings-in-buffalo-a-timeline/",
+   "https://en.wikipedia.org/wiki/Anchor_Bar",
+   "https://data.buffalony.gov/resource/4pp3-qkuj.json?licenseno=RST11-196346",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0340-23-327274"
+  ]
+ },
+ {
+  "name": "Duff's Famous Wings",
+  "address": "3651 Sheridan Dr",
+  "city": "Amherst",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14226",
+  "kinds": [
+   "wings"
+  ],
+  "dishes": [
+   "chicken wings",
+   "beef on weck"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1946,
+  "founded_note": "Louise Duffney opened a corner gin mill at Sheridan Dr and Millersport Hwy in 1946; first wings in 1969; Duff's says it still operates in that original location.",
+  "branch_of": null,
+  "note": "The original Duff's, a 1946 corner tavern at Sheridan Drive and Millersport Highway that started serving wings in 1969; beef on weck is on the menu too.",
+  "website": "https://duffswings.com/",
+  "open": true,
+  "evidence_date": "2025-01",
+  "sources": [
+   "https://duffswings.com/our-story/",
+   "https://duffswings.com/",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0240-22-301150"
+  ]
+ },
+ {
+  "name": "Bar-Bill Tavern",
+  "address": "185 Main St",
+  "city": "East Aurora",
+  "municipality": "Aurora",
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14052",
+  "kinds": [
+   "wings",
+   "beef on weck"
+  ],
+  "dishes": [
+   "chicken wings",
+   "beef on weck"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "East Aurora village tavern on the Buffalo Wing Trail, also named by I LOVE NY for beef on weck; its owners took over the Ellicottville Depot in 2025.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://www.wkbw.com/news/local-news/man-facing-multiple-charges-after-allegedly-pulling-a-gun-on-another-customer-at-bar-bill",
+   "https://www.wkbw.com/news/local-news/cattaraugus-county/the-depot-stays-the-depot-bar-bill-tavern-owners-set-to-reopen-the-ellicottville-depot",
+   "https://www.wkbw.com/news/local-news/challenge-for-wnyers-this-national-chicken-wing-day",
+   "https://www.iloveny.com/blog/post/everything-you-have-to-eat-in-greater-niagara/",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0370-23-337419"
+  ]
+ },
+ {
+  "name": "Gabriel's Gate",
+  "address": "145 Allen St",
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": "Allentown",
+  "county": "Erie",
+  "zip": "14201",
+  "kinds": [
+   "wings"
+  ],
+  "dishes": [
+   "chicken wings"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Allentown pub on Allen Street, a stop on the Buffalo Wing Trail.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.wkbw.com/news/local-news/challenge-for-wnyers-this-national-chicken-wing-day",
+   "https://data.buffalony.gov/resource/4pp3-qkuj.json?licenseno=RST11-506924",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0340-22-305361"
+  ]
+ },
+ {
+  "name": "Elmo's Bar & Restaurant",
+  "address": "2349 Millersport Hwy",
+  "city": "Getzville",
+  "municipality": "Amherst",
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14068",
+  "kinds": [
+   "wings"
+  ],
+  "dishes": [
+   "chicken wings"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Millersport Highway bar and restaurant, a stop on the Buffalo Wing Trail.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-11",
+  "sources": [
+   "https://www.wkbw.com/news/local-news/challenge-for-wnyers-this-national-chicken-wing-day",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0340-23-327118"
+  ]
+ },
+ {
+  "name": "Kelly's Korner",
+  "address": "2526 Delaware Ave",
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": "North Buffalo",
+  "county": "Erie",
+  "zip": "14216",
+  "kinds": [
+   "wings",
+   "beef on weck"
+  ],
+  "dishes": [
+   "chicken wings",
+   "beef on weck"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1967,
+  "founded_note": "Buffalo Rising (2018) says it has been open since 1967.",
+  "branch_of": null,
+  "note": "North Buffalo corner tavern with a traditional tavern menu that includes chicken wings and beef on weck.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.buffalorising.com/2018/11/come-a-callin-to-kellys-korner/",
+   "https://data.buffalony.gov/resource/4pp3-qkuj.json?licenseno=RST11-196776",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0370-23-319882"
+  ]
+ },
+ {
+  "name": "Nine-Eleven Tavern",
+  "address": "11 Bloomfield Ave",
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": "South Buffalo",
+  "county": "Erie",
+  "zip": "14220",
+  "kinds": [
+   "wings"
+  ],
+  "dishes": [
+   "chicken wings"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1981,
+  "founded_note": "Established in 1981 by chef and late owner Mark Gress (the tavern's site).",
+  "branch_of": null,
+  "note": "Small, cash-only South Buffalo tavern opened in 1981 and known for its wings; there's a back room and an attached deck.",
+  "website": "https://www.nineeleventavern.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.nineeleventavern.com/",
+   "https://www.nineeleventavern.com/the-tavern",
+   "https://www.wkbw.com/news/local-news/challenge-for-wnyers-this-national-chicken-wing-day",
+   "https://data.buffalony.gov/resource/4pp3-qkuj.json?licenseno=RST11-196052",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0370-23-327268"
+  ]
+ },
+ {
+  "name": "Mammoser's Tavern & Restaurant",
+  "address": "16 S Buffalo St",
+  "city": "Hamburg",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14075",
+  "kinds": [
+   "wings"
+  ],
+  "dishes": [
+   "chicken wings"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Hamburg village tavern on South Buffalo Street, a stop on the Buffalo Wing Trail.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-02",
+  "sources": [
+   "https://www.wkbw.com/news/local-news/challenge-for-wnyers-this-national-chicken-wing-day",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0340-23-327115"
+  ]
+ },
+ {
+  "name": "Glen Park Tavern",
+  "address": "5507 Main St",
+  "city": "Williamsville",
+  "municipality": "Amherst",
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14221",
+  "kinds": [
+   "wings",
+   "beef on weck",
+   "oldest"
+  ],
+  "dishes": [
+   "jumbo wings",
+   "Sicilian wings",
+   "beef on weck",
+   "Tom & Jerry"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1887,
+  "founded_note": "The tavern says its brick building went up in 1887, on the stagecoach route along Main Street, and has operated as a restaurant and pub ever since (its claim).",
+  "branch_of": null,
+  "note": "Village tavern with hand-hewn beams and its original mahogany bar, known for hand-carved beef on weck on a kummelweck roll and jumbo wings with a long sauce list that includes Sicilian.",
+  "website": "https://glenparktavern.com/",
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://glenparktavern.com/",
+   "https://glenparktavern.com/about",
+   "https://glenparktavern.com/food-menu",
+   "https://glenparktavern.com/drink-menu",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0370-23-329795",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0426-24-307804"
+  ]
+ },
+ {
+  "name": "Cole's",
+  "address": "1104 Elmwood Ave",
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": "Elmwood Village",
+  "county": "Erie",
+  "zip": "14222",
+  "kinds": [
+   "wings",
+   "beef on weck"
+  ],
+  "dishes": [
+   "chicken wings",
+   "beef on weck"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Elmwood Avenue pub with rotating taps and pennants on the walls; its 'Buffalo Combo' pairs beef on weck with five of Cole's wings.",
+  "website": "https://coles-buffalo.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://coles-buffalo.com/",
+   "https://coles-buffalo.com/buffalo-elmwood-village-cole-s-buffalo-food-menu",
+   "https://www.wkbw.com/news/local-news/challenge-for-wnyers-this-national-chicken-wing-day",
+   "https://data.buffalony.gov/resource/4pp3-qkuj.json?licenseno=RST11-196452",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0340-23-327273"
+  ]
+ },
+ {
+  "name": "Gene McCarthy's",
+  "address": "73 Hamburg St",
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": "Old First Ward",
+  "county": "Erie",
+  "zip": "14204",
+  "kinds": [
+   "wings",
+   "beef on weck"
+  ],
+  "dishes": [
+   "chicken wings",
+   "beef on weck"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Buffalo Rising (2006) says Eugene and Mary McCarthy opened the pub in 1963.",
+  "branch_of": null,
+  "note": "Old First Ward pub with its own brewery, Old First Ward Brewing, whose beers run straight to the taps; a Buffalo Wing Trail stop with beef on weck on the menu.",
+  "website": "https://www.genemccarthys.com/",
+  "open": true,
+  "evidence_date": "2025-08",
+  "sources": [
+   "https://www.genemccarthys.com/",
+   "https://www.buffalorising.com/2006/10/beef-on-weck-at-mccarthys/",
+   "https://www.wkbw.com/news/local-news/challenge-for-wnyers-this-national-chicken-wing-day",
+   "https://data.buffalony.gov/resource/4pp3-qkuj.json?licenseno=RST12-10024950",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0416-21-314898"
+  ]
+ },
+ {
+  "name": "Blackthorn Restaurant & Pub",
+  "address": "2134 Seneca St",
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": "South Buffalo",
+  "county": "Erie",
+  "zip": "14210",
+  "kinds": [
+   "wings"
+  ],
+  "dishes": [
+   "South Buffalo wings"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "The pub says it has hosted family events on Seneca Street for over 40 years; opening year not confirmed.",
+  "branch_of": null,
+  "note": "South Buffalo Irish pub whose wing sauces include a 'south buffalo' flavor; beef on weck is on the menu too.",
+  "website": "https://www.blackthornrestaurant.com/",
+  "open": true,
+  "evidence_date": "2026-03",
+  "sources": [
+   "https://www.blackthornrestaurant.com/",
+   "https://www.blackthornrestaurant.com/menu/",
+   "https://www.wkbw.com/news/local-news/challenge-for-wnyers-this-national-chicken-wing-day",
+   "https://data.buffalony.gov/resource/4pp3-qkuj.json?licenseno=RST11-541892",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0340-21-319186"
+  ]
+ },
+ {
+  "name": "Doc Sullivan's",
+  "address": "474 Abbott Rd",
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": "South Buffalo",
+  "county": "Erie",
+  "zip": "14220",
+  "kinds": [
+   "wings"
+  ],
+  "dishes": [
+   "chicken wings"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Abbott Road pub in South Buffalo, a stop on the Buffalo Wing Trail.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-03",
+  "sources": [
+   "https://www.wkbw.com/news/local-news/challenge-for-wnyers-this-national-chicken-wing-day",
+   "https://data.buffalony.gov/resource/4pp3-qkuj.json?licenseno=RST15-10027247",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0370-24-301000"
+  ]
+ },
+ {
+  "name": "O'Neill's Stadium Inn + Grill",
+  "address": "3864 Abbott Rd",
+  "city": "Orchard Park",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14127",
+  "kinds": [
+   "wings"
+  ],
+  "dishes": [
+   "chicken wings (dozens of sauces and dry rubs)",
+   "Chiavetta's wings"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2010,
+  "founded_note": "Opened in 2010 by Rick and Peggy Cerrone (its site).",
+  "branch_of": null,
+  "note": "Bills-fan tavern on Abbott Road and a Buffalo Wing Trail stop; its wing list runs to dozens of sauces and dry rubs, Chiavetta's among them.",
+  "website": "https://www.oneillsstadiuminn.com/",
+  "open": true,
+  "evidence_date": "2026-02",
+  "sources": [
+   "https://www.oneillsstadiuminn.com/",
+   "https://www.oneillsstadiuminn.com/about-5",
+   "https://www.oneillsstadiuminn.com/_files/ugd/3315ed_7aec5e0c2e914ac09c23d8bd8840a958.pdf",
+   "https://www.wkbw.com/news/local-news/challenge-for-wnyers-this-national-chicken-wing-day",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0370-24-336252"
+  ]
+ },
+ {
+  "name": "Schwabl's",
+  "address": "789 Center Rd",
+  "city": "West Seneca",
+  "municipality": null,
+  "neighborhood": "Ebenezer",
+  "county": "Erie",
+  "zip": "14224",
+  "kinds": [
+   "beef on weck"
+  ],
+  "dishes": [
+   "beef on weck",
+   "German potato salad",
+   "pickled beets",
+   "Tom & Jerry"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1942,
+  "founded_note": "Schwabl's traces its name and tradition to 1837 (its claim); its history page says it has been in Ebenezer, in the Town of West Seneca, since 1942, so it is not pre-1920 at this address.",
+  "branch_of": null,
+  "note": "Ebenezer dining room that calls itself the home of Buffalo's original roast beef on kummelweck, hand-carved and served with German potato salad and coleslaw or pickled beets.",
+  "website": "https://www.schwabls.com/",
+  "open": true,
+  "evidence_date": "2025-10",
+  "sources": [
+   "https://www.schwabls.com/",
+   "https://www.schwabls.com/history/",
+   "https://www.iloveny.com/blog/post/everything-you-have-to-eat-in-greater-niagara/",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0370-23-327336"
+  ]
+ },
+ {
+  "name": "Charlie the Butcher's Kitchen",
+  "address": "1065 Wehrle Dr",
+  "city": "Williamsville",
+  "municipality": "Amherst",
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14221",
+  "kinds": [
+   "beef on weck"
+  ],
+  "dishes": [
+   "beef on weck"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Wehrle Drive restaurant about a mile from the Buffalo airport, one of the Roesch family's Charlie the Butcher shops serving beef on weck.",
+  "website": "https://www.charliethebutcher.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.charliethebutcher.com/locations-and-menus/",
+   "https://www.btpm.org/local/2025-06-12/beef-on-weck-takes-center-stage-in-wny-on-national-roast-beef-day",
+   "https://www.buffalorising.com/2026/08/7-sandwiches-every-buffalonian-should-eat-at-least-once/",
+   "https://www.iloveny.com/blog/post/everything-you-have-to-eat-in-greater-niagara/"
+  ]
+ },
+ {
+  "name": "Anderson's Frozen Custard",
+  "address": "2235 Sheridan Dr",
+  "city": "Kenmore",
+  "municipality": "Town of Tonawanda",
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14223",
+  "kinds": [
+   "beef on weck"
+  ],
+  "dishes": [
+   "roast beef on weck",
+   "frozen custard"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1953,
+  "founded_note": "The Andersons opened their first stand in the Bronx in 1946 and on Kenmore Ave in 1947; this Sheridan Drive drive-in replaced it in 1953 and still operates (Anderson's).",
+  "branch_of": null,
+  "note": "Family drive-in pairing roast beef on weck with egg-rich frozen custard; the family marked 80 years in business in 2026.",
+  "website": "https://www.andersonscustard.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.andersonscustard.com/"
+  ]
+ },
+ {
+  "name": "Eagle House",
+  "address": "5578 Main St",
+  "city": "Williamsville",
+  "municipality": "Amherst",
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14221",
+  "kinds": [
+   "oldest",
+   "beef on weck"
+  ],
+  "dishes": [
+   "beef on weck",
+   "French onion soup"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1827,
+  "founded_note": "The Eagle House says founder Oziel Smith opened it in 1827 (the first structure burned and he rebuilt); it claims the longest continuously held liquor license in New York State. Both are the restaurant's claims.",
+  "branch_of": null,
+  "note": "Williamsville village restaurant dating to 1827 (its claim), on a two-foot-thick limestone foundation and now run by the Hanny family; beef on weck and French onion soup are on the menu.",
+  "website": "https://eaglehouseonline.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://eaglehouseonline.com/",
+   "https://eaglehouseonline.com/williamsville-the-eagle-house-restaurant-about",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0340-22-306694"
+  ]
+ },
+ {
+  "name": "Bocce Club Pizza",
+  "address": "4174 N Bailey Ave",
+  "city": "Amherst",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14226",
+  "kinds": [
+   "buffalo pizza"
+  ],
+  "dishes": [
+   "Buffalo-style cheese and pepperoni pizza",
+   "wings"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1959,
+  "founded_note": "Bocce Club dates its pizza to 1946, when Dino Pacciotti and his sister bought a bocce club on Hickory Street; the Bailey Avenue shop opened in 1959 (its timeline).",
+  "branch_of": null,
+  "note": "Bailey Avenue takeout shop of the Bocce Club name, near UB's South Campus; its timeline says the current brick building went up in 1966.",
+  "website": "https://www.bocceclubpizza.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://bocceclubpizza.com/our-story/",
+   "https://bocceclubpizza.com/our-story/timeline-history/",
+   "https://bocceclubpizza.com/menu/specials/",
+   "https://bocceclubpizza.com/blog/",
+   "https://www.iloveny.com/blog/post/everything-you-have-to-eat-in-greater-niagara/"
+  ]
+ },
+ {
+  "name": "La Nova Pizzeria",
+  "address": "371 W Ferry St",
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": "West Side",
+  "county": "Erie",
+  "zip": "14213",
+  "kinds": [
+   "buffalo pizza",
+   "wings"
+  ],
+  "dishes": [
+   "pizza with specialty crusts",
+   "chicken wings"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Founded in Tonawanda in 1957 (WKBW); year at West Ferry not confirmed.",
+  "branch_of": null,
+  "note": "West Side pizzeria on West Ferry, one of La Nova's two locations, offering specialty crusts at no charge and a long list of wing sauces; pizza-and-wings combos are a menu staple.",
+  "website": "https://www.lanovapizzeriabuffalo.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.lanovapizzeriabuffalo.com/",
+   "https://www.wkbw.com/news/buffalostrong-la-nova-delivers-enough-pizza-to-fill-every-worker-at-ecmc",
+   "https://www.wkbw.com/news/local-news/la-nova-throws-birthday-party-for-ohio-boy-who-chose-buffalo-pizza-over-nintendo-switch",
+   "https://data.buffalony.gov/resource/4pp3-qkuj.json?licenseno=RST11-193700"
+  ]
+ },
+ {
+  "name": "Imperial Pizza",
+  "address": "1035 Abbott Rd",
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": "South Buffalo",
+  "county": "Erie",
+  "zip": "14220",
+  "kinds": [
+   "buffalo pizza"
+  ],
+  "dishes": [
+   "Buffalo-style pizza",
+   "chicken wings"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Co-owners Dave Powers and James Bouris had run it for 23 years as of January 2016 (Buffalo Rising); a second Imperial at 1661 Main St was announced in 2023.",
+  "branch_of": null,
+  "note": "South Buffalo sit-down pizzeria with a bar, serving Buffalo-style pizza, wings and subs.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.buffalorising.com/2016/01/south-buffalo-gets-a-pizza-the-action/",
+   "https://www.buffalorising.com/2023/06/imperial-pizza-will-open-mid-city/",
+   "https://www.iloveny.com/blog/post/everything-you-have-to-eat-in-greater-niagara/",
+   "https://data.buffalony.gov/resource/4pp3-qkuj.json?licenseno=RST19-10035004",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0240-22-301730"
+  ]
+ },
+ {
+  "name": "Santora's Pizzeria",
+  "address": "3440 Transit Rd",
+  "city": "Depew",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14043",
+  "kinds": [
+   "buffalo pizza"
+  ],
+  "dishes": [
+   "Buffalo-style pizza with cup-and-char pepperoni",
+   "wings"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Santora's says it opened Buffalo's first pizzeria, Santora's Pizzeria Napolitano, in 1927 (its claim); opening year of this Transit Rd shop not confirmed.",
+  "branch_of": null,
+  "note": "Pizzeria at Transit Road and Clinton Street finishing Buffalo-style pies with hand-cut cup-and-char pepperoni and Romano 'fufu dust'.",
+  "website": "https://santoraspizza.com/",
+  "open": true,
+  "evidence_date": "2025-10",
+  "sources": [
+   "https://santoraspizza.com/",
+   "https://santoraspizza.com/history",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0240-23-341860"
+  ]
+ },
+ {
+  "name": "Picasso's Pizza",
+  "address": "2193 Union Rd",
+  "city": "West Seneca",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14224",
+  "kinds": [
+   "buffalo pizza"
+  ],
+  "dishes": [
+   "Buffalo-style pizza with hand-cut pepperoni",
+   "chicken wings"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Picasso's says it has served Buffalo-style pizza since 1980 and has four Western New York locations; opening year of this shop not confirmed.",
+  "branch_of": null,
+  "note": "Buffalo-style pizzeria that keeps its founder's dough and sauce recipes and hand-cuts its pepperoni; this Union Road shop is one of four locations.",
+  "website": "https://www.picassospizza.net/",
+  "open": true,
+  "evidence_date": "2025-10",
+  "sources": [
+   "https://www.picassospizza.net/",
+   "https://www.picassospizza.net/about",
+   "https://www.picassospizza.net/menu",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0240-23-341861"
+  ]
+ },
+ {
+  "name": "Bob & John's La Hacienda",
+  "address": "1545 Hertel Ave",
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": "North Buffalo",
+  "county": "Erie",
+  "zip": "14216",
+  "kinds": [
+   "buffalo pizza"
+  ],
+  "dishes": [
+   "Buffalo-style pizza",
+   "wings"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Family-owned North Buffalo pizzeria serving Buffalo-style pizza with semisweet sauce and cup-and-char pepperoni, plus wings.",
+  "website": "https://bobandjohns.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://bobandjohns.com/",
+   "https://www.iloveny.com/blog/post/everything-you-have-to-eat-in-greater-niagara/",
+   "https://data.buffalony.gov/resource/4pp3-qkuj.json?licenseno=RST11-193693",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0340-26-334095"
+  ]
+ },
+ {
+  "name": "Ted's Hot Dogs",
+  "address": "2312 Sheridan Dr",
+  "city": "Tonawanda",
+  "municipality": "Town of Tonawanda",
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14150",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "charcoal-broiled Sahlen's hot dog",
+   "onion rings",
+   "milkshakes"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1948,
+  "founded_note": "Founded in 1927 at a stand near the Peace Bridge; Ted's says its second location, on Sheridan Drive in the Town of Tonawanda, opened in 1948.",
+  "branch_of": null,
+  "note": "Sheridan Drive stand of Buffalo's charcoal-broiled hot dog chain, open since 1948.",
+  "website": "https://www.tedshotdogs.com/",
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.wkbw.com/news/local-news/northtowns/a-buffalo-staple-national-hot-dog-day-brings-long-lines-and-excitement-to-teds-hot-dogs",
+   "https://www.tedshotdogs.com/history",
+   "https://www.iloveny.com/blog/post/best-places-to-get-a-hot-dog-in-new-york/"
+  ]
+ },
+ {
+  "name": "Texas Hot Restaurant",
+  "address": "132 N Main St",
+  "city": "Wellsville",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Allegany",
+  "zip": "14895",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "Texas hot",
+   "homemade pie"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Opened in Wellsville in November 1921 by cousins James Rigas and George Raptis; added to the state Historic Business Preservation Registry in 2022. Sources don't say outright that it has always been at 132 N Main.",
+  "branch_of": null,
+  "note": "Family-run Main Street diner whose chili-sauced 'Texas hot' has been made by the Raptis and Rigas families since 1921.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://wellsvillesun.com/blog/2026/10/06/look-whos-in-wellsville-john-kucko-visits-the-texas-hot-fassett-greenspace/",
+   "https://www.wellsvillevillageny.gov/dining.html",
+   "https://wellsvillesun.com/blog/2022/06/22/ny-state-senator-visits-wellsville-honors-texas-hot/",
+   "https://www.wkbw.com/news/local-news/iconic-texas-hot-in-wellsville-is-getting-ready-to-celebrate-100-years"
+  ]
+ },
+ {
+  "name": "Johnny's Lunch",
+  "address": "966 Fairmount Ave",
+  "city": "Jamestown",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Chautauqua",
+  "zip": "14701",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "Texas hot",
+   "Texas fries",
+   "milkshakes"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1974,
+  "founded_note": "Johnny Colera opened Johnny's Lunch in 1936 at Brooklyn Square; that building was razed for urban renewal in 1973 and it reopened at its current Fairmount Ave home by April 1974 (Post-Journal). The Post-Journal printed the address as 986; the 2026 National Comedy Center dining guide lists 966.",
+  "branch_of": null,
+  "note": "Fourth-generation Jamestown hot dog counter whose regulars order three Texas hots 'with everything' under its secret sauce.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://www.post-journal.com/news/top-stories/2025/10/augusto-calamunci-longtime-johnnys-lunch-co-owner-passes-away/",
+   "https://comedycenter.org/wp-content/uploads/2026/05/Dining-Guide-2026-05-29-digital.pdf",
+   "https://www.iloveny.com/blog/post/best-places-to-get-a-hot-dog-in-new-york/"
+  ]
+ },
+ {
+  "name": "AJ Texas Hots",
+  "address": "824 Foote Ave",
+  "city": "Jamestown",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Chautauqua",
+  "zip": "14701",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "Texas hot"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Sam Colera opened AJ Texas Hots on June 11, 1968, naming it for his father Adolph John (Post-Journal, 2018); the 2018 story pictures it at 824 Foote Ave but doesn't say it never moved.",
+  "branch_of": null,
+  "note": "Foote Avenue hot dog shop opened by a son of Johnny's Lunch's founder (a separate Michael's AJ Texas Hots on E. Second St has closed).",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://comedycenter.org/wp-content/uploads/2026/05/Dining-Guide-2026-05-29-digital.pdf",
+   "https://www.post-journal.com/news/community/2018/08/aj-texas-hots-celebrates-50-years-in-city/",
+   "https://www.post-journal.com/news/top-stories/2025/12/sales-include-former-jamestown-restaurant-dunkirk-motel/"
+  ]
+ },
+ {
+  "name": "Nick Tahou Hots",
+  "address": "320 W Main St",
+  "city": "Rochester",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Monroe",
+  "zip": "14608",
+  "kinds": [
+   "plate",
+   "hots"
+  ],
+  "dishes": [
+   "Garbage Plate",
+   "hots",
+   "meat hot sauce"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Founded 1918 by Alex Tahou as West Main Texas Hots and named for his son Nick (Wikipedia; the restaurant says 'since 1918'). In the mid-1950s the stand was in a smaller building just east of today's restaurant (the former Buffalo, Rochester & Pittsburgh Railway station), so 1918 is not the year at this building. 'Garbage Plate' trademark filed in 1991.",
+  "branch_of": null,
+  "note": "Originator of the trademarked Garbage Plate: meats over home fries, macaroni salad, beans or fries, topped with mustard, onions and meat hot sauce.",
+  "website": "https://garbageplate.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.visitrochester.com/blog/post/rochester-garbage-plate/",
+   "https://www.visitrochester.com/blog/post/roc-foodie-bucket-list/",
+   "https://www.visitrochester.com/listing/nick-tahou-hots-inc/6699/",
+   "https://garbageplate.com/",
+   "https://en.wikipedia.org/wiki/Nick_Tahou_Hots",
+   "https://en.wikipedia.org/wiki/Garbage_plate"
+  ]
+ },
+ {
+  "name": "Dogtown",
+  "address": "691 Monroe Ave",
+  "city": "Rochester",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Monroe",
+  "zip": "14607",
+  "kinds": [
+   "hots",
+   "plate"
+  ],
+  "dishes": [
+   "Zweigle's German frank on French bread",
+   "plates",
+   "veggie dogs"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Monroe Avenue hot dog shop offering 18 topping styles on Zweigle's franks in fresh French bread, plus meat and veggie plates.",
+  "website": "https://dogtownhots.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.visitrochester.com/blog/post/rochester-garbage-plate/",
+   "https://www.visitrochester.com/blog/post/roc-foodie-bucket-list/",
+   "https://www.iloveny.com/blog/post/best-places-to-get-a-hot-dog-in-new-york/",
+   "https://www.visitrochester.com/listing/dogtown/7724/",
+   "https://dogtownhots.com/"
+  ]
+ },
+ {
+  "name": "Mark's Texas Hots",
+  "address": "487 Monroe Ave",
+  "city": "Rochester",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Monroe",
+  "zip": "14607",
+  "kinds": [
+   "hots",
+   "plate"
+  ],
+  "dishes": [
+   "Texas hots",
+   "Sloppy Plate"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Monroe Avenue hots counter that Visit Rochester lists among local spots for a Rochester plate; its version is the 'Sloppy Plate'.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.visitrochester.com/blog/post/rochester-garbage-plate/",
+   "https://www.visitrochester.com/listing/marks-texas-hots/7728/",
+   "https://en.wikipedia.org/wiki/Nick_Tahou_Hots"
+  ]
+ },
+ {
+  "name": "Henrietta Hots",
+  "address": "4018 W Henrietta Rd",
+  "city": "Rochester",
+  "municipality": "Henrietta",
+  "neighborhood": null,
+  "county": "Monroe",
+  "zip": "14623",
+  "kinds": [
+   "hots",
+   "plate"
+  ],
+  "dishes": [
+   "hots",
+   "plate"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Henrietta hots shop named by Visit Rochester among local places to get a plate.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.visitrochester.com/blog/post/rochester-garbage-plate/",
+   "https://www.visitrochester.com/listing/henrietta-hots/7727/"
+  ]
+ },
+ {
+  "name": "Fairport Hots",
+  "address": "1226 Fairport Rd",
+  "city": "Fairport",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Monroe",
+  "zip": "14450",
+  "kinds": [
+   "hots",
+   "plate"
+  ],
+  "dishes": [
+   "The Hot Plate",
+   "hots"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Fairport Road hots shop whose take on the Rochester plate is called 'The Hot Plate'.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.visitrochester.com/blog/post/rochester-garbage-plate/",
+   "https://www.visitrochester.com/listing/fairport-hots/7726/",
+   "https://en.wikipedia.org/wiki/Nick_Tahou_Hots"
+  ]
+ },
+ {
+  "name": "Don's Original",
+  "address": "4900 Culver Rd",
+  "city": "Rochester",
+  "municipality": "Irondequoit",
+  "neighborhood": "Sea Breeze",
+  "county": "Monroe",
+  "zip": "14622",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "ground round",
+   "hots",
+   "chocolate almond custard"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Don Barbato leased a roadside stand at Sea Breeze in 1945 (as Don & Bob's) and later renamed his Sea Breeze location Don's Original; the listing says est. 1945. Not confirmed that the 1945 stand stood at 4900 Culver Rd.",
+  "branch_of": null,
+  "note": "Sea Breeze burger-and-hots stand between Irondequoit Bay and Lake Ontario, known for ground rounds and chocolate almond custard.",
+  "website": "https://www.donsoriginal.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.visitrochester.com/listing/dons-original/8281/",
+   "https://www.donsoriginal.com/our-story",
+   "https://www.visitrochester.com/blog/post/roc-foodie-bucket-list/",
+   "https://www.donsoriginal.com/"
+  ]
+ },
+ {
+  "name": "Tom Wahl's",
+  "address": "283 E Main St",
+  "city": "Avon",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Livingston",
+  "zip": "14414",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "Wahlburger",
+   "handcrafted root beer",
+   "hots"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1955,
+  "founded_note": "Tom Wahl opened in Avon in March 1955 as a root beer stand in a trailer and kept adding on to the building (Tom Wahl's); now nine locations.",
+  "branch_of": null,
+  "note": "The original of the Rochester-area burger-and-hots chain, which still brews root beer in each store.",
+  "website": "https://www.tomwahls.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.tomwahls.com/index.cfm?Page=Our-History",
+   "https://www.tomwahls.com/stores.cfm",
+   "https://www.visitrochester.com/blog/post/roc-foodie-bucket-list/"
+  ]
+ },
+ {
+  "name": "Ulrich's 1868 Tavern",
+  "address": "674 Ellicott St",
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14203",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1868,
+  "founded_note": "Opened as a grocery-saloon in 1868 by German immigrant Fredrick Schrerier (Preservation Ready); widely called Buffalo's oldest bar. It closed briefly in 2012 and again from October 2013 to June 2014.",
+  "branch_of": null,
+  "note": "Tavern near the Buffalo Niagara Medical Campus, widely considered Buffalo's oldest bar; in 2026 its owner opened the back room to a lunch concept from Osteria 166's owner.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-06",
+  "sources": [
+   "https://www.wkbw.com/news/local-news/buffalo/buffalos-osteria-166-restaurant-moving-new-location-downtown-with-new-concept",
+   "https://www.buffalorising.com/2026/02/osteria-166-announces-closure-and-launch-of-new-lunch-concept-at-ulrichs-1868-tavern/",
+   "https://www.preservationready.org/Buildings/674EllicottStreet",
+   "https://data.buffalony.gov/resource/4pp3-qkuj.json?licenseno=RST14-10026219",
+   "https://data.ny.gov/resource/9s3h-dpkz.json?licensepermitid=0370-24-315617"
+  ]
+ }
+]

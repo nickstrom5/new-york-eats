@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Ferdinando's Focacceria",
+    "address": "151 Union St",
+    "city": "Brooklyn",
+    "county": "Kings",
+    "closed_reason": "Owner Frank Buffa retired for health reasons after 121 years (opened 1904); the space reopened in April 2026 as Bar Ferdinando under new owners",
+    "closed_date": "2025-02",
+    "sources": [
+      "https://www.timeout.com/newyork/news/this-iconic-italian-restaurant-in-nyc-is-closing-its-doors-for-good-after-121-years-022625",
+      "https://www.bkmag.com/2026/04/20/120-years-old-bar-ferdinandos-revived-cafe-spaghetti-team-carroll-gardens/"
+    ]
+  },
+  {
+    "name": "Caputo's Bake Shop",
+    "address": "Court St (Carroll Gardens)",
+    "city": "Brooklyn",
+    "county": "Kings",
+    "closed_reason": "124-year-old bakery (1902) closed; owner posted a note calling it a difficult decision",
+    "closed_date": "2026-04",
+    "sources": [
+      "https://www.bkmag.com/2026/04/29/124-year-old-carroll-gardens-bakery-caputos-bake-shop-closes/"
+    ]
+  },
+  {
+    "name": "Lenny's Pizza",
+    "address": "86th St (Bensonhurst)",
+    "city": "Brooklyn",
+    "county": "Kings",
+    "closed_reason": "Owner Frank Giordano retired; the Saturday Night Fever slice shop closed after about 70 years",
+    "closed_date": "2023-02-19",
+    "sources": [
+      "https://www.cbsnews.com/newyork/news/lennys-pizza-closing-saturday-night-fever-john-travolta/",
+      "https://www.untappedcities.com/lennys-pizza-brooklyn/"
+    ]
+  },
+  {
+    "name": "Ben's Best",
+    "address": "Rego Park",
+    "city": "Queens",
+    "county": "Queens",
+    "closed_reason": "Rego Park kosher deli closed for good on June 30, 2018",
+    "closed_date": "2018-06-30",
+    "sources": [
+      "https://bensdeli.net/bens-survives-recent-downturn-in-kosher-jewish-restaurant-market-2/",
+      "https://www.jns.org/good-bye-bens-best-doors-shut-on-iconic-new-york-jewish-deli/"
+    ]
+  }
+]

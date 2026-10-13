@@ -1,0 +1,1122 @@
+[
+ {
+  "name": "Pearl's Bagels & Bakery",
+  "address": "16 Picotte Drive (Crestwood Plaza)",
+  "city": "Albany",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Albany",
+  "zip": "12208",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "hand-rolled vegan bagels",
+   "Challah Pockets",
+   "rugelach"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "I LOVE NY says it opened in Albany in December 2021; same storefront since then not confirmed",
+  "branch_of": null,
+  "note": "Small-batch scratch bakery making hand-rolled, boiled and baked vegan bagels plus challah pockets; walk-in only, Wednesday to Sunday mornings.",
+  "website": "https://pearlsalbany.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://pearlsalbany.com/",
+   "https://www.iloveny.com/blog/post/new-york-bagel-shops-you-have-to-try/"
+  ]
+ },
+ {
+  "name": "Broad Street Bagel Co.",
+  "address": "1 Broad St",
+  "city": "Kinderhook",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Columbia",
+  "zip": "12106",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "kettle-boiled bagels",
+   "bagel burgers"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2012,
+  "founded_note": "Its site says the family opened it in Kinderhook in 2012 using a 150-year-old Brooklyn bagel recipe",
+  "branch_of": null,
+  "note": "Family-owned Kinderhook village bagel shop making kettle-boiled, Brooklyn-style bagels in a renovated old building; a second shop is in Slingerlands.",
+  "website": "https://www.broadstreetbagelco.com/",
+  "open": true,
+  "evidence_date": "2025-07",
+  "sources": [
+   "https://www.broadstreetbagelco.com/",
+   "https://www.broadstreetbagelco.com/contact",
+   "https://www.iloveny.com/blog/post/new-york-bagel-shops-you-have-to-try/"
+  ]
+ },
+ {
+  "name": "Rhinebeck Bagels",
+  "address": "31 West Market Street",
+  "city": "Rhinebeck",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Dutchess",
+  "zip": "12572",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "bagels",
+   "breakfast and lunch sandwiches"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says it has been family owned and operated in the village since 1995; same storefront throughout not confirmed",
+  "branch_of": null,
+  "note": "Family-run village bagel shop for breakfast and lunch, eat-in or takeout.",
+  "website": "https://www.rhinebeckbagels.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.rhinebeckbagels.com/"
+  ]
+ },
+ {
+  "name": "Broadway Gourmet Bagel Cafe & Caterers",
+  "address": "893 N. Broadway",
+  "city": "North Massapequa",
+  "municipality": "Oyster Bay",
+  "neighborhood": null,
+  "county": "Nassau",
+  "zip": "11758",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "hand-rolled bagels",
+   "flagels",
+   "bialys"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "I LOVE NY's listing says it was established in 1992 in Massapequa; same storefront throughout not confirmed",
+  "branch_of": null,
+  "note": "North Massapequa bagel cafe and caterer that rolls its bagels by hand, with flagels, bialys and novelty sweet bagels.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-07",
+  "sources": [
+   "https://www.iloveny.com/listing/broadway-gourmet-bagel-cafe-%26-caterers/125731/",
+   "https://www.iloveny.com/blog/post/new-york-bagel-shops-you-have-to-try/"
+  ]
+ },
+ {
+  "name": "Nyack Hot Bagels",
+  "address": "348 NY-59",
+  "city": "Nyack",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Rockland",
+  "zip": "10960",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "hand-rolled, boiled and baked bagels",
+   "bialys"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Rockland bagel shop and deli on Route 59 known for hand-rolled, boiled and baked bagels served hot from the oven.",
+  "website": "https://nyackbagels.com/",
+  "open": true,
+  "evidence_date": "2025-07",
+  "sources": [
+   "https://nyackbagels.com/",
+   "https://www.iloveny.com/blog/post/new-york-bagel-shops-you-have-to-try/"
+  ]
+ },
+ {
+  "name": "West End Bagels",
+  "address": "5 Southside Drive",
+  "city": "Clifton Park",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Saratoga",
+  "zip": "12065",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "bagels made from scratch daily",
+   "bialys",
+   "French toast bagel"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Clifton Park bagel shop whose owners trained with downstate bagel makers; bagels made from scratch every morning, plus bialys.",
+  "website": "https://westendbagels.com/",
+  "open": true,
+  "evidence_date": "2025-07",
+  "sources": [
+   "https://westendbagels.com/ny/welcome/",
+   "https://www.iloveny.com/blog/post/new-york-bagel-shops-you-have-to-try/"
+  ]
+ },
+ {
+  "name": "The Gourmet Bagel Co.",
+  "address": "1105 Old Country Rd",
+  "city": "Riverhead",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Suffolk",
+  "zip": "11901",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "kettle-boiled bagels",
+   "cream cheese spreads",
+   "breakfast sandwiches"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2025,
+  "founded_note": "Opened September 2025, per Newsday; the owners' first Gourmet Bagel shop opened in Brooklyn Heights in 1994 and they also run one in Bohemia",
+  "branch_of": null,
+  "note": "Riverhead bagel shop that boils and bakes its bagels the old-fashioned way (no rack oven), using the recipe from the owners' Brooklyn shop.",
+  "website": "https://gourmetbagelriverhead.com/",
+  "open": true,
+  "evidence_date": "2025-10",
+  "sources": [
+   "https://www.newsday.com/lifestyle/restaurants/gourmet-bagel-riverhead-wqho1rqd"
+  ]
+ },
+ {
+  "name": "Fantzye Bagels",
+  "address": "392 Hasbrouck Ave",
+  "city": "Kingston",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Ulster",
+  "zip": "12401",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "sourdough bagels",
+   "house-made schmears",
+   "smoked whitefish"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2024,
+  "founded_note": "Opened its Kingston shop in November 2024 after starting as a Martha's Vineyard pop-up in 2020",
+  "branch_of": null,
+  "note": "Midtown Kingston shop that ferments sourdough bagels for three days, shapes them by hand, boils them and bakes them on cedar boards.",
+  "website": "https://www.fantzye.com/",
+  "open": true,
+  "evidence_date": "2025",
+  "sources": [
+   "https://www.fantzye.com/",
+   "https://www.fantzye.com/about",
+   "https://www.fantzye.com/location",
+   "https://hudsonvalleyone.com/2024/11/25/fantzye-kingstons-newest-bagel-shop-opens-this-friday"
+  ]
+ },
+ {
+  "name": "Moonrise Bagels",
+  "address": "68 Tinker Street",
+  "city": "Woodstock",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Ulster",
+  "zip": "12498",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "stuffed bagels",
+   "Classic Pizza Bagel"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "The business began in Woodstock in 2021 (idea on New Year's Eve 2020); its site calls Tinker Street the original location",
+  "branch_of": null,
+  "note": "Woodstock bakery that hand-rolls, boils and bakes New York-style bagels stuffed with fillings like pizza; now also in Poughkeepsie and Manhattan.",
+  "website": "https://www.moonrisebagels.com/",
+  "open": true,
+  "evidence_date": "2025-12",
+  "sources": [
+   "https://www.moonrisebagels.com/woodstock",
+   "https://www.moonrisebagels.com/our-story",
+   "https://www.timeout.com/newyork/news/this-popular-hudson-valley-stuffed-bagel-spot-is-opening-in-nyc-120425",
+   "https://www.iloveny.com/blog/post/new-york-bagel-shops-you-have-to-try/"
+  ]
+ },
+ {
+  "name": "Ben's Kosher Delicatessen",
+  "address": "59 Old Country Road",
+  "city": "Carle Place",
+  "municipality": "North Hempstead",
+  "neighborhood": null,
+  "county": "Nassau",
+  "zip": "11514",
+  "kinds": [
+   "deli"
+  ],
+  "dishes": [
+   "hot pastrami",
+   "house-cured corned beef",
+   "chicken soup",
+   "knishes"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Ben's says it has served kosher deli since 1972; this location's opening year isn't stated",
+  "branch_of": null,
+  "note": "Family-run kosher deli and restaurant group that cures its own corned beef; one of its Long Island dining rooms.",
+  "website": "https://www.bensdeli.net/",
+  "open": true,
+  "evidence_date": "2026",
+  "sources": [
+   "https://www.bensdeli.net/",
+   "https://bensdeli.net/locations/carle-place-ny-kosher-deli-restaurant/"
+  ]
+ },
+ {
+  "name": "Ben's Kosher Delicatessen",
+  "address": "140 Wheatley Plaza",
+  "city": "Greenvale",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Nassau",
+  "zip": "11548",
+  "kinds": [
+   "deli"
+  ],
+  "dishes": [
+   "hot pastrami",
+   "house-cured corned beef",
+   "chicken soup",
+   "knishes"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Ben's says it has served kosher deli since 1972; this location's opening year isn't stated",
+  "branch_of": null,
+  "note": "Family-run kosher deli and restaurant group that cures its own corned beef; one of its Long Island dining rooms.",
+  "website": "https://www.bensdeli.net/",
+  "open": true,
+  "evidence_date": "2026",
+  "sources": [
+   "https://www.bensdeli.net/",
+   "https://bensdeli.net/locations/greenvale-ny-kosher-deli-restaurant/"
+  ]
+ },
+ {
+  "name": "Lido Kosher Deli",
+  "address": "641 E Park Ave",
+  "city": "Long Beach",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Nassau",
+  "zip": "11561",
+  "kinds": [
+   "deli"
+  ],
+  "dishes": [
+   "pastrami (juicy, lean or extra-lean)",
+   "corned beef",
+   "knishes",
+   "matzo ball soup"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says it has served Long Island for nearly 60 years; run by the Goetz family",
+  "branch_of": null,
+  "note": "Full-service kosher deli in Long Beach with a takeout counter, catering and nationwide shipping; Newsday singles out its pastrami.",
+  "website": "https://lidokosherdeli.com/",
+  "open": true,
+  "evidence_date": "2026",
+  "sources": [
+   "https://www.lidokosherdeli.com/",
+   "https://lidokosherdeli.com/about-us/",
+   "https://www.newsday.com/lifestyle/restaurants/long-island-pastrami-t1jc8kbb"
+  ]
+ },
+ {
+  "name": "Regal Kosher Deli",
+  "address": "1110 Old Country Road",
+  "city": "Plainview",
+  "municipality": "Oyster Bay",
+  "neighborhood": null,
+  "county": "Nassau",
+  "zip": "11803",
+  "kinds": [
+   "deli"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Opening year not stated on its site",
+  "branch_of": null,
+  "note": "Kosher deli, restaurant and caterer on Old Country Road in Plainview.",
+  "website": "https://www.regalkosherdeli.com/",
+  "open": true,
+  "evidence_date": "2026",
+  "sources": [
+   "https://www.regalkosherdeli.com/"
+  ]
+ },
+ {
+  "name": "Ben's Kosher Delicatessen",
+  "address": "7971 Jericho Turnpike",
+  "city": "Woodbury",
+  "municipality": "Oyster Bay",
+  "neighborhood": null,
+  "county": "Nassau",
+  "zip": "11797",
+  "kinds": [
+   "deli"
+  ],
+  "dishes": [
+   "hot pastrami",
+   "house-cured corned beef",
+   "chicken soup",
+   "knishes"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Ben's says it has served kosher deli since 1972; this location's opening year isn't stated",
+  "branch_of": null,
+  "note": "Family-run kosher deli and restaurant group that cures its own corned beef; one of its Long Island dining rooms.",
+  "website": "https://www.bensdeli.net/",
+  "open": true,
+  "evidence_date": "2026",
+  "sources": [
+   "https://www.bensdeli.net/",
+   "https://bensdeli.net/locations/woodbury-ny-kosher-deli-restaurant/"
+  ]
+ },
+ {
+  "name": "Pastrami N Friends",
+  "address": "110A Commack Road",
+  "city": "Commack",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Suffolk",
+  "zip": "11725",
+  "kinds": [
+   "deli"
+  ],
+  "dishes": [
+   "pastrami on rye",
+   "corned beef",
+   "matzo ball soup"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Newsday (Apr 2025) and its site say Ernie Quartarone opened it in Commack in 1975; same address since then not confirmed",
+  "branch_of": null,
+  "note": "Kosher deli in Commack named for its signature sandwich, run by Ernie Quartarone and partner Ronnie Roman.",
+  "website": "https://www.pastraminfriends.com/",
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.pastraminfriends.com/",
+   "https://www.newsday.com/lifestyle/restaurants/long-island-pastrami-t1jc8kbb"
+  ]
+ },
+ {
+  "name": "Epstein's Kosher Deli",
+  "address": "387 N Central Ave",
+  "city": "Hartsdale",
+  "municipality": "Greenburgh",
+  "neighborhood": null,
+  "county": "Westchester",
+  "zip": "10530",
+  "kinds": [
+   "deli"
+  ],
+  "dishes": [
+   "signature deli sandwiches",
+   "knishes",
+   "soups"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says the family has cooked the original Epstein's recipes since 1969; year at this address not stated",
+  "branch_of": null,
+  "note": "Small family-run kosher deli, restaurant and caterer on Central Avenue under rabbinic supervision.",
+  "website": "https://www.epsteinsdeli.com/",
+  "open": true,
+  "evidence_date": "2025",
+  "sources": [
+   "https://www.epsteinsdeli.com/"
+  ]
+ },
+ {
+  "name": "King Umberto",
+  "address": "1343 Hempstead Turnpike",
+  "city": "Elmont",
+  "municipality": "Hempstead",
+  "neighborhood": null,
+  "county": "Nassau",
+  "zip": "11003",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [
+   "grandma slice",
+   "Sicilian slice",
+   "\"Elmont\" pan slice",
+   "panettone (holiday season)"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1976,
+  "founded_note": "Its site and Newsday (June 2025) say it opened in 1976 (Ciro Cesarano and Rosario Fuschetto) at Meacham Ave and Hempstead Tpke, expanding in 1987; a Jan 2026 Newsday piece says 1975",
+  "branch_of": null,
+  "note": "Elmont pizzeria-restaurant credited by Newsday as the first place to sell grandma pizza; slices of regular, Sicilian and grandma at the counter, and a tasting-menu room (Serata) in the old dining room.",
+  "website": "https://www.kingumberto.com/",
+  "open": true,
+  "evidence_date": "2026-01",
+  "sources": [
+   "https://www.kingumberto.com/",
+   "https://www.kingumberto.com/menu-1-1",
+   "https://www.newsday.com/lifestyle/restaurants/king-umberto-panettone-vm39k83z",
+   "https://www.newsday.com/lifestyle/restaurants/serata-king-umberto-elmont-irz62zwb",
+   "https://www.newsday.com/lifestyle/restaurants/best-pizza-long-island-wmyxnp4k"
+  ]
+ },
+ {
+  "name": "Taglio",
+  "address": "85 Mineola Blvd",
+  "city": "Mineola",
+  "municipality": "North Hempstead",
+  "neighborhood": null,
+  "county": "Nassau",
+  "zip": "11501",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [
+   "Roman pizza al taglio by the piece",
+   "\"Neo New York\" pie",
+   "classic New York slices"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Newsday (June 2025) calls it Rob Cervoni's six-year-old spot",
+  "branch_of": null,
+  "note": "Mineola pizzeria that is half classic New York slice shop, half Roman pizza-al-taglio counter.",
+  "website": "https://taglioromanpizza.com/",
+  "open": true,
+  "evidence_date": "2025-06",
+  "sources": [
+   "https://www.newsday.com/lifestyle/restaurants/best-pizza-long-island-wmyxnp4k"
+  ]
+ },
+ {
+  "name": "Mama's of Copiague",
+  "address": "922 Montauk Hwy",
+  "city": "Copiague",
+  "municipality": "Babylon",
+  "neighborhood": null,
+  "county": "Suffolk",
+  "zip": "11726",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [
+   "grandma slice",
+   "pizza by the slice",
+   "pistachio cheesecake"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Newsday (Aug 2026) says it marks 50 years in 2026; a second location opened in Carle Place",
+  "branch_of": null,
+  "note": "Italian-American restaurant and pizzeria selling slices from grandma to specialty pies alongside big pasta plates.",
+  "website": "https://biggermamas.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.newsday.com/lifestyle/restaurants/long-island-restaurants-milestone-anniversaries-2026-i5vje3uf"
+  ]
+ },
+ {
+  "name": "Umberto's",
+  "address": "211 Airport Plaza Blvd",
+  "city": "Farmingdale",
+  "municipality": "Babylon",
+  "neighborhood": null,
+  "county": "Suffolk",
+  "zip": "11735",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [
+   "grandma pizza by the slice",
+   "Sicilian",
+   "Neapolitan slices"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2025,
+  "founded_note": "Opened November 2025 in the former Bellagio Pizzeria space, per Newsday; Umberto's itself was founded in New Hyde Park in 1965 by brothers Umberto and Carlo Corteo",
+  "branch_of": "Umberto's (New Hyde Park)",
+  "note": "Suffolk outpost of the Long Island Umberto's pizzeria family, a contender for 'home of grandma pizza', with a counter pizzeria selling slices and a sit-down room.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-11",
+  "sources": [
+   "https://www.newsday.com/lifestyle/restaurants/umbertos-pizza-farmingdale-anfyl326",
+   "https://www.newsday.com/lifestyle/restaurants/umberto-farmingdale-njzyme4x"
+  ]
+ },
+ {
+  "name": "Canepa's Pizza Shop",
+  "address": "3918 Main Street",
+  "city": "Warrensburg",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Warren",
+  "zip": "12885",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [
+   "New York thin-crust slices"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Warrensburg pizzeria making daily-mixed dough from Italian family recipes, with classic New York thin-crust slices.",
+  "website": "https://canepaspizza.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://canepaspizza.com/",
+   "https://www.iloveny.com/blog/post/best-pizza-places-in-new-york-state/"
+  ]
+ },
+ {
+  "name": "Hot Dog Charlie's",
+  "address": "629 Saratoga St",
+  "city": "Cohoes",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Albany",
+  "zip": "12047",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "mini hot dogs",
+   "chili meat sauce"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says the family business began in 1922 as New Way Lunch; this location's opening year isn't stated",
+  "branch_of": null,
+  "note": "Family-run mini hot dog shop known for its chili meat sauce; this is the Cohoes shop.",
+  "website": "https://www.hotdogcharlies.com/",
+  "open": true,
+  "evidence_date": "2025-06",
+  "sources": [
+   "https://www.hotdogcharlies.com/",
+   "https://www.hotdogcharlies.com/cohoes-hot-dog-charlie-s-cohoes-about",
+   "https://www.iloveny.com/blog/post/best-places-to-get-a-hot-dog-in-new-york/"
+  ]
+ },
+ {
+  "name": "Gus's Hot Dogs",
+  "address": "212 25th Street",
+  "city": "Watervliet",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Albany",
+  "zip": "12189",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "mini hot dogs",
+   "\"the works\" (mustard, onions, meat sauce)",
+   "Greek burger"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says it has served mini hot dogs and hamburgers with its meat sauce for over 60 years",
+  "branch_of": null,
+  "note": "Walk-up window in Watervliet serving 4-inch Capital District mini dogs plain or with the works, plus burgers.",
+  "website": "https://www.gusshotdogswatervliet.com/",
+  "open": true,
+  "evidence_date": "2025-06",
+  "sources": [
+   "https://www.gusshotdogswatervliet.com/",
+   "https://www.iloveny.com/blog/post/best-places-to-get-a-hot-dog-in-new-york/"
+  ]
+ },
+ {
+  "name": "Mama's Boy Burgers",
+  "address": "6067 Main St",
+  "city": "Tannersville",
+  "municipality": "Hunter",
+  "neighborhood": null,
+  "county": "Greene",
+  "zip": "12485",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "white hot",
+   "grass-fed burgers"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Catskills burger spot that also serves Hoffman's hot dogs, both all-beef and white hots.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-06",
+  "sources": [
+   "https://www.iloveny.com/listing/mamas-boy-burgers/126760/",
+   "https://www.iloveny.com/blog/post/best-places-to-get-a-hot-dog-in-new-york/"
+  ]
+ },
+ {
+  "name": "Hot Dog Charlie's",
+  "address": "150 Columbia St",
+  "city": "Rensselaer",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Rensselaer",
+  "zip": "12144",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "mini hot dogs",
+   "chili meat sauce"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says the family business began in 1922 as New Way Lunch; this location's opening year isn't stated",
+  "branch_of": null,
+  "note": "Family-run mini hot dog shop known for its chili meat sauce; this is the Rensselaer shop.",
+  "website": "https://www.hotdogcharlies.com/",
+  "open": true,
+  "evidence_date": "2025-06",
+  "sources": [
+   "https://www.hotdogcharlies.com/",
+   "https://www.hotdogcharlies.com/cohoes-hot-dog-charlie-s-cohoes-about",
+   "https://www.iloveny.com/blog/post/best-places-to-get-a-hot-dog-in-new-york/"
+  ]
+ },
+ {
+  "name": "Famous Lunch",
+  "address": "111 Congress St",
+  "city": "Troy",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Rensselaer",
+  "zip": "12180",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "mini hot dogs with meat sauce, mustard and onions"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1932,
+  "founded_note": "Its site says it opened as Quick Lunch at 111 Congress Street in 1932 and was renamed Famous Lunch after a 1958 episode",
+  "branch_of": null,
+  "note": "Downtown Troy lunch counter serving the Capital District's mini hot dogs since 1932.",
+  "website": "https://www.worldfamouslunch.com/",
+  "open": true,
+  "evidence_date": "2025-06",
+  "sources": [
+   "https://www.worldfamouslunch.com/about",
+   "https://www.worldfamouslunch.com/",
+   "https://www.iloveny.com/blog/post/best-places-to-get-a-hot-dog-in-new-york/"
+  ]
+ },
+ {
+  "name": "Hot Dog Charlie's",
+  "address": "472 5th Ave",
+  "city": "Troy",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Rensselaer",
+  "zip": "12182",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "mini hot dogs",
+   "chili meat sauce"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says the family business began in 1922 as New Way Lunch; this location's opening year isn't stated",
+  "branch_of": null,
+  "note": "Family-run mini hot dog shop known for its chili meat sauce; this is the Lansingburgh shop.",
+  "website": "https://www.hotdogcharlies.com/",
+  "open": true,
+  "evidence_date": "2025-06",
+  "sources": [
+   "https://www.hotdogcharlies.com/",
+   "https://www.hotdogcharlies.com/cohoes-hot-dog-charlie-s-cohoes-about",
+   "https://www.iloveny.com/blog/post/best-places-to-get-a-hot-dog-in-new-york/"
+  ]
+ },
+ {
+  "name": "First Prize Mike's",
+  "address": "1135 Erie Boulevard",
+  "city": "Schenectady",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Schenectady",
+  "zip": "12305",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "hot dog with meat sauce"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says it has served Schenectady for over 75 years",
+  "branch_of": null,
+  "note": "Family-run Schenectady diner-style restaurant built on its hot dog with meat sauce; I LOVE NY lists it among Capital District mini-dog spots.",
+  "website": "https://mikesfirstprize.com/",
+  "open": true,
+  "evidence_date": "2026",
+  "sources": [
+   "https://mikesfirstprize.com/",
+   "https://mikesfirstprize.com/contact-us/",
+   "https://www.iloveny.com/blog/post/best-places-to-get-a-hot-dog-in-new-york/"
+  ]
+ },
+ {
+  "name": "New Way Lunch",
+  "address": "21 South Street",
+  "city": "Glens Falls",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Warren",
+  "zip": "12801",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "hot dog with mustard, onions and meat sauce",
+   "Dirty Dog"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Founded August 1919 in Glens Falls by John Floro, per its site, which calls South Street its first location; year at this exact address not stated",
+  "branch_of": null,
+  "note": "Family-run Glens Falls hot dog counter serving dogs on steamed rolls with mustard, onions and its own meat sauce; a second shop is in Warrensburg.",
+  "website": "https://www.newwaylunch.com/",
+  "open": true,
+  "evidence_date": "2026",
+  "sources": [
+   "https://www.newwaylunch.com/",
+   "https://www.newwaylunch.com/pages/glen-falls"
+  ]
+ },
+ {
+  "name": "Walter's Hot Dogs",
+  "address": "937 Palmer Ave",
+  "city": "Mamaroneck",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Westchester",
+  "zip": "10543",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "split, griddled hot dog with Walter's mustard sauce"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1928,
+  "founded_note": "Serving hot dogs since 1919; its site says the copper-roofed pagoda stand on Palmer Avenue was built in 1928",
+  "branch_of": null,
+  "note": "Walk-up hot dog stand in a copper-roofed Chinese pagoda on the National Register, splitting and griddling beef-pork-veal dogs; open year-round.",
+  "website": "https://www.waltershotdogs.com/",
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.waltershotdogs.com/about",
+   "https://www.waltershotdogs.com/hours-1",
+   "https://www.waltershotdogs.com/mamaroneck",
+   "https://www.waltershotdogs.com/blog"
+  ]
+ },
+ {
+  "name": "Stissing House",
+  "address": "7801 South Main Street",
+  "city": "Pine Plains",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Dutchess",
+  "zip": "12567",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says the building went up in 1782 as a tavern with rooms and a domed ballroom; it declined after World War I and reopened as a restaurant in 1995",
+  "branch_of": null,
+  "note": "Pine Plains tavern building from 1782, restored in the 1990s and run since 2022 by chef-proprietor Clare de Boer, with an upstairs ballroom for events and cooking classes.",
+  "website": "https://www.stissinghouse.com/",
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://www.stissinghouse.com/history",
+   "https://www.stissinghouse.com/whats-on"
+  ]
+ },
+ {
+  "name": "The Tavern at the Beekman Arms",
+  "address": "6387 Mill St",
+  "city": "Rhinebeck",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Dutchess",
+  "zip": "12572",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "brunch",
+   "Hudson Valley American cooking"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1766,
+  "founded_note": "Wikipedia says the tavern (begun 1704 by William Traphagen) moved to this crossroads in 1766; the inn claims to be America's oldest continuously operated inn, and the Village marked its 260th anniversary in July 2026",
+  "branch_of": null,
+  "note": "Colonial-era tavern inside the Beekman Arms inn at Rhinebeck's main crossroads, serving lunch, brunch and dinner every day of the year.",
+  "website": "https://www.beekmandelamaterinn.com/",
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://dutchesstourism.com/listingsv/the-tavern-at-the-beekman-arms",
+   "https://villageofrhinebeck.gov/announcements-public-notices/34xnne6zhx93xta-ngbkf-r3znp-82wzg-9k52w-zkaxx-nk55t-6k2zy",
+   "https://en.wikipedia.org/wiki/Beekman_Arms"
+  ]
+ },
+ {
+  "name": "Hudson House River Inn",
+  "address": "2 Main Street",
+  "city": "Cold Spring",
+  "municipality": "Philipstown",
+  "neighborhood": null,
+  "county": "Putnam",
+  "zip": "10516",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1832,
+  "founded_note": "Its site says the building dates to 1827 and has welcomed guests since 1832, and calls it the second-oldest continuously operated inn in New York State (a claim)",
+  "branch_of": null,
+  "note": "Riverfront inn at the foot of Cold Spring's Main Street with two dining rooms (the River Room and the Half Moon Tavern) serving lunch, dinner and Sunday brunch.",
+  "website": "https://hudsonhouseinn.com/",
+  "open": true,
+  "evidence_date": "2026",
+  "sources": [
+   "https://hudsonhouseinn.com/history/",
+   "https://hudsonhouseinn.com/"
+  ]
+ },
+ {
+  "name": "Bear Mountain Inn",
+  "address": "3020 Seven Lakes Drive",
+  "city": "Bear Mountain",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Rockland",
+  "zip": "10911",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "Sunday brunch"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1915,
+  "founded_note": "Built and opened in 1915 inside Bear Mountain State Park (on the National Register); it was closed for renovation about 2006-2012, per Wikipedia",
+  "branch_of": null,
+  "note": "Rustic-style 1915 park inn run by the Palisades Interstate Park Commission, with a full-service restaurant and bar and seasonal festivals.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.iloveny.com/listing/bear-mountain-inn-%26-overlook-lodge/16202/",
+   "https://www.iloveny.com/event/bear-mountain-inn-family-fall-festival-%26-craft-brew-garden/82030/",
+   "https://en.wikipedia.org/wiki/Bear_Mountain_Inn"
+  ]
+ },
+ {
+  "name": "The Old '76 House",
+  "address": "110 Main St",
+  "city": "Tappan",
+  "municipality": "Orangetown",
+  "neighborhood": null,
+  "county": "Rockland",
+  "zip": "10983",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says the building dates to 1668 and calls it America's oldest restaurant/tavern (a claim); it figures in the 1780 Major Andre story",
+  "branch_of": null,
+  "note": "Colonial-era tavern in Tappan, restored by the Norden family, serving lunch and dinner with live music most nights.",
+  "website": "https://www.76house.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.76house.com/",
+   "https://www.76house.com/history",
+   "https://www.76house.com/music-calendar",
+   "https://www.iloveny.com/blog/post/where-history-was-made-revolutionary-war-sites-across-new-york-state/"
+  ]
+ },
+ {
+  "name": "Claudio's",
+  "address": "111 Main St",
+  "city": "Greenport",
+  "municipality": "Southold",
+  "neighborhood": null,
+  "county": "Suffolk",
+  "zip": "11944",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "seafood",
+   "fish tacos",
+   "lobster Bloody Mary"
+  ],
+  "seasonal": true,
+  "season": "Spring to fall (2026: waterfront opened April 24, restaurant May 1)",
+  "founded": 1870,
+  "founded_note": "Claims 'Est. 1870' at the foot of Main Street on Greenport Harbor; new management runs it today",
+  "branch_of": null,
+  "note": "Harborfront seafood restaurant, bar and marina at the foot of Greenport's Main Street, dating its start to 1870.",
+  "website": "https://www.claudios.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.claudios.com/",
+   "https://www.claudios.com/press",
+   "https://www.claudios.com/events",
+   "https://northforker.com/2026/04/claudios-reopens-with-new-beach-club-and-familiar-favorites/"
+  ]
+ },
+ {
+  "name": "Mohonk Mountain House",
+  "address": "1000 Mountain Rest Road",
+  "city": "New Paltz",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Ulster",
+  "zip": "12561",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1869,
+  "founded_note": "Its site says the Smiley family founded it in 1869; a National Historic Landmark resort",
+  "branch_of": null,
+  "note": "Historic lakeside mountain resort above New Paltz with a main dining room; day-visit passes include dining options.",
+  "website": "https://www.mohonk.com/",
+  "open": true,
+  "evidence_date": "2026-10",
+  "sources": [
+   "https://www.mohonk.com/"
+  ]
+ },
+ {
+  "name": "Royal Dim Sum",
+  "address": "1500 Old Country Rd, Unit 102B",
+  "city": "Westbury",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Nassau",
+  "zip": "11590",
+  "kinds": [
+   "dim sum"
+  ],
+  "dishes": [
+   "shrimp dumplings",
+   "shumai",
+   "weekend cart service"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2025,
+  "founded_note": "Opened early 2025 in the Samanea Mall, per Newsday (Mar 2025)",
+  "branch_of": null,
+  "note": "Full-service Cantonese dim sum hall in Westbury's Samanea Mall with chefs from Hong Kong and Guangzhou, live seafood tanks and weekend carts.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-02",
+  "sources": [
+   "https://www.newsday.com/lifestyle/restaurants/royal-dim-sum-westbury-rrn3o4au",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=1202250"
+  ]
+ }
+]

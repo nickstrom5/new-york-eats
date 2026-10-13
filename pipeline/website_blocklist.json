@@ -1,0 +1,227 @@
+[
+  {
+    "domain": "thebond1786.com",
+    "match": "domain",
+    "place": "The Bond 1786 (Warrensburg)",
+    "reason": "injected hidden links: hidden (opacity:0 visibility:hidden) link to fancasinos.org \"new RTG casinos\"",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/thebond1786.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "roccospizza.com",
+    "match": "domain",
+    "place": "Rocco's Pizza (Patchogue)",
+    "reason": "injected hidden links: off-screen (left:-7687px) link to hacksawgaming.gr/le-bandit (slot game)",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/roccospizza.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "cornettas.com",
+    "match": "domain",
+    "place": "Cornetta's Restaurant & Marina (Piermont)",
+    "reason": "injected hidden links: off-screen links: ace4win-au.bet, bof-casino-online.uk, slotmonsters.uk, \"online pokies\"",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/cornettas.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "revelie.com",
+    "match": "domain",
+    "place": "Revelie Luncheonette (Manhattan)",
+    "reason": "injected hidden links: off-screen (left:-7344px) links: pokie.inc \"aussie online casino\", jokersclash.com.in",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/revelie.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "colsonpastries.com",
+    "match": "domain",
+    "place": "Colson Patisserie (Brooklyn)",
+    "reason": "injected hidden links: off-screen (left:-9966px) Russian 1xBet copy linking vktu.ru",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/colsonpastries.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "prospectpizzabk.com",
+    "match": "domain",
+    "place": "Prospect Pizza (Brooklyn)",
+    "reason": "domain taken over: whole site is \"CINA788\" Indonesian slot/bandar site",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/prospectpizzabk.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "greenanefarms.com",
+    "match": "domain",
+    "place": "The Restaurant at Greenane Farms (Meridale)",
+    "reason": "injected hidden links: off-screen (left:-12695px) link to ekbett.in \"Ekbet\" (betting)",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/greenanefarms.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "trickshotbilliardsny.com",
+    "match": "domain",
+    "place": "Trick Shot Billiard Hall & Wicked Eatery , Pub & Entertainment (Clifton Park)",
+    "reason": "domain taken over: domain is now a generic AI-written \"billiards insights\" blog with a \"shuffle casino bonus\" link (casinoshuffle.co.uk)",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/trickshotbilliardsny.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "oceanempire.net",
+    "match": "domain",
+    "place": "Ocean Empire (Mount Ivy)",
+    "reason": "injected spam: casino promo paragraphs in the page and footer: v.vegas \"vulkanvegas\", nv.casino/hu \"NV Casino Magyarország\"",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/oceanempire.net.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "lasramblasnyc.com",
+    "match": "domain",
+    "place": "Las Ramblas Bar de Tapas (Manhattan)",
+    "reason": "injected text: footer line in white text \"Explore a wide range of thrilling slot games available at ICE Casino\" (icecasino.com/el) on the Wix site",
+    "severity": "P0",
+    "evidence": "$SP/work/link-scan/evidence/ny/lasramblasnyc.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "juliesrestaurant.com",
+    "match": "domain",
+    "place": "Julie's Restaurant (Inwood)",
+    "reason": "another business: Julie's restaurant, 135 Portland Rd, London W11 (not Inwood, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/juliesrestaurant.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "kinggardentoledo.com",
+    "match": "domain",
+    "place": "King Garden Restaurant (Manhattan)",
+    "reason": "another business: King Garden Chinese takeout in Toledo, OH (not Manhattan)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/kinggardentoledo.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "hideawaypubandeatery.com",
+    "match": "domain",
+    "place": "Hideaway Pub (Rome)",
+    "reason": "another business: Hideaway Pub & Eatery, Franklin, WI (not Rome, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/hideawaypubandeatery.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "chinamoonankeny.com",
+    "match": "domain",
+    "place": "China Moon (Camden); China Moon (Hamlin); China Pearl (Lewiston)",
+    "reason": "another business: China Moon, 225 SE Oralabor Rd, Ankeny, IA (not Camden, Hamlin or Lewiston, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/chinamoonankeny.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "holywonghightstown.com",
+    "match": "domain",
+    "place": "Holy Wong Chinese (Dunkirk)",
+    "reason": "another business: Holy Wong, Hightstown, NJ (not Dunkirk, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/holywonghightstown.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "lostresamigosonline.com",
+    "match": "domain",
+    "place": "Los Mismos Amigos (Queens)",
+    "reason": "another business: Los Tres Amigos, Michigan locations (for Los Mismos Amigos, Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/lostresamigosonline.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "cooliceinc.com",
+    "match": "domain",
+    "place": "Cool Ice (Staten Island)",
+    "reason": "another business: redirects to Cool Ice Distribution, Tampa/St. Petersburg, FL ice delivery (not Staten Island)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/cooliceinc.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "honghingchinesede.com",
+    "match": "domain",
+    "place": "Hong Kong Chinese Restaurant (Queens)",
+    "reason": "another business: Hong Hing Chinese, Delaware (for Hong Kong Chinese Restaurant, Queens)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/honghingchinesede.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "luigispizzeria.com",
+    "match": "domain",
+    "place": "Luigi's Pizzeria (Boonville); Luigi's Pizzeria (Brooklyn)",
+    "reason": "another business: Luigi's Pizzeria, Kentucky (not Boonville, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/luigispizzeria.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "roastd.coffee",
+    "match": "domain",
+    "place": "Roast'd Coffee (Nanuet)",
+    "reason": "another business: Roast'd Coffee, New Jersey (not Nanuet, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/roastd.coffee.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "slicepizzeriaobx.com",
+    "match": "domain",
+    "place": "Slice Pizzeria (Lake George)",
+    "reason": "another business: Slice Pizzeria, Outer Banks, NC (not Lake George, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/slicepizzeriaobx.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "goldenstar.com",
+    "match": "domain",
+    "place": "Golden Star; Goody (Manhattan)",
+    "reason": "another business: Golden Star dust mops (Kansas manufacturer), for Golden Star restaurant, Manhattan",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/goldenstar.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "bandbbagels.com",
+    "match": "domain",
+    "place": "B & B Bagels (Bohemia)",
+    "reason": "another business: B&B Bagel House, Bensalem, PA (not Bohemia, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/bandbbagels.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "chinawoksushibar.com",
+    "match": "domain",
+    "place": "China Wok (Bronx)",
+    "reason": "another business: redirects to China Wok, Fredericksburg, VA (not the Bronx)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/chinawoksushibar.com.html",
+    "found": "2026-10-12"
+  },
+  {
+    "domain": "theotherplace.com",
+    "match": "domain",
+    "place": "The Other Place (Allegany)",
+    "reason": "another business: The Other Place chain in Iowa/Kansas/Missouri (not Allegany, NY)",
+    "severity": "P2",
+    "evidence": "$SP/work/link-scan/evidence/ny/theotherplace.com.html",
+    "found": "2026-10-12"
+  }
+]

@@ -1,0 +1,1012 @@
+[
+ {
+  "name": "It's A Utica Thing! Kitchen & Bar",
+  "address": "350 Leland Ave",
+  "city": "Utica",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Oneida",
+  "zip": "13502",
+  "kinds": [
+   "riggies",
+   "greens",
+   "tomato pie"
+  ],
+  "dishes": [
+   "chicken riggies",
+   "Utica greens",
+   "tomato pie"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Utica kitchen and bar built around the city's own dishes: riggies, Utica greens and tomato pie.",
+  "website": "https://www.itsauticathing.com/",
+  "open": true,
+  "evidence_date": "2026-02",
+  "sources": [
+   "https://www.itsauticathing.com/",
+   "https://www.iloveny.com/blog/post/everything-you-have-to-eat-in-central-new-york/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=290093"
+  ]
+ },
+ {
+  "name": "Bella Regina",
+  "address": "15 Auert Ave",
+  "city": "Utica",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Oneida",
+  "zip": "13502",
+  "kinds": [
+   "riggies",
+   "greens"
+  ],
+  "dishes": [
+   "chicken riggies",
+   "Utica greens"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Italian restaurant in Utica known for its chicken riggies; also serves Utica greens.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-02",
+  "sources": [
+   "https://www.iloveny.com/blog/post/everything-you-have-to-eat-in-central-new-york/",
+   "https://exploringupstate.com/utica-food-tour/",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=290433"
+  ]
+ },
+ {
+  "name": "Chesterfield's Tavolo",
+  "address": "131 N Genesee St",
+  "city": "Utica",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Oneida",
+  "zip": "13502",
+  "kinds": [
+   "greens"
+  ],
+  "dishes": [
+   "Utica greens"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Successor to Dominique's Chesterfield Restaurant at 1713 Bleecker St, run by a family long tied to chicken riggies and Utica greens; founding-year claims not confirmed.",
+  "branch_of": null,
+  "note": "North Genesee Street successor to the Chesterfield restaurant on Bleecker Street, with Utica greens and chicken riggies on the menu.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "sources": [
+   "https://mohawkcentral.com/eat/restaurants/chesterfields-tavolo",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=1008589"
+  ]
+ },
+ {
+  "name": "Cafe CaNole",
+  "address": "1 Campion Rd",
+  "city": "New Hartford",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Oneida",
+  "zip": "13413",
+  "kinds": [
+   "riggies",
+   "greens"
+  ],
+  "dishes": [
+   "chicken riggies",
+   "Greens CaNole (escarole, prosciutto, cherry peppers)"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "The bakery says it has served Central New York for over two decades; opening year at Campion Rd not confirmed.",
+  "branch_of": null,
+  "note": "Family-owned New Hartford restaurant, bar and bakery; chicken riggies and its Utica-style 'Greens CaNole' are on the menu.",
+  "website": "https://www.cafecanole.com/",
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.cafecanole.com/",
+   "https://order.cafecanole.com/",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=290814"
+  ]
+ },
+ {
+  "name": "Pastabilities",
+  "address": "311 S Franklin St",
+  "city": "Syracuse",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Onondaga",
+  "zip": "13202",
+  "kinds": [
+   "riggies"
+  ],
+  "dishes": [
+   "Wicked chicken riggies",
+   "spicy hot tomato oil",
+   "stretch bread"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Syracuse Italian restaurant making its own pasta, with 'Wicked' chicken riggies on the menu and stretch bread from its bakery across the street.",
+  "website": "https://www.pastabilities.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.pastabilities.com/",
+   "https://www.pastabilities.com/s/TO-GO-DINNER-9926.pdf",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=293908"
+  ]
+ },
+ {
+  "name": "O'Scugnizzo Pizzeria",
+  "address": "614 Bleecker St",
+  "city": "Utica",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Oneida",
+  "zip": "13501",
+  "kinds": [
+   "tomato pie"
+  ],
+  "dishes": [
+   "tomato pie",
+   "upside-down sausage pizza"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Founded 1914 by Eugeno Burlino (the family name is also spelled Burline), who sold nickel tomato pies; year at 614 Bleecker St not confirmed.",
+  "branch_of": null,
+  "note": "Utica pizzeria dating to 1914 that began with nickel tomato pies; still family-run and known for its 'upside-down' sausage pie.",
+  "website": "https://www.uticapizza.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.uticapizza.com/",
+   "https://pizzahalloffame.com/oscugnizzos-pizzeria/",
+   "https://en.wikipedia.org/wiki/Italian_tomato_pie",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=289033"
+  ]
+ },
+ {
+  "name": "Roma Sausage & Deli",
+  "address": "2029 Bleecker St",
+  "city": "Utica",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Oneida",
+  "zip": "13501",
+  "kinds": [
+   "tomato pie"
+  ],
+  "dishes": [
+   "tomato pie",
+   "Italian sausage"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Italian deli and sausage maker on Bleecker St known for its homemade tomato pie.",
+  "website": "https://www.romasausageanddeli.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.romasausageanddeli.com/",
+   "https://www.iloveny.com/blog/post/everything-you-have-to-eat-in-central-new-york/",
+   "https://data.ny.gov/resource/d6dy-3h7r.json?trade_name=ROMA%20SAUSAGE"
+  ]
+ },
+ {
+  "name": "Roma Sausage & Deli",
+  "address": "3921 Oneida St",
+  "city": "New Hartford",
+  "municipality": null,
+  "neighborhood": "Washington Mills",
+  "county": "Oneida",
+  "zip": "13413",
+  "kinds": [
+   "tomato pie"
+  ],
+  "dishes": [
+   "tomato pie",
+   "Italian sausage"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": "Roma Sausage & Deli, Utica (2029 Bleecker St)",
+  "note": "Washington Mills branch of the Utica deli, selling the same tomato pie.",
+  "website": "https://www.romasausageanddeli.com/",
+  "open": true,
+  "evidence_date": "2025-10",
+  "sources": [
+   "https://www.romasausageanddeli.com/",
+   "https://data.ny.gov/resource/d6dy-3h7r.json?trade_name=ROMA%20SAUSAGE"
+  ]
+ },
+ {
+  "name": "Holland Farms Bakery & Deli",
+  "address": "50 Oriskany Blvd",
+  "city": "Yorkville",
+  "municipality": "Whitestown",
+  "neighborhood": null,
+  "county": "Oneida",
+  "zip": "13495",
+  "kinds": [
+   "half-moon",
+   "tomato pie"
+  ],
+  "dishes": [
+   "half moon cookies",
+   "tomato pie",
+   "jelly buns"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1966,
+  "founded_note": "Holland Farms opened its first dairy bar and bakery in Yorkville in 1955 and moved to 50 Oriskany Blvd in 1966 (its history page).",
+  "branch_of": null,
+  "note": "Family bakery and deli known for half moons, jelly buns and Utica-style tomato pie, with a drive-up window.",
+  "website": "https://hollandfarms.com/",
+  "open": true,
+  "evidence_date": "2025-11",
+  "sources": [
+   "https://hollandfarms.com/",
+   "https://hollandfarms.com/yorkville/",
+   "https://hollandfarms.com/about-us/our-history/"
+  ]
+ },
+ {
+  "name": "Holland Farms Bakery & Deli",
+  "address": "343 Fayette St",
+  "city": "Manlius",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Onondaga",
+  "zip": "13104",
+  "kinds": [
+   "half-moon",
+   "tomato pie"
+  ],
+  "dishes": [
+   "half moon cookies",
+   "Utica-style tomato pie"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2025,
+  "founded_note": "Its first NYSDOH inspection was on August 21, 2025, so it opened around then; exact opening date not confirmed.",
+  "branch_of": "Holland Farms Bakery & Deli, Yorkville",
+  "note": "Manlius branch of the Utica-area bakery, bringing its half moons and tomato pie to Onondaga County.",
+  "website": "https://hollandfarms.com/manlius/",
+  "open": true,
+  "evidence_date": "2026-03",
+  "sources": [
+   "https://hollandfarms.com/manlius/",
+   "https://hollandfarms.com/",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=1177045"
+  ]
+ },
+ {
+  "name": "Napoli's Italian Bakery",
+  "address": "412 Culver Ave",
+  "city": "Utica",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Oneida",
+  "zip": "13501",
+  "kinds": [
+   "tomato pie"
+  ],
+  "dishes": [
+   "tomato pie"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Utica Italian bakery named among the city's tomato pie stops.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-03",
+  "sources": [
+   "https://exploringupstate.com/utica-food-tour/",
+   "https://data.ny.gov/resource/d6dy-3h7r.json?trade_name=NAPOLIS%20ITALIAN%20BAKERY"
+  ]
+ },
+ {
+  "name": "Nick's Tomato Pie",
+  "address": "109 Walton St",
+  "city": "Syracuse",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Onondaga",
+  "zip": "13202",
+  "kinds": [
+   "tomato pie"
+  ],
+  "dishes": [
+   "tomato pie",
+   "pizza",
+   "subs"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Syracuse pizzeria whose menu leads with its namesake tomato pie.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://places.singleplatform.com/nicks-tomato-pie-3/menu",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=547557"
+  ]
+ },
+ {
+  "name": "Hemstrought's Bakery",
+  "address": "900 Oswego St",
+  "city": "Utica",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Oneida",
+  "zip": "13502",
+  "kinds": [
+   "half-moon"
+  ],
+  "dishes": [
+   "half moon cookies"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "The bakery says its half moon is 'the original' and that the recipe hasn't changed since 1920 (its claim); I LOVE NY also dates the cookie's debut at Hemstrought's to 1920.",
+  "branch_of": null,
+  "note": "Utica bakery that calls its hand-frosted half moon 'the original', made to a 1920 recipe.",
+  "website": "https://www.hemstroughts.com/",
+  "open": true,
+  "evidence_date": "2025-10",
+  "sources": [
+   "https://www.hemstroughts.com/",
+   "https://www.iloveny.com/blog/post/everything-you-have-to-eat-in-central-new-york/",
+   "https://data.ny.gov/resource/d6dy-3h7r.json?trade_name=HEMSTROUGHTS%20BAKERIES"
+  ]
+ },
+ {
+  "name": "Florentine Pastry Shop",
+  "address": "667 Bleecker St",
+  "city": "Utica",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Oneida",
+  "zip": "13501",
+  "kinds": [
+   "half-moon"
+  ],
+  "dishes": [
+   "half moon cookies",
+   "pusties (pasticciotti)"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1945,
+  "founded_note": "Opened December 1928 at 605 Bleecker St; moved to 667 Bleecker St in 1945 (its site).",
+  "branch_of": null,
+  "note": "Bleecker Street Italian pastry shop known for pusties, with half moons in the case too.",
+  "website": "https://www.florentinepastry.com/",
+  "open": true,
+  "evidence_date": "2026-01",
+  "sources": [
+   "https://www.florentinepastry.com/",
+   "https://www.florentinepastry.com/pastries",
+   "https://exploringupstate.com/utica-food-tour/",
+   "https://data.ny.gov/resource/d6dy-3h7r.json?trade_name=FLORENTINE%20PASTRY%20SHOP"
+  ]
+ },
+ {
+  "name": "Gingerbread Bake Shop",
+  "address": "3991 Oneida St",
+  "city": "New Hartford",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Oneida",
+  "zip": "13413",
+  "kinds": [
+   "half-moon"
+  ],
+  "dishes": [
+   "half moon cookies"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "New Hartford bakery known for its half moon cookies.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://exploringupstate.com/utica-food-tour/",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=290672"
+  ]
+ },
+ {
+  "name": "North Star Orchards",
+  "address": "4741 State Route 233",
+  "city": "Westmoreland",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Oneida",
+  "zip": "13490",
+  "kinds": [
+   "half-moon"
+  ],
+  "dishes": [
+   "half moon cookies"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1986,
+  "founded_note": "A family-run farm market and bakery since 1986 (its site).",
+  "branch_of": null,
+  "note": "Westmoreland family farm market with a greenhouse and an in-house bakery that sells mini and jumbo half moon cookies.",
+  "website": "https://northstarorchards.com/",
+  "open": true,
+  "evidence_date": "2025-06",
+  "sources": [
+   "https://northstarorchards.com/",
+   "https://northstarorchards.com/bakery",
+   "https://data.ny.gov/resource/d6dy-3h7r.json?trade_name=NORTH%20STAR%20ORCHARDS"
+  ]
+ },
+ {
+  "name": "Spiedie & Rib Pit",
+  "address": "1274 Upper Front St",
+  "city": "Binghamton",
+  "municipality": "Chenango",
+  "neighborhood": null,
+  "county": "Broome",
+  "zip": "13901",
+  "kinds": [
+   "spiedie"
+  ],
+  "dishes": [
+   "chicken spiedie",
+   "spiedies",
+   "ribs"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site (copyright 2025) says it is celebrating 32 years of spiedies and BBQ, so roughly 1993",
+  "branch_of": null,
+  "note": "Binghamton spiedie and barbecue spot offering spiedies with a choice of breads, toppings and sauces.",
+  "website": "https://www.spiedieandribpit.com/",
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.spiedieandribpit.com/",
+   "https://visitbinghamton.org/unique-to-bing/spiedies/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=256085"
+  ]
+ },
+ {
+  "name": "Spiedie & Rib Pit",
+  "address": "3908 Vestal Pkwy E",
+  "city": "Vestal",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Broome",
+  "zip": "13850",
+  "kinds": [
+   "spiedie"
+  ],
+  "dishes": [
+   "chicken spiedie",
+   "spiedies",
+   "ribs"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": "Spiedie & Rib Pit, Binghamton",
+  "note": "Vestal location of the Binghamton spiedie and rib shop, same menu.",
+  "website": "https://www.spiedieandribpit.com/",
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://www.spiedieandribpit.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=256918"
+  ]
+ },
+ {
+  "name": "Lupo's Char Pit",
+  "address": "2710 E Main St",
+  "city": "Endwell",
+  "municipality": "Union",
+  "neighborhood": null,
+  "county": "Broome",
+  "zip": "13760",
+  "kinds": [
+   "spiedie"
+  ],
+  "dishes": [
+   "spiedies"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1966,
+  "founded_note": "WNBF (2020) says the Endwell drive-in has been in business since late 1966; the separate Lupo's S & S Char Pit in Binghamton has closed.",
+  "branch_of": null,
+  "note": "Endwell drive-in, the original Lupo's Char-Pit, serving spiedies since 1966.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://wnbf.com/snow-covered-roof-collapses-at-endwell-lupos-outdoor-dining-area/",
+   "https://uncoveringnewyork.com/spiedies-in-binghamton/",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=256342"
+  ]
+ },
+ {
+  "name": "Heid's of Liverpool",
+  "address": "305 Oswego St",
+  "city": "Liverpool",
+  "municipality": "Salina",
+  "neighborhood": null,
+  "county": "Onondaga",
+  "zip": "13088",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "Hofmann frank",
+   "Hofmann coney"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1930,
+  "founded_note": "Family meat market founded 1886; hot dog stand opened 1917; moved to this Liverpool spot in 1930 (its own history)",
+  "branch_of": null,
+  "note": "Hot dog stand serving Hofmann franks and coneys, with an ice cream parlor in its old bowling alley.",
+  "website": "https://www.heidsofliverpool.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.heidsofliverpool.com/",
+   "https://www.cny55.com/?p=2695",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=293940"
+  ]
+ },
+ {
+  "name": "Gus' Red Hots",
+  "address": "5 Commodore Thomas Macdonough Hwy",
+  "city": "Plattsburgh",
+  "municipality": "Plattsburgh (town)",
+  "neighborhood": null,
+  "county": "Clinton",
+  "zip": "12901",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "michigan"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Diner and michigan stand serving breakfast, lunch and dinner; a stop on the town's July Michigan Month passport.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.townofplattsburghny.gov/home-of-the-michigan/",
+   "https://www.goadirondack.com/entries/gus-red-hots-inc-2",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=268626"
+  ]
+ },
+ {
+  "name": "McSweeney's Red Hots",
+  "address": "600 State Route 3",
+  "city": "Plattsburgh",
+  "municipality": "Plattsburgh (town)",
+  "neighborhood": null,
+  "county": "Clinton",
+  "zip": "12901",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "michigan"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1991,
+  "founded_note": "Adirondack Coast tourism listing gives June 1, 1991 for this location",
+  "branch_of": null,
+  "note": "Michigan stand on Route 3; part of the town's July Michigan Month passport.",
+  "website": "http://www.mcsweeneysredhots.com/",
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.townofplattsburghny.gov/home-of-the-michigan/",
+   "https://www.goadirondack.com/entries/mcsweeneys-red-hots-on-route-3",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=269004"
+  ]
+ },
+ {
+  "name": "Ronnie's Michigan Stand",
+  "address": "1261 State Route 3",
+  "city": "Morrisonville",
+  "municipality": "Plattsburgh (town)",
+  "neighborhood": null,
+  "county": "Clinton",
+  "zip": "12962",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "michigan"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Route 3 michigan stand in Morrisonville, one of the five stops on the Town of Plattsburgh's July Michigan Month passport.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.townofplattsburghny.gov/home-of-the-michigan/",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=268702"
+  ]
+ },
+ {
+  "name": "Michigans Plus",
+  "address": "313 Cornelia St",
+  "city": "Plattsburgh",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Clinton",
+  "zip": "12901",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "michigan"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Tourism listing says it has served a homemade menu for over 40 years",
+  "branch_of": null,
+  "note": "Family restaurant serving homemade breakfast, lunch and the local michigan; on the 2026 Michigan Month passport.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.townofplattsburghny.gov/home-of-the-michigan/",
+   "https://www.goadirondack.com/entries/michigans-plus-2",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=268658"
+  ]
+ },
+ {
+  "name": "Jim's Texas Hots",
+  "address": "8 W Market St",
+  "city": "Corning",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Steuben",
+  "zip": "14830",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "Texas hot"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Downtown Corning hot dog counter named for its Texas hots.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=342357"
+  ]
+ },
+ {
+  "name": "Tony's Texas Hots",
+  "address": "300 Main St",
+  "city": "Johnson City",
+  "municipality": "Union",
+  "neighborhood": null,
+  "county": "Broome",
+  "zip": "13790",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "Texas hot"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Johnson City hot dog restaurant named for its Texas hots.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=256515"
+  ]
+ },
+ {
+  "name": "The Sherwood Inn",
+  "address": "26 W Genesee St",
+  "city": "Skaneateles",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Onondaga",
+  "zip": "13152",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1807,
+  "founded_note": "Built by Isaac Sherwood in 1807 as a stagecoach tavern; later Lamb's Hotel, Packwood House and Kan-Ya-To Inn before taking the Sherwood name again in 1945 (its own history)",
+  "branch_of": null,
+  "note": "Skaneateles inn, restaurant and tavern in a building that has hosted travelers since 1807.",
+  "website": "https://www.thesherwoodinn.com/",
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://www.thesherwoodinn.com/history",
+   "https://www.thesherwoodinn.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=527511"
+  ]
+ },
+ {
+  "name": "The Krebs",
+  "address": "53 W Genesee St",
+  "city": "Skaneateles",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Onondaga",
+  "zip": "13152",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1899,
+  "founded_note": "Founded in 1899 by Fred and Cora Krebs; later renovated under owner Kim Weitsman (I LOVE NY listing).",
+  "branch_of": null,
+  "note": "Skaneateles dining room in business since 1899, now a farm-to-table restaurant.",
+  "website": "https://www.thekrebs.com/",
+  "open": true,
+  "evidence_date": "2025-09",
+  "sources": [
+   "https://www.iloveny.com/listing/the-krebs/126098/",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=877944"
+  ]
+ },
+ {
+  "name": "Nibsy's Pub",
+  "address": "201 Ulster St",
+  "city": "Syracuse",
+  "municipality": null,
+  "neighborhood": "Tipperary Hill",
+  "county": "Onondaga",
+  "zip": "13204",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1890,
+  "founded_note": "Claims 1890 at the corner of W. Fayette and Ulster streets and calls itself the city's oldest tavern",
+  "branch_of": null,
+  "note": "Irish pub on Tipperary Hill serving pub fare since 1890 by its own account.",
+  "website": "https://www.nibsyspub.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.nibsyspub.com/",
+   "https://www.cny55.com/?p=2695",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=1078846"
+  ]
+ },
+ {
+  "name": "Lincklaen House",
+  "address": "79 Albany St",
+  "city": "Cazenovia",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Madison",
+  "zip": "13035",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1835,
+  "founded_note": "Built 1835; bills itself as the oldest grand hotel in Central New York",
+  "branch_of": null,
+  "note": "Historic village hotel with a restaurant, tavern and brick-oven pizzeria.",
+  "website": "https://www.lincklaenhouse.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.lincklaenhouse.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=281155"
+  ]
+ },
+ {
+  "name": "The Otesaga Resort Hotel",
+  "address": "60 Lake St",
+  "city": "Cooperstown",
+  "municipality": "Otsego",
+  "neighborhood": null,
+  "county": "Otsego",
+  "zip": "13326",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1909,
+  "founded_note": "Resort hotel open since 1909 (its claim); its steakhouse is named the 1909 Restaurant",
+  "branch_of": null,
+  "note": "Lakeside resort hotel on Otsego Lake whose dining rooms include the 1909 Restaurant and the Hawkeye Bar & Grill.",
+  "website": "https://www.otesaga.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.otesaga.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=351131",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=1041340"
+  ]
+ },
+ {
+  "name": "The Tunnicliff Inn",
+  "address": "34-36 Pioneer St",
+  "city": "Cooperstown",
+  "municipality": "Otsego",
+  "neighborhood": null,
+  "county": "Otsego",
+  "zip": "13326",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Building dates to 1802 (built as the American Hotel per Wikipedia; other accounts say it was a store first and a hotel from 1848); named the Tunnicliff Inn since 1916",
+  "branch_of": null,
+  "note": "Inn, restaurant and tavern in an 1802 building in the village of Cooperstown.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-03",
+  "sources": [
+   "https://en.wikipedia.org/wiki/John_Tunnicliff",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=351121"
+  ]
+ },
+ {
+  "name": "The Deer's Head Inn",
+  "address": "7552 Court St",
+  "city": "Elizabethtown",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Essex",
+  "zip": "12932",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1808,
+  "founded_note": "Claims to have welcomed travelers since 1808 and bills itself as the oldest tavern in the Adirondacks",
+  "branch_of": null,
+  "note": "Elizabethtown inn and tavern with a farm-to-table menu built on Essex County producers.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://www.lakechamplainregion.com/node/87035",
+   "https://adktaste.com/blog/deers-head-inn",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=926596"
+  ]
+ },
+ {
+  "name": "Essex Inn",
+  "address": "2297 Main St",
+  "city": "Essex",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Essex",
+  "zip": "12936",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Claims more than 210 years as an inn and tavern",
+  "branch_of": null,
+  "note": "Adirondack Coast village inn whose tavern serves dinner Friday to Sunday year-round.",
+  "website": "http://essexinnessex.com/",
+  "open": true,
+  "evidence_date": "2026-02",
+  "sources": [
+   "http://essexinnessex.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=357887"
+  ]
+ },
+ {
+  "name": "The Monopole",
+  "address": "7 Protection Ave",
+  "city": "Plattsburgh",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Clinton",
+  "zip": "12901",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [],
+  "seasonal": false,
+  "season": null,
+  "founded": 1897,
+  "founded_note": "Opened in 1897 by its own account; keeps its original oak bar, woodwork and stained glass",
+  "branch_of": null,
+  "note": "Plattsburgh bar and grill that keeps its original oak bar and woodwork; long known for live music.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-12",
+  "sources": [
+   "https://nysmusic.com/?p=484970",
+   "https://nysmusic.com/?p=271372",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=268660"
+  ]
+ }
+]

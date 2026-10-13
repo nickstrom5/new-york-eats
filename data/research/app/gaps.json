@@ -1,0 +1,869 @@
+[
+ {
+  "name": "Joe & Pat's",
+  "address": "1758 Victory Blvd",
+  "city": "Staten Island",
+  "municipality": null,
+  "neighborhood": "Castleton Corners",
+  "county": "Richmond",
+  "zip": "10314",
+  "kinds": [
+   "slice"
+  ],
+  "dishes": [
+   "thin-crust slice",
+   "Tri Pie"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Family-owned since 1960 (I LOVE NY); Time Out says two brothers from Naples founded it in 1960. The year it moved to this address isn't stated.",
+  "branch_of": null,
+  "note": "Staten Island pizzeria known for cracker-thin crust. It sells thin-crust slices and whole pies such as the Tri Pie.",
+  "website": "https://www.joeandpatsny.com/",
+  "open": true,
+  "evidence_date": "2025-11",
+  "sources": [
+   "https://www.iloveny.com/blog/post/48-hours-in-staten-island/",
+   "https://www.timeout.com/newyork/restaurants/best-pizza-in-nyc",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50061281"
+  ]
+ },
+ {
+  "name": "Killmeyer's Old Bavaria Inn",
+  "address": "4254 Arthur Kill Rd",
+  "city": "Staten Island",
+  "municipality": null,
+  "neighborhood": "Charleston",
+  "county": "Richmond",
+  "zip": "10309",
+  "kinds": [
+   "oldest"
+  ],
+  "dishes": [
+   "traditional German dishes"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Claims roots around 1855, when Nicolas Killmeyer bought the property. Per its own history, the family later added an upstairs hotel and a mahogany bar commissioned in 1890, and a local brewery supplied its beer by 1907. It was renamed the Century Inn in the 1950s and became Killmeyer's Old Bavaria Inn in 1995. The city inspection record gives the address as 4256.",
+  "branch_of": null,
+  "note": "German bar and restaurant in an old South Shore inn, with a mahogany bar that it dates to 1890.",
+  "website": "https://killmeyers.com/",
+  "open": true,
+  "evidence_date": "2026-06",
+  "sources": [
+   "https://killmeyers.com/about/",
+   "https://www.6sqft.com/nyc-oldest-bars-and-restaurants-still-dine-at-today/",
+   "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=40551900"
+  ]
+ },
+ {
+  "name": "BreadHive",
+  "address": "402 Connecticut St",
+  "city": "Buffalo",
+  "municipality": null,
+  "neighborhood": "West Side",
+  "county": "Erie",
+  "zip": "14213",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "hand-rolled boiled bagels",
+   "bagel sandwiches",
+   "rosemary and salt bagel"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says the sourdough culture has been going since 2014. The café's opening year isn't stated.",
+  "branch_of": null,
+  "note": "Worker-owned bakery and café whose bagels are rolled, boiled, dipped and baked by hand. It is known for its bagel sandwiches.",
+  "website": "https://www.breadhive.com/",
+  "open": true,
+  "evidence_date": "2026-07",
+  "sources": [
+   "https://www.breadhive.com/bread",
+   "https://www.breadhive.com/contact",
+   "https://www.iloveny.com/blog/post/new-york-bagel-shops-you-have-to-try/",
+   "https://data.ny.gov/resource/d6dy-3h7r.json?trade_name=BREADHIVE"
+  ]
+ },
+ {
+  "name": "The Bagel Jar",
+  "address": "6940 Erie Rd",
+  "city": "Derby",
+  "municipality": "Evans",
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14047",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "hand-rolled kettle-boiled bagels",
+   "rosemary sea salt bagel",
+   "The Tater"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Morning bagel shop that rolls and kettle-boils its bagels and seeds them on both sides before baking. It has a second shop in Hamburg.",
+  "website": "https://thebageljar.com/",
+  "open": true,
+  "evidence_date": "2025-07",
+  "sources": [
+   "https://thebageljar.com/",
+   "https://www.iloveny.com/blog/post/new-york-bagel-shops-you-have-to-try/"
+  ]
+ },
+ {
+  "name": "The Bagel Jar",
+  "address": "9 E Union St",
+  "city": "Hamburg",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Erie",
+  "zip": "14075",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "hand-rolled kettle-boiled bagels",
+   "rosemary sea salt bagel",
+   "The Tater"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Village of Hamburg shop of the Derby bagel maker, which rolls and kettle-boils its bagels before baking them. Open mornings only.",
+  "website": "https://thebageljar.com/",
+  "open": true,
+  "evidence_date": "2025-07",
+  "sources": [
+   "https://thebageljar.com/",
+   "https://www.iloveny.com/blog/post/new-york-bagel-shops-you-have-to-try/"
+  ]
+ },
+ {
+  "name": "Balsam Bagels",
+  "address": "288 N Winton Rd",
+  "city": "Rochester",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Monroe",
+  "zip": "14610",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "Montreal sesame bagel",
+   "French toast bagel",
+   "bagel with lox and cream cheese"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Family-run Rochester bagel shop with a long list of bagel and cream cheese flavors, plus breakfast sandwiches, soups and vegan options. NYSDOH lists it as a bakery.",
+  "website": "https://balsambagels.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://balsambagels.com/",
+   "https://www.iloveny.com/blog/post/new-york-bagel-shops-you-have-to-try/",
+   "https://www.visitrochester.com/listing/balsam-bagels/7700/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=1215895"
+  ]
+ },
+ {
+  "name": "Bagel Land",
+  "address": "1896 Monroe Ave",
+  "city": "Rochester",
+  "municipality": "Brighton",
+  "neighborhood": null,
+  "county": "Monroe",
+  "zip": "14618",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "bagels"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Monroe Avenue bagel shop in Brighton that NYSDOH lists as a bakery. Visit Rochester lists it.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2025-11",
+  "sources": [
+   "https://www.visitrochester.com/listing/bagel-land/7698/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=667247"
+  ]
+ },
+ {
+  "name": "Water Street Bagel Co.",
+  "address": "239 E Water St",
+  "city": "Syracuse",
+  "municipality": null,
+  "neighborhood": "Downtown",
+  "county": "Onondaga",
+  "zip": "13202",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "wood-oven bagels",
+   "rosemary salt bagel",
+   "kimmelweck bagel"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Downtown Syracuse bagel shop started by a hometown couple. Its bagels are boiled, then finished in a wood-fired oven.",
+  "website": "https://waterstreetbagelco.com/",
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://www.iloveny.com/blog/post/new-york-bagel-shops-you-have-to-try/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=987510"
+  ]
+ },
+ {
+  "name": "Bagel Grove",
+  "address": "5 Burrstone Rd",
+  "city": "Utica",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Oneida",
+  "zip": "13502",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "overnight-fermented kettled bagels"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says founder Ed Grove left GE during the 1980s bagel craze to start it and has refined the recipe for over 30 years. The year at this address isn't stated.",
+  "branch_of": null,
+  "note": "Utica bagel bakery that makes its bagels from scratch with four ingredients, ferments them overnight, then kettles and bakes them every day.",
+  "website": "https://bagelgrove.com/",
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://bagelgrove.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=288551"
+  ]
+ },
+ {
+  "name": "Willie's Bagel Cafe",
+  "address": "219 N Genesee St",
+  "city": "Utica",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Oneida",
+  "zip": "13502",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "custom-colored bagels",
+   "jalapeño bagel",
+   "blueberry bagel"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Utica bagel café known for custom-colored bagels. I LOVE NY (2025) says it recently opened a second Utica location.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-02",
+  "sources": [
+   "https://www.iloveny.com/blog/post/new-york-bagel-shops-you-have-to-try/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=532081"
+  ]
+ },
+ {
+  "name": "Riverwalk Bagels",
+  "address": "155 W 1st St",
+  "city": "Oswego",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Oswego",
+  "zip": "13126",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "spicy everything bagel",
+   "bacon cheddar bagel",
+   "french toast bagel"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Oswego shop that makes its bagels from scratch every day. The dough is mixed, rested, rolled and cold-proofed before baking. NYSDOH lists it as River Walk Pizza & Bagel.",
+  "website": "https://riverwalkoswego.com/bagels",
+  "open": true,
+  "evidence_date": "2026-02",
+  "sources": [
+   "https://riverwalkoswego.com/bagels",
+   "https://www.iloveny.com/blog/post/new-york-bagel-shops-you-have-to-try/",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=1062669"
+  ]
+ },
+ {
+  "name": "Oswego Bagelry & Bread Shop",
+  "address": "205 W First St",
+  "city": "Oswego",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Oswego",
+  "zip": "13126",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "homemade bagels",
+   "homemade cream cheese spreads"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "I LOVE NY says it opened in 1989. The year at this address isn't stated.",
+  "branch_of": null,
+  "note": "Oswego bagel shop open since 1989, known for homemade bagels and flavored cream cheeses such as banana pepper and bacon-horseradish.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-05",
+  "sources": [
+   "https://www.iloveny.com/blog/post/new-york-bagel-shops-you-have-to-try/",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=1094603"
+  ]
+ },
+ {
+  "name": "Soulshine Bagels",
+  "address": "2526 Main St",
+  "city": "Lake Placid",
+  "municipality": "North Elba",
+  "neighborhood": null,
+  "county": "Essex",
+  "zip": "12946",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "rainbow bagel",
+   "everything bagel"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Main Street bagel shop in Lake Placid known for rainbow bagels, with colored swirls baked into the dough, as well as the classics.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-01",
+  "sources": [
+   "https://www.iloveny.com/blog/post/new-york-bagel-shops-you-have-to-try/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=957135"
+  ]
+ },
+ {
+  "name": "Everything Bagelry",
+  "address": "5 Walnut Ave",
+  "city": "Bainbridge",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Chenango",
+  "zip": "13733",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "kettle-boiled New York-style bagels"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Chenango County village bagel bakery whose New York-style bagels are kettle-boiled before baking.",
+  "website": "https://everythingbagelry.com/",
+  "open": true,
+  "evidence_date": "2026-04",
+  "sources": [
+   "https://everythingbagelry.com/",
+   "https://data.ny.gov/resource/d6dy-3h7r.json?trade_name=EVERYTHING%20BAGELRY"
+  ]
+ },
+ {
+  "name": "Zimi Bagel Café",
+  "address": "38 N Middletown Rd",
+  "city": "Pearl River",
+  "municipality": "Orangetown",
+  "neighborhood": null,
+  "county": "Rockland",
+  "zip": "10965",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "hand-rolled boiled bagels"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says the family's bagel business started in Nyack in 1990. This shop's opening year isn't stated.",
+  "branch_of": null,
+  "note": "Rockland bagel café that mixes its dough on site and hand-rolls, boils and bakes its bagels throughout the day. A second shop is in Nanuet.",
+  "website": "https://zimibagelcafe.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://zimibagelcafe.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=749355"
+  ]
+ },
+ {
+  "name": "Zimi Bagel Café",
+  "address": "269 S Middletown Rd",
+  "city": "Nanuet",
+  "municipality": "Clarkstown",
+  "neighborhood": null,
+  "county": "Rockland",
+  "zip": "10954",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "hand-rolled boiled bagels"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says the family's bagel business started in Nyack in 1990. This shop's opening year isn't stated.",
+  "branch_of": null,
+  "note": "Nanuet shop of the Rockland bagel café, which hand-rolls, boils and bakes its bagels from dough made on site.",
+  "website": "https://zimibagelcafe.com/",
+  "open": true,
+  "evidence_date": "2026-01",
+  "sources": [
+   "https://zimibagelcafe.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=750444"
+  ]
+ },
+ {
+  "name": "Hand Rolled Bagels",
+  "address": "930 Hillside Ave",
+  "city": "New Hyde Park",
+  "municipality": "North Hempstead",
+  "neighborhood": null,
+  "county": "Nassau",
+  "zip": "11040",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "hand-rolled boiled bagels",
+   "sourdough bagels",
+   "chocolate chip bagels"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says it was founded July 3, 1997, family-owned, and calls this its only location. Same storefront throughout not confirmed.",
+  "branch_of": null,
+  "note": "Family-owned New Hyde Park bagel shop, founded in 1997, whose bagels are hand-rolled; flavors include sourdough and chocolate chip.",
+  "website": "https://hrbagels.com/",
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://hrbagels.com/",
+   "https://hrbagels.com/about-us/",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=577029"
+  ]
+ },
+ {
+  "name": "Bagel Hut",
+  "address": "503 Middle Neck Rd",
+  "city": "Great Neck",
+  "municipality": "North Hempstead",
+  "neighborhood": null,
+  "county": "Nassau",
+  "zip": "11023",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "bagels"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says it has served the Great Neck community since 1969; year at this address not confirmed.",
+  "branch_of": null,
+  "note": "Family-owned Great Neck bagel shop on Middle Neck Road, serving the community since 1969.",
+  "website": "https://www.bagelhut.net/",
+  "open": true,
+  "evidence_date": "2025-04",
+  "sources": [
+   "https://www.bagelhut.net/",
+   "https://www.bagelhut.net/catering.htm",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=570429"
+  ]
+ },
+ {
+  "name": "JV Hot Bagels II",
+  "address": "1426 E Main St",
+  "city": "Shrub Oak",
+  "municipality": "Yorktown",
+  "neighborhood": null,
+  "county": "Westchester",
+  "zip": "10588",
+  "kinds": [
+   "bagel"
+  ],
+  "dishes": [
+   "everything bagel"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Shrub Oak bagel shop known for its everything bagel. Westfair (Feb 2025) reported about 2,000 bagels on a typical Sunday. Other JV Hot Bagels shops are in Jefferson Valley and Baldwin Place.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-06",
+  "sources": [
+   "https://westfaironline.com/trending-westchester/best-bagels-in-westchester/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=706476"
+  ]
+ },
+ {
+  "name": "Traditions Eatery",
+  "address": "302 Central Ave",
+  "city": "Lawrence",
+  "municipality": "Hempstead",
+  "neighborhood": "Five Towns",
+  "county": "Nassau",
+  "zip": "11559",
+  "kinds": [
+   "deli"
+  ],
+  "dishes": [
+   "pastrami",
+   "Big Mouth Burger with grilled pastrami"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "Its site says it has kept tradition alive 'since 1995'. Same address throughout not confirmed.",
+  "branch_of": null,
+  "note": "Glatt kosher deli and restaurant under the Vaad of the 5 Towns and Far Rockaway, pairing classic deli with newer dishes such as a burger topped with grilled pastrami.",
+  "website": "https://traditionseatery.com/",
+  "open": true,
+  "evidence_date": "2026-06",
+  "sources": [
+   "https://traditionseatery.com/",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=666090"
+  ]
+ },
+ {
+  "name": "Schaller's Drive In",
+  "address": "965 Edgemere Dr",
+  "city": "Rochester",
+  "municipality": "Greece",
+  "neighborhood": null,
+  "county": "Monroe",
+  "zip": "14612",
+  "kinds": [
+   "hots",
+   "plate"
+  ],
+  "dishes": [
+   "white hots",
+   "red hots",
+   "burgers with meat sauce"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1956,
+  "founded_note": "Schaller's says two brothers opened this original drive-in in 1956.",
+  "branch_of": null,
+  "note": "Lakeside drive-in that started the Schaller's burger-and-hots stands. Visit Rochester lists Schaller's among local spots for a plate.",
+  "website": "https://www.schallers.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.schallers.com/",
+   "https://www.visitrochester.com/blog/post/rochester-garbage-plate/",
+   "https://www.visitrochester.com/listing/schallers/7729/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=666581"
+  ]
+ },
+ {
+  "name": "Schaller's",
+  "address": "559 E Ridge Rd",
+  "city": "Rochester",
+  "municipality": "Irondequoit",
+  "neighborhood": null,
+  "county": "Monroe",
+  "zip": "14621",
+  "kinds": [
+   "hots",
+   "plate"
+  ],
+  "dishes": [
+   "white hots",
+   "red hots",
+   "burgers with meat sauce"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 1959,
+  "founded_note": "Schaller's says its Ridge Road shop opened in 1959.",
+  "branch_of": "Schaller's Drive In, Rochester (Greece)",
+  "note": "Ridge Road shop of the Schaller's burger-and-hots family, opened three years after the original drive-in.",
+  "website": "https://www.schallers.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.schallers.com/",
+   "https://www.visitrochester.com/blog/post/rochester-garbage-plate/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=667588"
+  ]
+ },
+ {
+  "name": "Steve T. Hots & Potatoes",
+  "address": "2260 Lyell Ave",
+  "city": "Rochester",
+  "municipality": "Gates",
+  "neighborhood": null,
+  "county": "Monroe",
+  "zip": "14606",
+  "kinds": [
+   "hots",
+   "plate"
+  ],
+  "dishes": [
+   "plates with hot sauce",
+   "Zweigle's white hots",
+   "Zweigle's hots"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Lyell Avenue hots shop serving its \"Famous Plates\" with its own hot sauce, made with Zweigle's hots and white hots.",
+  "website": "https://stevethots.com/",
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://stevethots.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=667924"
+  ]
+ },
+ {
+  "name": "West Ridge Hots",
+  "address": "584 W Ridge Rd",
+  "city": "Rochester",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Monroe",
+  "zip": "14615",
+  "kinds": [
+   "hots",
+   "plate"
+  ],
+  "dishes": [
+   "plate",
+   "hots"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "West Ridge Road hots shop. Visit Rochester names it (as Westridge Hots) among local places to get a plate.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-08",
+  "sources": [
+   "https://www.visitrochester.com/blog/post/rochester-garbage-plate/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=857963"
+  ]
+ },
+ {
+  "name": "Clare & Carl's",
+  "address": "4731 State Route 9",
+  "city": "Plattsburgh",
+  "municipality": "Plattsburgh (town)",
+  "neighborhood": null,
+  "county": "Clinton",
+  "zip": "12901",
+  "kinds": [
+   "hots"
+  ],
+  "dishes": [
+   "michigan",
+   "Texas red hots"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": "The Adirondack tourism listing says it has been family owned since 1942 and gives 67 Waterhouse St as the address. NYSDOH lists the stand at 4731 State Route 9, and InsideHook (2020) gives 4729 U.S. 9. Its location history isn't stated.",
+  "branch_of": null,
+  "note": "Route 9 michigan stand with car-hop service, which the regional tourism listing calls the oldest michigan stand in the North Country. It is on the town's 2026 Michigan Month list.",
+  "website": null,
+  "open": true,
+  "evidence_date": "2026-09",
+  "sources": [
+   "https://www.townofplattsburghny.gov/home-of-the-michigan/",
+   "https://www.goadirondack.com/entries/clare-and-carls",
+   "https://www.insidehook.com/travel/michigan-meat-sauce-hot-dog-upstate-new-york",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=953357"
+  ]
+ },
+ {
+  "name": "Shining Rainbow",
+  "address": "209 Central Ave",
+  "city": "Albany",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Albany",
+  "zip": "12206",
+  "kinds": [
+   "dim sum"
+  ],
+  "dishes": [
+   "mushroom pork shui mai",
+   "rice noodle rolls",
+   "chicken feet",
+   "turnip cake",
+   "Portuguese custard tarts"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Central Avenue Chinese restaurant with a dim sum menu of about 46 items alongside its regular menu.",
+  "website": "https://www.shiningrainbowny.com/",
+  "open": true,
+  "evidence_date": "2025-11",
+  "sources": [
+   "https://www.shiningrainbowny.com/order/main-menu/dim-sum",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=689883"
+  ]
+ },
+ {
+  "name": "Spin & Savor",
+  "address": "2775 Monroe Ave",
+  "city": "Rochester",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Monroe",
+  "zip": "14618",
+  "kinds": [
+   "dim sum"
+  ],
+  "dishes": [
+   "soup dumplings",
+   "shumai",
+   "custard buns",
+   "glass shrimp rolls"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": 2024,
+  "founded_note": "Its site says it opened in 2024. CITY (Nov 2025) calls it recently opened.",
+  "branch_of": null,
+  "note": "Cantonese dim sum restaurant where diners order on iPads and baskets arrive on a two-level conveyor belt. The chef has more than 30 years of New York City dim sum experience.",
+  "website": "https://www.spinandsavor.com/",
+  "open": true,
+  "evidence_date": "2025-11",
+  "sources": [
+   "https://www.roccitymag.com/culture/spin-and-savor-puts-a-modern-twist-on-traditional-cantonese-cuisine/",
+   "https://www.spinandsavor.com/"
+  ]
+ },
+ {
+  "name": "Su Su Dim Sum",
+  "address": "549 E Brighton Ave",
+  "city": "Syracuse",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Onondaga",
+  "zip": "13210",
+  "kinds": [
+   "dim sum"
+  ],
+  "dishes": [
+   "steamed dumplings",
+   "cold plates",
+   "house-made noodle soups"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Syracuse dim sum restaurant serving steamed dumplings, cold plates and house-made noodle soups. Closed Mondays.",
+  "website": "https://susudimsum.com/",
+  "open": true,
+  "evidence_date": "2026-02",
+  "sources": [
+   "https://susudimsum.com/",
+   "https://health.data.ny.gov/resource/cnih-y5dw.json?nys_health_operation_id=1133623"
+  ]
+ },
+ {
+  "name": "Aberdeen Seafood & Dim Sum",
+  "address": "3 Barker Ave",
+  "city": "White Plains",
+  "municipality": null,
+  "neighborhood": null,
+  "county": "Westchester",
+  "zip": "10601",
+  "kinds": [
+   "dim sum"
+  ],
+  "dishes": [
+   "homemade dim sum"
+  ],
+  "seasonal": false,
+  "season": null,
+  "founded": null,
+  "founded_note": null,
+  "branch_of": null,
+  "note": "Downtown White Plains Cantonese restaurant that specializes in homemade dim sum made fresh every day. Closed Tuesdays. NYSDOH lists it as Aberdeen Cantonese Restaurant.",
+  "website": "https://www.aberdeenwhiteplains.com/",
+  "open": true,
+  "evidence_date": "2025-12",
+  "sources": [
+   "https://www.aberdeenwhiteplains.com/",
+   "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=892178"
+  ]
+ }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Vincent's Restaurant & Pizzeria",
+    "address": "1004 Willis Ave",
+    "city": "Albertson",
+    "county": "Nassau",
+    "closed_reason": "Closed after a decades-long run (open since at least 1978); recorded message cites the expiration of its lease",
+    "closed_date": "2026-01",
+    "sources": [
+      "https://www.newsday.com/lifestyle/restaurants/vincents-albertson-pizza-a4w2l6b5"
+    ]
+  },
+  {
+    "name": "Umberto's (Plainview)",
+    "address": null,
+    "city": "Plainview",
+    "county": "Nassau",
+    "closed_reason": "Newsday (Nov 2025) says the Plainview Umberto's closed earlier in 2025; exact address not given",
+    "closed_date": "2025",
+    "sources": [
+      "https://www.newsday.com/lifestyle/restaurants/umbertos-pizza-farmingdale-anfyl326"
+    ]
+  },
+  {
+    "name": "Umberto's (Oyster Bay)",
+    "address": "Main Street (number not given)",
+    "city": "Oyster Bay",
+    "county": "Nassau",
+    "closed_reason": "Small takeout shop (ex-Nino's Pizza) closed; owners moving the business to the former Frank's Steaks in Jericho",
+    "closed_date": "2026-02",
+    "sources": [
+      "https://www.newsday.com/lifestyle/restaurants/umbertos-jericho-oyster-bay-ku9156k6"
+    ]
+  },
+  {
+    "name": "Five High Marketplace",
+    "address": null,
+    "city": "Huntington",
+    "county": "Suffolk",
+    "closed_reason": "Deli-market known for hand-cut pastrami closed its location after outgrowing it; owner planned a kosher-style restaurant elsewhere (Newsday, Apr 2025)",
+    "closed_date": "2025",
+    "sources": [
+      "https://www.newsday.com/lifestyle/restaurants/long-island-pastrami-t1jc8kbb"
+    ]
+  },
+  {
+    "name": "Tony's Pizzeria",
+    "address": "582 Broadway",
+    "city": "Kingston",
+    "county": "Ulster",
+    "closed_reason": "Pizzeria founded in 1937 by Tony Saccoman sold its last pizza in January 2022; the space was taken over by the Ollie's Pizza team",
+    "closed_date": "2022-01",
+    "sources": [
+      "https://hudsonvalleyone.com/?p=74948"
+    ]
+  }
+]

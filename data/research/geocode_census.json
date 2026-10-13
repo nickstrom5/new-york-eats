@@ -1,0 +1,47 @@
+{
+ "1261 State Route 3, Morrisonville, NY 12962": {
+  "lat": 44.712638,
+  "lon": -73.561837,
+  "matched": "1261 STATE RTE 3, MORRISONVILLE, NY, 12962",
+  "zip": "12962"
+ },
+ "288 E 10th St, New York, NY 10003": {
+  "lat": 40.727993,
+  "lon": -73.982732,
+  "matched": "288 E 10TH ST, NEW YORK, NY, 10009",
+  "zip": "10009"
+ },
+ "301 S 4th St, Brooklyn, NY 11211": {
+  "lat": 40.709192,
+  "lon": -73.955338,
+  "matched": "301 S 4TH ST, BROOKLYN, NY, 11211",
+  "zip": "11211"
+ },
+ "4731 State Route 9, Plattsburgh, NY 12901": {
+  "lat": 44.67054,
+  "lon": -73.446258,
+  "matched": "4731 RTE 9, PLATTSBURGH, NY, 12901",
+  "zip": "12901"
+ },
+ "84 Stanton St, Manhattan, NY 10002": {
+  "lat": 40.721544,
+  "lon": -73.98859,
+  "matched": "84 STANTON ST, NEW YORK, NY, 10002",
+  "zip": "10002"
+ },
+ "84 Stanton St, New York, NY 10002": {
+  "lat": 40.721544,
+  "lon": -73.98859,
+  "matched": "84 STANTON ST, NEW YORK, NY, 10002",
+  "zip": "10002"
+ },
+ "9 E Union St, Hamburg, NY 14075": {
+  "lat": 42.717564,
+  "lon": -78.828978,
+  "matched": "9 E UNION ST, HAMBURG, NY, 14075",
+  "zip": "14075"
+ },
+ "_misses": [
+  "288 E 10th St, Manhattan, NY 10003"
+ ]
+}

@@ -1,0 +1,1040 @@
+[
+  {
+    "name": "L&B Spumoni Gardens",
+    "address": "2725 86th St",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Gravesend",
+    "county": "Kings",
+    "zip": "11223",
+    "kinds": [
+      "slice"
+    ],
+    "dishes": [
+      "Sicilian square slice (cheese first, sauce on top)",
+      "spumoni"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1939,
+    "founded_note": "Dates itself to 1939, when it began as a pushcart; Time Out calls it an 86-year run",
+    "branch_of": null,
+    "note": "Bensonhurst/Gravesend pizzeria, restaurant and spumoni parlor known for its upside-down Sicilian square.",
+    "website": "https://www.spumonigardens.com/",
+    "open": true,
+    "evidence_date": "2025-10",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/best-pizza-in-nyc",
+      "https://www.timeout.com/newyork/news/this-brooklyn-pizza-stalwart-was-just-named-new-yorks-best-slicebut-dont-forget-to-order-their-signature-dessert-too-090425",
+      "https://www.spumonigardens.com/"
+    ]
+  },
+  {
+    "name": "Di Fara Pizza",
+    "address": "1424 Avenue J",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Midwood",
+    "county": "Kings",
+    "zip": "11230",
+    "kinds": [
+      "slice"
+    ],
+    "dishes": [
+      "plain slice"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1965,
+    "founded_note": "Operated since 1965 by the DeMarco family (Time Out)",
+    "branch_of": null,
+    "note": "Midwood slice shop opened by Dom DeMarco in 1965 and still family-run.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2025-09",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/di-fara-pizza",
+      "https://secretnyc.co/best-pizza-in-nyc/"
+    ]
+  },
+  {
+    "name": "Louie & Ernie's Pizza",
+    "address": "1300 Crosby Ave",
+    "city": "Bronx",
+    "municipality": null,
+    "neighborhood": "Schuylerville",
+    "county": "Bronx",
+    "zip": "10461",
+    "kinds": [
+      "slice"
+    ],
+    "dishes": [
+      "fennel sausage pie",
+      "slices"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1959,
+    "founded_note": "Started in East Harlem in 1947; serving Schuylerville since 1959",
+    "branch_of": null,
+    "note": "East Bronx neighborhood pizzeria in a house-like storefront; slices at the counter, fennel sausage from a nearby pork store.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2026-09",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/best-pizza-in-nyc",
+      "https://www.timeout.com/newyork/news/this-beloved-bronx-pizzeria-was-just-named-the-best-hole-in-the-wall-restaurant-in-new-york-090225",
+      "https://www.timeout.com/newyork/news/a-guide-to-italian-new-york-by-borough-according-to-the-citys-best-chefs-090126",
+      "https://secretnyc.co/best-pizza-in-nyc/",
+      "https://www.thepauperedchef.com/article/louie-and-ernies"
+    ]
+  },
+  {
+    "name": "Paulie Gee's Slice Shop",
+    "address": "110 Franklin St",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Greenpoint",
+    "county": "Kings",
+    "zip": "11222",
+    "kinds": [
+      "slice"
+    ],
+    "dishes": [
+      "cheese slice",
+      "pepperoni slice",
+      "Freddy Prince (sesame-bottom square)"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Retro 1970s-style slice counter from the Paulie Gee's team, open late.",
+    "website": "https://www.pauliegee.com/slice-shop",
+    "open": true,
+    "evidence_date": "2025-10",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/best-pizza-in-nyc",
+      "https://www.pauliegee.com/slice-shop"
+    ]
+  },
+  {
+    "name": "L'Industrie Pizzeria",
+    "address": "254 S 2nd St",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Williamsburg",
+    "county": "Kings",
+    "zip": "11211",
+    "kinds": [
+      "slice"
+    ],
+    "dishes": [
+      "burrata slice",
+      "prosciutto slice"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 2017,
+    "founded_note": "Opened 2017 by Massimo Laveglia (Time Out)",
+    "branch_of": null,
+    "note": "Williamsburg slice shop known for thin, blistered slices with Italian toppings; second shop in the West Village.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2025-10",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/best-pizza-in-nyc"
+    ]
+  },
+  {
+    "name": "Cuts & Slices",
+    "address": "93 Howard Ave",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Bedford-Stuyvesant",
+    "county": "Kings",
+    "zip": "11233",
+    "kinds": [
+      "slice"
+    ],
+    "dishes": [
+      "sweet chili oxtail slice"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 2018,
+    "founded_note": "First opened in 2018 (Time Out)",
+    "branch_of": null,
+    "note": "Slice shop with rotating Caribbean-inflected toppings from owner Randy McLaren.",
+    "website": "https://www.cutsandslices.com/",
+    "open": true,
+    "evidence_date": "2025-10",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/best-pizza-in-nyc"
+    ]
+  },
+  {
+    "name": "Cuts & Slices",
+    "address": "205-01 Linden Blvd, Store B",
+    "city": "Queens",
+    "municipality": null,
+    "neighborhood": "St. Albans",
+    "county": "Queens",
+    "zip": "11412",
+    "kinds": [
+      "slice"
+    ],
+    "dishes": [
+      "sweet chili oxtail slice"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": "Cuts & Slices (Bedford-Stuyvesant, Brooklyn)",
+    "note": "Queens branch of the Brooklyn specialty-slice shop.",
+    "website": "https://www.cutsandslices.com/",
+    "open": true,
+    "evidence_date": "2025-10",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/best-pizza-in-nyc"
+    ]
+  },
+  {
+    "name": "Joe's Pizza",
+    "address": "216 Bedford Ave",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Williamsburg",
+    "county": "Kings",
+    "zip": "11249",
+    "kinds": [
+      "slice"
+    ],
+    "dishes": [
+      "cheese slice"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": "Brand founded 1975 by Joe Pozzuoli at Bleecker and Carmine; opening year of this branch not sourced",
+    "branch_of": "Joe's Pizza (Carmine St, Greenwich Village, Manhattan)",
+    "note": "Williamsburg branch of the Greenwich Village slice counter.",
+    "website": "https://www.joespizzanyc.com/",
+    "open": true,
+    "evidence_date": "2025-10",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/best-pizza-in-nyc",
+      "https://www.joespizzanyc.com/"
+    ]
+  },
+  {
+    "name": "Jules Pizza",
+    "address": "176 Avenue O",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Bensonhurst",
+    "county": "Kings",
+    "zip": null,
+    "kinds": [
+      "slice"
+    ],
+    "dishes": [
+      "cheese slice",
+      "Carini Sicilian slice",
+      "penne vodka slice"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 2026,
+    "founded_note": "Opened about July 2026 (Brooklyn Magazine, Aug 2026)",
+    "branch_of": null,
+    "note": "New Bensonhurst slice shop at Avenue O and West 4th St with classic and novelty slices.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2026-08",
+    "sources": [
+      "https://www.bkmag.com/2026/08/17/jules-pizza-review/"
+    ]
+  },
+  {
+    "name": "Fini Pizza",
+    "address": "305 Bedford Ave",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Williamsburg",
+    "county": "Kings",
+    "zip": "11211",
+    "kinds": [
+      "slice"
+    ],
+    "dishes": [
+      "cheese slice"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Williamsburg slice shop from the owner of Lilia; more locations in Brooklyn Heights and Downtown Brooklyn.",
+    "website": "https://www.finipizza.com/",
+    "open": true,
+    "evidence_date": "2025-02",
+    "sources": [
+      "https://secretnyc.co/best-pizza-in-nyc/",
+      "https://www.finipizza.com/locations/"
+    ]
+  },
+  {
+    "name": "Rizzo's Fine Pizza",
+    "address": "30-13 Steinway St",
+    "city": "Queens",
+    "municipality": null,
+    "neighborhood": "Astoria",
+    "county": "Queens",
+    "zip": "11103",
+    "kinds": [
+      "slice"
+    ],
+    "dishes": [
+      "thin-crust square slice"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1959,
+    "founded_note": "Says it has been family-run in Astoria since 1959",
+    "branch_of": null,
+    "note": "Astoria pizzeria known for its thin-crust Sicilian-style square; also has a Lower East Side shop.",
+    "website": "https://rizzosfinepizza.com/",
+    "open": true,
+    "evidence_date": "2026-09",
+    "sources": [
+      "https://www.timeout.com/newyork/news/a-guide-to-italian-new-york-by-borough-according-to-the-citys-best-chefs-090126",
+      "https://rizzosfinepizza.com/",
+      "https://www.timeout.com/newyork/restaurants/rizzos-fine-pizza",
+      "https://www.bxtimes.com/i-took-the-five-borough-pizza-challenge/"
+    ]
+  },
+  {
+    "name": "Pugsley Pizza",
+    "address": "590 E 191st St",
+    "city": "Bronx",
+    "municipality": null,
+    "neighborhood": "Belmont",
+    "county": "Bronx",
+    "zip": "10458",
+    "kinds": [
+      "slice"
+    ],
+    "dishes": [
+      "cheese slice"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": "Opened 1985 at 194th St and Briggs Ave; now on E 191st St (year of move not sourced)",
+    "branch_of": null,
+    "note": "Fordham-area pizzeria run by Salvatore Natale for more than 30 years; customers strike a gong on the way in.",
+    "website": "https://www.pugsleypizza.com/",
+    "open": true,
+    "evidence_date": "2026-02",
+    "sources": [
+      "https://www.bxtimes.com/national-pizza-day-pugsley-pizza/",
+      "https://www.pugsleypizza.com/",
+      "https://www.timeout.com/newyork/restaurants/pugsley-pizza"
+    ]
+  },
+  {
+    "name": "Asian Jewels Seafood",
+    "address": "133-30 39th Ave",
+    "city": "Queens",
+    "municipality": null,
+    "neighborhood": "Flushing",
+    "county": "Queens",
+    "zip": "11354",
+    "kinds": [
+      "dim sum"
+    ],
+    "dishes": [
+      "shrimp dumplings",
+      "braised eggplant with seafood paste",
+      "banana rolls"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Chandeliered Flushing banquet hall serving cart dim sum.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2025-02",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/best-dim-sum-restaurants-in-new-york-city",
+      "https://www.timeout.com/newyork/restaurants/asian-jewels-seafood"
+    ]
+  },
+  {
+    "name": "Bamboo Garden",
+    "address": "6409 8th Ave",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Sunset Park",
+    "county": "Kings",
+    "zip": "11220",
+    "kinds": [
+      "dim sum"
+    ],
+    "dishes": [
+      "pig-shaped custard buns",
+      "duck carved tableside"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Sunset Park banquet hall on 8th Avenue serving cart dim sum.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2025-02",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/best-dim-sum-restaurants-in-new-york-city",
+      "https://www.timeout.com/newyork/restaurants/bamboo-garden-1"
+    ]
+  },
+  {
+    "name": "Pacificana",
+    "address": "813 55th St, 2nd floor",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Sunset Park",
+    "county": "Kings",
+    "zip": "11220",
+    "kinds": [
+      "dim sum"
+    ],
+    "dishes": [
+      "dim sum"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Second-floor Sunset Park dim sum hall at 8th Avenue; Time Out now lists it as Pacificana/Pacific Palace.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2025-02",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/best-dim-sum-restaurants-in-new-york-city",
+      "https://www.timeout.com/newyork/restaurants/pacificana",
+      "https://secretnyc.co/best-dim-sum-nyc/"
+    ]
+  },
+  {
+    "name": "East Harbor Seafood Palace",
+    "address": "714 65th St",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Dyker Heights",
+    "county": "Kings",
+    "zip": "11220",
+    "kinds": [
+      "dim sum"
+    ],
+    "dishes": [
+      "flour dumplings with pork, peanuts and mushrooms",
+      "bean curd skin rolls"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Large cart-service dim sum hall between 7th and 8th Avenues, on the Sunset Park/Dyker Heights edge.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2025-02",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/best-dim-sum-restaurants-in-new-york-city",
+      "https://www.timeout.com/newyork/restaurants/east-harbor-seafood-palace",
+      "https://bklyner.com/where-to-go-for-the-dim-sum-in-sunset-park-sunset-park/"
+    ]
+  },
+  {
+    "name": "Mill Basin Kosher Deli",
+    "address": "5823 Avenue T",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Mill Basin",
+    "county": "Kings",
+    "zip": "11234",
+    "kinds": [
+      "deli"
+    ],
+    "dishes": [
+      "hot pastrami",
+      "triple decker",
+      "pastrami egg roll",
+      "PLT (pastrami instead of bacon)"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1974,
+    "founded_note": "Opened 1974 (Time Out); the deli says 50+ years",
+    "branch_of": null,
+    "note": "Kosher South Brooklyn deli that doubles as an art gallery.",
+    "website": "https://www.millbasindeli.com/",
+    "open": true,
+    "evidence_date": "2026-07",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/best-new-york-delis",
+      "https://www.millbasindeli.com/",
+      "https://www.timeout.com/newyork/restaurants/best-jewish-delis-in-nyc"
+    ]
+  },
+  {
+    "name": "Liebman's Kosher Delicatessen",
+    "address": "552 W 235th St",
+    "city": "Bronx",
+    "municipality": null,
+    "neighborhood": "Riverdale",
+    "county": "Bronx",
+    "zip": "10463",
+    "kinds": [
+      "deli"
+    ],
+    "dishes": [
+      "hot pastrami sandwich",
+      "matzo ball soup",
+      "brisket"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1953,
+    "founded_note": "Founded 1953 (the deli's site); bought by Joseph Dekel in 1980, now run by his son",
+    "branch_of": null,
+    "note": "Riverdale kosher deli at Johnson Ave; the Bronx's last old-line kosher deli per Time Out.",
+    "website": "https://www.liebmansdeli.com/",
+    "open": true,
+    "evidence_date": "2026-07",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/best-new-york-delis",
+      "https://www.liebmansdeli.com/"
+    ]
+  },
+  {
+    "name": "David's Brisket House",
+    "address": "533 Nostrand Ave",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Bedford-Stuyvesant",
+    "county": "Kings",
+    "zip": "11216",
+    "kinds": [
+      "deli"
+    ],
+    "dishes": [
+      "pastrami sandwich",
+      "brisket sandwich",
+      "corned beef sandwich"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Halal, Yemeni-family-run sandwich shop serving Jewish deli classics (pastrami, brisket, corned beef).",
+    "website": null,
+    "open": true,
+    "evidence_date": "2026-07",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/best-new-york-delis"
+    ]
+  },
+  {
+    "name": "Essen NY Deli",
+    "address": "1359 Coney Island Ave",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Midwood",
+    "county": "Kings",
+    "zip": "11230",
+    "kinds": [
+      "deli"
+    ],
+    "dishes": [
+      "pastrami",
+      "knish",
+      "hot dogs"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Kosher neighborhood deli that also serves Chinese food.",
+    "website": "https://www.essennydeli.com/",
+    "open": true,
+    "evidence_date": "2026-07",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/best-new-york-delis"
+    ]
+  },
+  {
+    "name": "Bagel Oasis",
+    "address": "183-12 Horace Harding Expy",
+    "city": "Queens",
+    "municipality": null,
+    "neighborhood": "Fresh Meadows",
+    "county": "Queens",
+    "zip": "11365",
+    "kinds": [
+      "bagel"
+    ],
+    "dishes": [
+      "kettle-boiled bagels",
+      "egg-onion bagel"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1961,
+    "founded_note": "Making bagels here since 1961 (the shop and Time Out)",
+    "branch_of": null,
+    "note": "24-hour Fresh Meadows bagel bakery making hand-rolled, kettle-boiled bagels; reopened after a fire.",
+    "website": "https://www.bageloasis.com/",
+    "open": true,
+    "evidence_date": "2025-12",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/15-best-bagels-in-new-york-ranked",
+      "https://www.bageloasis.com/"
+    ]
+  },
+  {
+    "name": "Utopia Bagels",
+    "address": "19-09 Utopia Pkwy",
+    "city": "Queens",
+    "municipality": null,
+    "neighborhood": "Whitestone",
+    "county": "Queens",
+    "zip": "11357",
+    "kinds": [
+      "bagel"
+    ],
+    "dishes": [
+      "hand-rolled kettle-boiled bagels"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1981,
+    "founded_note": "Founded 1981 in Whitestone (the shop's site)",
+    "branch_of": null,
+    "note": "Whitestone original of a small bagel chain; hand-rolled, kettle-boiled bagels baked in a 1947 carousel oven.",
+    "website": "https://www.utopiabagelsny.com/",
+    "open": true,
+    "evidence_date": "2025-11",
+    "sources": [
+      "https://www.timeout.com/usa/news/a-dallas-bagel-won-the-best-bagel-of-the-year-competition-in-nyc-this-weekend-111825",
+      "https://www.utopiabagelsny.com/location/utopia-bagels-whitestone/",
+      "https://www.utopiabagelsny.com/about/",
+      "https://www.timeout.com/newyork/news/queens-beloved-utopia-bagels-is-finally-opening-in-manhattan-052824"
+    ]
+  },
+  {
+    "name": "Greenberg's Bagels",
+    "address": "1065 Bedford Ave",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Bedford-Stuyvesant",
+    "county": "Kings",
+    "zip": "11216",
+    "kinds": [
+      "bagel"
+    ],
+    "dishes": [
+      "bagels",
+      "bagel sandwiches"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Bed-Stuy bagel shop known for its sandwiches; a second shop opened in the West Village in 2024.",
+    "website": "https://www.greenbergsbagels.com/",
+    "open": true,
+    "evidence_date": "2025-12",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/15-best-bagels-in-new-york-ranked",
+      "https://www.greenbergsbagels.com/"
+    ]
+  },
+  {
+    "name": "Bagel Pub",
+    "address": "287 9th St",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Park Slope",
+    "county": "Kings",
+    "zip": "11215",
+    "kinds": [
+      "bagel"
+    ],
+    "dishes": [
+      "hand-rolled kettle-boiled bagels",
+      "flavored cream cheeses"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 2012,
+    "founded_note": "Original Park Slope shop opened 2012 (Bagel Pub's site)",
+    "branch_of": null,
+    "note": "Original shop of a nine-location bagel chain; hand-rolled, kettle-boiled bagels baked daily.",
+    "website": "https://www.bagelpub.com/",
+    "open": true,
+    "evidence_date": "2025-12",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/15-best-bagels-in-new-york-ranked",
+      "https://www.bagelpub.com/locations"
+    ]
+  },
+  {
+    "name": "Bagel Pub",
+    "address": "775 Franklin Ave",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Crown Heights",
+    "county": "Kings",
+    "zip": "11238",
+    "kinds": [
+      "bagel"
+    ],
+    "dishes": [
+      "hand-rolled kettle-boiled bagels"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": "Bagel Pub (Park Slope, Brooklyn)",
+    "note": "Crown Heights branch of the Park Slope bagel shop on Franklin Avenue.",
+    "website": "https://www.bagelpub.com/",
+    "open": true,
+    "evidence_date": "2025-12",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/15-best-bagels-in-new-york-ranked",
+      "https://www.bagelpub.com/locations"
+    ]
+  },
+  {
+    "name": "Gertie",
+    "address": "602 Vanderbilt Ave",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Prospect Heights",
+    "county": "Kings",
+    "zip": "11238",
+    "kinds": [
+      "bagel"
+    ],
+    "dishes": [
+      "hand-rolled kettle-boiled bagels"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": null,
+    "founded_note": null,
+    "branch_of": null,
+    "note": "Bagel shop and delicatessen relaunched on Vanderbilt Avenue; bagels made in-house in an Absolute Bagels-inspired style.",
+    "website": "https://www.gertienyc.com/",
+    "open": true,
+    "evidence_date": "2025-12",
+    "sources": [
+      "https://www.bkmag.com/2025/12/15/gertie-vanderbilt-best-new-bagels-brooklyn/",
+      "https://www.gertienyc.com/"
+    ]
+  },
+  {
+    "name": "Russ & Daughters",
+    "address": "141 Flushing Ave, Suite 102 (Building 77, Brooklyn Navy Yard)",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Brooklyn Navy Yard",
+    "county": "Kings",
+    "zip": null,
+    "kinds": [
+      "appetizing"
+    ],
+    "dishes": [
+      "bagels and lox",
+      "smoked fish",
+      "babka"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 2019,
+    "founded_note": "This location opened Feb 11, 2019; the Manhattan original dates to 1914",
+    "branch_of": "Russ & Daughters (Lower East Side, Manhattan)",
+    "note": "Russ & Daughters' bakery, production kitchen and appetizing counter in the Brooklyn Navy Yard.",
+    "website": "https://www.russanddaughters.com/",
+    "open": true,
+    "evidence_date": "2025-09",
+    "sources": [
+      "https://www.jta.org/2025/09/08/ny/russ-daughters-celebrates-111-years-of-jewish-new-york-history-with-a-new-cookbook",
+      "https://secretnyc.co/massive-new-russ-daughters-outpost-opens-brooklyn-navy-yard/"
+    ]
+  },
+  {
+    "name": "Nathan's Famous",
+    "address": "1310 Surf Ave",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Coney Island",
+    "county": "Kings",
+    "zip": "11224",
+    "kinds": [
+      "hots",
+      "oldest"
+    ],
+    "dishes": [
+      "Coney Island hot dog"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1916,
+    "founded_note": "Opened 1916 by Nathan Handwerker at Surf and Stillwell Avenues; the original location still stands there",
+    "branch_of": null,
+    "note": "The original Nathan's hot dog stand at Surf and Stillwell, home of the July 4 eating contest.",
+    "website": "https://www.nathansfamous.com/",
+    "open": true,
+    "evidence_date": "2026-07",
+    "sources": [
+      "https://www.cbsnews.com/newyork/news/nathans-hot-dog-eating-contest-2026-joey-chestnut-coney-island/",
+      "https://www.6sqft.com/nathans-famous-home-of-the-hot-dog-eating-contest-sells-for-450m/",
+      "https://www.timeout.com/newyork/restaurants/nathans-famous",
+      "https://en.wikipedia.org/wiki/Nathan%27s_Famous"
+    ]
+  },
+  {
+    "name": "Peter Luger Steak House",
+    "address": "178 Broadway",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Williamsburg",
+    "county": "Kings",
+    "zip": "11211",
+    "kinds": [
+      "oldest"
+    ],
+    "dishes": [
+      "porterhouse steak for two",
+      "German fried potatoes",
+      "Holy Cow hot fudge sundae"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1887,
+    "founded_note": "Claims 1887, when it opened as Carl Luger's Cafe, Billiards and Bowling Alley; sources place it at 178 Broadway but don't separately date the address",
+    "branch_of": null,
+    "note": "Cash-or-debit Williamsburg steakhouse at the foot of the Williamsburg Bridge, run by the Forman family since 1950.",
+    "website": "https://www.peterluger.com/",
+    "open": true,
+    "evidence_date": "2025-08",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/peter-luger",
+      "https://www.untappedcities.com/oldest-bars-and-restaurants-brooklyn/",
+      "https://www.6sqft.com/nyc-oldest-bars-and-restaurants-still-dine-at-today/",
+      "https://en.wikipedia.org/wiki/Peter_Luger_Steak_House"
+    ]
+  },
+  {
+    "name": "Bamonte's",
+    "address": "32 Withers St",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Williamsburg",
+    "county": "Kings",
+    "zip": "11211",
+    "kinds": [
+      "oldest"
+    ],
+    "dishes": [
+      "veal parmigiana",
+      "clams",
+      "pork chop"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1900,
+    "founded_note": "Family traces it to Liberty Hall, opened 1900 by Pasquale Bamonte; Untapped says it has served at 32 Withers St since 1900 (a claim; the move/rename isn't separately dated)",
+    "branch_of": null,
+    "note": "Old-school Williamsburg red-sauce restaurant with tuxedoed servers and wooden phone booths, still run by the Bamonte family.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2025-09",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/bamontes",
+      "https://www.untappedcities.com/oldest-bars-and-restaurants-brooklyn/",
+      "https://en.wikipedia.org/wiki/Bamonte%27s"
+    ]
+  },
+  {
+    "name": "Gage & Tollner",
+    "address": "372 Fulton St",
+    "city": "Brooklyn",
+    "municipality": null,
+    "neighborhood": "Downtown Brooklyn",
+    "county": "Kings",
+    "zip": "11201",
+    "kinds": [
+      "oldest"
+    ],
+    "dishes": [
+      "clams Kimisino",
+      "NY strip steak",
+      "Edna Lewis-style fried chicken",
+      "baked Alaska"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1889,
+    "founded_note": "Founded 1879 at 302 Fulton St; at 372 Fulton since Feb 1889 per Wikipedia (Untapped says 1892); closed 2004 and revived by new owners in 2021",
+    "branch_of": null,
+    "note": "Landmarked 19th-century oyster and chop house interior, reopened in 2021 after a 17-year gap.",
+    "website": "https://www.gageandtollner.com/",
+    "open": true,
+    "evidence_date": "2025-07",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/gage-tollner",
+      "https://en.wikipedia.org/wiki/Gage_%26_Tollner",
+      "https://www.untappedcities.com/oldest-bars-and-restaurants-brooklyn/",
+      "https://www.6sqft.com/nyc-oldest-bars-and-restaurants-still-dine-at-today/"
+    ]
+  },
+  {
+    "name": "Neir's Tavern",
+    "address": "87-48 78th St",
+    "city": "Queens",
+    "municipality": null,
+    "neighborhood": "Woodhaven",
+    "county": "Queens",
+    "zip": "11421",
+    "kinds": [
+      "oldest"
+    ],
+    "dishes": [
+      "burgers",
+      "chicken wings"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1829,
+    "founded_note": "Claims 1829 (as the Blue Pump Room); current name since 1898; the 1829 date is the tavern's claim",
+    "branch_of": null,
+    "note": "Woodhaven tavern counting down to its 200th year, seen in Goodfellas; serves a full pub menu.",
+    "website": "https://www.neirstavern.com/",
+    "open": true,
+    "evidence_date": "2026",
+    "sources": [
+      "https://www.neirstavern.com/",
+      "https://en.wikipedia.org/wiki/Neir%27s_Tavern",
+      "https://www.6sqft.com/nyc-oldest-bars-and-restaurants-still-dine-at-today/"
+    ]
+  },
+  {
+    "name": "Bohemian Hall and Beer Garden",
+    "address": "29-19 24th Ave",
+    "city": "Queens",
+    "municipality": null,
+    "neighborhood": "Astoria",
+    "county": "Queens",
+    "zip": "11102",
+    "kinds": [
+      "oldest"
+    ],
+    "dishes": [
+      "sausage platters",
+      "pierogies",
+      "schnitzel",
+      "goulash"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1910,
+    "founded_note": "Beer garden opened 1910 by the Bohemian Citizens' Benevolent Society",
+    "branch_of": null,
+    "note": "Czech society hall and beer garden serving Czech and Slovak food.",
+    "website": "https://www.bohemianhall.com/",
+    "open": true,
+    "evidence_date": "2026-04",
+    "sources": [
+      "https://www.timeout.com/newyork/bars/best-beer-gardens-and-beer-halls-in-new-york-city",
+      "https://www.bohemianhall.com/",
+      "https://en.wikipedia.org/wiki/Bohemian_Hall_and_Beer_Garden"
+    ]
+  },
+  {
+    "name": "Mario's",
+    "address": "2342 Arthur Ave",
+    "city": "Bronx",
+    "municipality": null,
+    "neighborhood": "Belmont (Arthur Avenue)",
+    "county": "Bronx",
+    "zip": "10458",
+    "kinds": [
+      "oldest"
+    ],
+    "dishes": [
+      "gnocchi",
+      "saltimbocca"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1919,
+    "founded_note": "Migliucci family has run it since 1919, when it opened as a pizza shop; sources don't separately confirm it was always at 2342 Arthur Ave",
+    "branch_of": null,
+    "note": "Fourth-generation Arthur Avenue red-sauce restaurant.",
+    "website": null,
+    "open": true,
+    "evidence_date": "2026-01",
+    "sources": [
+      "https://www.timeout.com/newyork/restaurants/famous-restaurants-in-nyc",
+      "https://www.timeout.com/newyork/restaurants/marios",
+      "https://www.untappedcities.com/arthur-avenue-restaurant-celebrates-100-years-in-the-bronxs-little-italy/"
+    ]
+  },
+  {
+    "name": "Egidio Pastry Shop",
+    "address": "622 E 187th St",
+    "city": "Bronx",
+    "municipality": null,
+    "neighborhood": "Belmont (Arthur Avenue)",
+    "county": "Bronx",
+    "zip": "10458",
+    "kinds": [
+      "oldest"
+    ],
+    "dishes": [
+      "St. Joseph's zeppole",
+      "sfingi",
+      "cannoli",
+      "pastiera"
+    ],
+    "seasonal": false,
+    "season": null,
+    "founded": 1912,
+    "founded_note": "Claims 1912; Untapped lists it at 622 E 187th St with that date, but no source separately confirms the address since 1912",
+    "branch_of": null,
+    "note": "Little Italy pastry shop on 187th Street with holiday Italian pastries.",
+    "website": "https://www.egidiopastry.com/",
+    "open": true,
+    "evidence_date": "2026-04",
+    "sources": [
+      "https://www.bxtimes.com/egidio-pastry-shop-preserves-100-years-of-tradition/",
+      "https://www.egidiopastry.com/",
+      "https://www.untappedcities.com/a-guide-to-the-bakeries-and-pastry-shops-of-belmont-a-little-italy-of-the-bronx/"
+    ]
+  }
+]

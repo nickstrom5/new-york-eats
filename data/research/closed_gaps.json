@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Liedy's Shore Inn",
+    "address": "748 Richmond Terrace",
+    "city": "Staten Island",
+    "county": "Richmond",
+    "closed_reason": "Family bar founded in 1905 by Jacob Liedy closed after 119 years when the owner retired; its state liquor license is listed as inactive, having expired April 30, 2025.",
+    "closed_date": "2024-04",
+    "sources": [
+      "https://www.uptownradio.org/post/last-call-at-staten-island-s-oldest-bar",
+      "https://data.ny.gov/resource/6dg3-2z7i.json?$select=dba,actual_address_of_premises,city,expiration_date&license_permit_id=0370-23-133045"
+    ]
+  },
+  {
+    "name": "Schaller's (Brighton)",
+    "address": "2747 W Henrietta Rd",
+    "city": "Rochester",
+    "county": "Monroe",
+    "closed_reason": "The Brighton branch (opened 1996, per Schaller's) is listed as inactive in NYSDOH records, with its last inspection in January 2024. Another restaurant holds the food-service permit at the address and was inspected in January 2026. The Greece and Irondequoit Schaller's stay open.",
+    "closed_date": null,
+    "sources": [
+      "https://health.data.ny.gov/resource/aaxz-j6pj.json?nys_health_operation_id=667259",
+      "https://health.data.ny.gov/resource/2hcc-shji.json?nys_health_operation_id=1149424",
+      "https://www.schallers.com/"
+    ]
+  }
+]

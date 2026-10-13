@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Ted's Hot Dogs (downtown Buffalo)",
+    "address": "Chippewa St, ground floor of the Hampton Inn & Suites (between Delaware Ave and S Elmwood Ave)",
+    "city": "Buffalo",
+    "county": "Erie",
+    "closed_reason": "Closed for good after a roughly 10-year run; a sign on the door said 'As of 10/24, this location is closed for good.' Other Ted's locations remain open.",
+    "closed_date": "2025-10-24",
+    "sources": ["https://www.wkbw.com/news/local-news/teds-hot-dogs-closes-downtown-buffalo-location"]
+  },
+  {
+    "name": "Santora's Pizza Pub and Grill (Walden Galleria)",
+    "address": "Walden Galleria",
+    "city": "Cheektowaga",
+    "county": "Erie",
+    "closed_reason": "Owner Paul Santora chose not to renew the mall lease after five years; plans for a Clarence Center location also dropped. The Transit Road (Williamsville) pub stays open; the separate Santora's Pizzeria at 3440 Transit Rd, Depew, is unaffected.",
+    "closed_date": "2025-10-05",
+    "sources": ["https://www.wkbw.com/news/local-news/santoras-pizza-pub-and-grill-closes-walden-galleria-location"]
+  },
+  {
+    "name": "Penora's Pizza",
+    "address": null,
+    "city": "Depew",
+    "county": "Erie",
+    "closed_reason": "Closed after 48 years; the remaining owner retired and the property was put up for sale.",
+    "closed_date": "2025-07",
+    "sources": ["https://www.wkbw.com/news/local-news/penoras-pizza-in-depew-announces-closure-after-nearly-50-years-in-business"]
+  },
+  {
+    "name": "Michael's AJ Texas HOTS",
+    "address": "1265 E Second St",
+    "city": "Jamestown",
+    "county": "Chautauqua",
+    "closed_reason": "Closed after more than 40 years; the building sold in October 2025. (AJ Texas Hots at 824 Foote Ave is a separate shop and is listed open.)",
+    "closed_date": null,
+    "sources": ["https://www.post-journal.com/news/top-stories/2025/12/sales-include-former-jamestown-restaurant-dunkirk-motel/"]
+  },
+  {
+    "name": "Nick Charlap's (West Seneca)",
+    "address": null,
+    "city": "West Seneca",
+    "county": "Erie",
+    "closed_reason": "WKBW reported the West Seneca location is closing and the owners are looking for a new location (video headline only; details not read).",
+    "closed_date": "2026-09",
+    "sources": ["https://www.wkbw.com/videos/news/local-news/nick-charlaps-in-west-seneca-closing-looking-for-new-location"]
+  },
+  {
+    "name": "Bocce Club Pizza (Hertel Ave)",
+    "address": "Hertel Ave",
+    "city": "Buffalo",
+    "county": "Erie",
+    "closed_reason": "Closed when its licensing agreement expired; Bocce's Bailey Ave, Hopkins Rd, Goodrich Rd and Delaware Ave shops continued.",
+    "closed_date": "2022-09",
+    "sources": ["https://www.wkbw.com/news/local-news/bocce-club-pizzas-hertel-avenue-location-is-now-closed"]
+  }
+]

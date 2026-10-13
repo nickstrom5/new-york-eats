@@ -1,0 +1,468 @@
+{
+ "generated": "2026-10-12",
+ "data_generated": "2026-10-07",
+ "domain": "https://nickstrom5.github.io/new-york-eats",
+ "og_line": "Slices, bagels & 61,100 restaurants",
+ "restaurants": 61100,
+ "cities": 1555,
+ "regions": 10,
+ "records_through": {
+  "nyc": "2026-09-29",
+  "nysdoh": "2026-09-24",
+  "suffolk": "2025-12-31"
+ },
+ "hand_checked_guides": 185,
+ "checked_open": 468,
+ "honored_not_checked": 4,
+ "guide_slices": 43,
+ "guide_bagels": 60,
+ "guide_wings": 19,
+ "guide_hots": 34,
+ "guide_upstate": 15,
+ "guide_dimsum": 18,
+ "icons": 297,
+ "oldest_known_year": 100,
+ "michelin": 157,
+ "james_beard": 116,
+ "nyc_graded_abc": 22738,
+ "nyc_grade_status": {
+  "Z": 1179,
+  "B": 1776,
+  "A": 20443,
+  "C": 519,
+  "N": 5,
+  "P": 3
+ },
+ "nysdoh_inspected": 13026,
+ "suffolk_2025": 2896,
+ "named_not_checked": {
+  "bagel": 840,
+  "deli": 1591,
+  "slice": 3839,
+  "wings": 234,
+  "hots": 62,
+  "dimsum": 37
+ },
+ "partial_nysdoh_counties": [
+  "Albany",
+  "Dutchess",
+  "Nassau",
+  "Westchester"
+ ],
+ "website_links_verified": true,
+ "website_links_shown": 27537,
+ "website_blocklist": {
+  "entries": 25,
+  "links_dropped": {
+   "bandbbagels.com": 1,
+   "chinamoonankeny.com": 3,
+   "chinawoksushibar.com": 1,
+   "colsonpastries.com": 1,
+   "cooliceinc.com": 1,
+   "cornettas.com": 1,
+   "goldenstar.com": 2,
+   "greenanefarms.com": 1,
+   "hideawaypubandeatery.com": 1,
+   "holywonghightstown.com": 1,
+   "honghingchinesede.com": 2,
+   "juliesrestaurant.com": 1,
+   "kinggardentoledo.com": 1,
+   "lasramblasnyc.com": 1,
+   "lostresamigosonline.com": 1,
+   "luigispizzeria.com": 2,
+   "oceanempire.net": 1,
+   "prospectpizzabk.com": 1,
+   "revelie.com": 1,
+   "roastd.coffee": 1,
+   "roccospizza.com": 1,
+   "slicepizzeriaobx.com": 1,
+   "thebond1786.com": 1,
+   "theotherplace.com": 1,
+   "trickshotbilliardsny.com": 1
+  },
+  "matching_nothing": []
+ },
+ "data_files": {
+  "core-new-york-city.json": {
+   "bytes": 2712635,
+   "gzip": 663276
+  },
+  "detail-new-york-city.json": {
+   "bytes": 3009595,
+   "gzip": 720867
+  },
+  "core-long-island.json": {
+   "bytes": 630840,
+   "gzip": 150786
+  },
+  "detail-long-island.json": {
+   "bytes": 767082,
+   "gzip": 189062
+  },
+  "core-mid-hudson.json": {
+   "bytes": 523320,
+   "gzip": 138475
+  },
+  "detail-mid-hudson.json": {
+   "bytes": 811716,
+   "gzip": 184675
+  },
+  "core-capital-region.json": {
+   "bytes": 248735,
+   "gzip": 69689
+  },
+  "detail-capital-region.json": {
+   "bytes": 390611,
+   "gzip": 91586
+  },
+  "core-mohawk-valley.json": {
+   "bytes": 114913,
+   "gzip": 34241
+  },
+  "detail-mohawk-valley.json": {
+   "bytes": 196119,
+   "gzip": 43446
+  },
+  "core-north-country.json": {
+   "bytes": 102188,
+   "gzip": 31040
+  },
+  "detail-north-country.json": {
+   "bytes": 168871,
+   "gzip": 39035
+  },
+  "core-central-new-york.json": {
+   "bytes": 194780,
+   "gzip": 55566
+  },
+  "detail-central-new-york.json": {
+   "bytes": 386018,
+   "gzip": 81045
+  },
+  "core-southern-tier.json": {
+   "bytes": 138923,
+   "gzip": 40355
+  },
+  "detail-southern-tier.json": {
+   "bytes": 253608,
+   "gzip": 54622
+  },
+  "core-finger-lakes.json": {
+   "bytes": 278397,
+   "gzip": 73966
+  },
+  "detail-finger-lakes.json": {
+   "bytes": 535591,
+   "gzip": 114185
+  },
+  "core-western-new-york.json": {
+   "bytes": 306685,
+   "gzip": 80053
+  },
+  "detail-western-new-york.json": {
+   "bytes": 413883,
+   "gzip": 97223
+  },
+  "guides.json": {
+   "bytes": 75364,
+   "gzip": 25812
+  },
+  "index.json": {
+   "bytes": 35156,
+   "gzip": 12224
+  },
+  "ny_shapes.json": {
+   "bytes": 82363,
+   "gzip": 22735
+  }
+ },
+ "regions_pages": {
+  "New York City": {
+   "restaurants": 30976,
+   "hand_checked": 92,
+   "honored_not_checked": 222,
+   "slices": 24,
+   "bagels": 26,
+   "wings": 0,
+   "hots": 2,
+   "upstate": 1,
+   "dimsum": 13
+  },
+  "Long Island": {
+   "restaurants": 7686,
+   "hand_checked": 17,
+   "honored_not_checked": 0,
+   "slices": 4,
+   "bagels": 11,
+   "wings": 0,
+   "hots": 0,
+   "upstate": 0,
+   "dimsum": 1
+  },
+  "Mid-Hudson": {
+   "restaurants": 6415,
+   "hand_checked": 16,
+   "honored_not_checked": 12,
+   "slices": 0,
+   "bagels": 8,
+   "wings": 0,
+   "hots": 1,
+   "upstate": 0,
+   "dimsum": 1
+  },
+  "Capital Region": {
+   "restaurants": 2998,
+   "hand_checked": 13,
+   "honored_not_checked": 4,
+   "slices": 1,
+   "bagels": 3,
+   "wings": 0,
+   "hots": 8,
+   "upstate": 0,
+   "dimsum": 1
+  },
+  "Mohawk Valley": {
+   "restaurants": 1322,
+   "hand_checked": 17,
+   "honored_not_checked": 1,
+   "slices": 6,
+   "bagels": 2,
+   "wings": 0,
+   "hots": 0,
+   "upstate": 9,
+   "dimsum": 0
+  },
+  "North Country": {
+   "restaurants": 1194,
+   "hand_checked": 9,
+   "honored_not_checked": 0,
+   "slices": 0,
+   "bagels": 1,
+   "wings": 0,
+   "hots": 5,
+   "upstate": 0,
+   "dimsum": 0
+  },
+  "Central New York": {
+   "restaurants": 2232,
+   "hand_checked": 12,
+   "honored_not_checked": 0,
+   "slices": 2,
+   "bagels": 3,
+   "wings": 0,
+   "hots": 1,
+   "upstate": 2,
+   "dimsum": 1
+  },
+  "Southern Tier": {
+   "restaurants": 1636,
+   "hand_checked": 6,
+   "honored_not_checked": 2,
+   "slices": 0,
+   "bagels": 1,
+   "wings": 0,
+   "hots": 2,
+   "upstate": 3,
+   "dimsum": 0
+  },
+  "Finger Lakes": {
+   "restaurants": 3133,
+   "hand_checked": 14,
+   "honored_not_checked": 1,
+   "slices": 0,
+   "bagels": 2,
+   "wings": 0,
+   "hots": 11,
+   "upstate": 0,
+   "dimsum": 1
+  },
+  "Western New York": {
+   "restaurants": 3508,
+   "hand_checked": 32,
+   "honored_not_checked": 2,
+   "slices": 6,
+   "bagels": 3,
+   "wings": 19,
+   "hots": 4,
+   "upstate": 0,
+   "dimsum": 0
+  }
+ },
+ "city_pages": {
+  "Manhattan": {
+   "restaurants": 12069,
+   "region": "New York City",
+   "hand_checked": 55,
+   "honored_not_checked": 160,
+   "nearby_shown": 6
+  },
+  "Brooklyn": {
+   "restaurants": 8117,
+   "region": "New York City",
+   "hand_checked": 23,
+   "honored_not_checked": 48,
+   "nearby_shown": 6
+  },
+  "Queens": {
+   "restaurants": 6991,
+   "region": "New York City",
+   "hand_checked": 7,
+   "honored_not_checked": 13,
+   "nearby_shown": 6
+  },
+  "Bronx": {
+   "restaurants": 2640,
+   "region": "New York City",
+   "hand_checked": 5,
+   "honored_not_checked": 0,
+   "nearby_shown": 6
+  },
+  "Staten Island": {
+   "restaurants": 1159,
+   "region": "New York City",
+   "hand_checked": 2,
+   "honored_not_checked": 1,
+   "nearby_shown": 6
+  },
+  "Buffalo": {
+   "restaurants": 964,
+   "region": "Western New York",
+   "hand_checked": 15,
+   "honored_not_checked": 2,
+   "nearby_shown": 6
+  },
+  "Rochester": {
+   "restaurants": 1288,
+   "region": "Finger Lakes",
+   "hand_checked": 8,
+   "honored_not_checked": 0,
+   "nearby_shown": 6
+  },
+  "Syracuse": {
+   "restaurants": 751,
+   "region": "Central New York",
+   "hand_checked": 5,
+   "honored_not_checked": 0,
+   "nearby_shown": 5
+  },
+  "Albany": {
+   "restaurants": 454,
+   "region": "Capital Region",
+   "hand_checked": 2,
+   "honored_not_checked": 0,
+   "nearby_shown": 6
+  },
+  "Yonkers": {
+   "restaurants": 396,
+   "region": "Mid-Hudson",
+   "hand_checked": 0,
+   "honored_not_checked": 0,
+   "nearby_shown": 6
+  },
+  "Niagara Falls": {
+   "restaurants": 285,
+   "region": "Western New York",
+   "hand_checked": 0,
+   "honored_not_checked": 0,
+   "nearby_shown": 6
+  },
+  "Poughkeepsie": {
+   "restaurants": 175,
+   "region": "Mid-Hudson",
+   "hand_checked": 0,
+   "honored_not_checked": 0,
+   "nearby_shown": 5
+  },
+  "Schenectady": {
+   "restaurants": 253,
+   "region": "Capital Region",
+   "hand_checked": 1,
+   "honored_not_checked": 0,
+   "nearby_shown": 6
+  },
+  "White Plains": {
+   "restaurants": 227,
+   "region": "Mid-Hudson",
+   "hand_checked": 1,
+   "honored_not_checked": 0,
+   "nearby_shown": 6
+  },
+  "Ithaca": {
+   "restaurants": 211,
+   "region": "Southern Tier",
+   "hand_checked": 0,
+   "honored_not_checked": 1,
+   "nearby_shown": 0
+  },
+  "Newburgh": {
+   "restaurants": 159,
+   "region": "Mid-Hudson",
+   "hand_checked": 0,
+   "honored_not_checked": 0,
+   "nearby_shown": 4
+  },
+  "Saratoga Springs": {
+   "restaurants": 218,
+   "region": "Capital Region",
+   "hand_checked": 0,
+   "honored_not_checked": 0,
+   "nearby_shown": 3
+  },
+  "Utica": {
+   "restaurants": 213,
+   "region": "Mohawk Valley",
+   "hand_checked": 10,
+   "honored_not_checked": 0,
+   "nearby_shown": 5
+  },
+  "New Rochelle": {
+   "restaurants": 212,
+   "region": "Mid-Hudson",
+   "hand_checked": 0,
+   "honored_not_checked": 0,
+   "nearby_shown": 6
+  },
+  "Binghamton": {
+   "restaurants": 197,
+   "region": "Southern Tier",
+   "hand_checked": 0,
+   "honored_not_checked": 0,
+   "nearby_shown": 4
+  },
+  "Kingston": {
+   "restaurants": 188,
+   "region": "Mid-Hudson",
+   "hand_checked": 1,
+   "honored_not_checked": 1,
+   "nearby_shown": 6
+  },
+  "Troy": {
+   "restaurants": 187,
+   "region": "Capital Region",
+   "hand_checked": 2,
+   "honored_not_checked": 0,
+   "nearby_shown": 6
+  },
+  "Huntington": {
+   "restaurants": 145,
+   "region": "Long Island",
+   "hand_checked": 0,
+   "honored_not_checked": 0,
+   "nearby_shown": 6
+  },
+  "Watertown": {
+   "restaurants": 142,
+   "region": "North Country",
+   "hand_checked": 0,
+   "honored_not_checked": 0,
+   "nearby_shown": 0
+  },
+  "Plattsburgh": {
+   "restaurants": 113,
+   "region": "North Country",
+   "hand_checked": 4,
+   "honored_not_checked": 0,
+   "nearby_shown": 2
+  }
+ }
+}

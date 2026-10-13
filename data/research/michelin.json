@@ -1,0 +1,3270 @@
+{
+ "checked": "2026-10-07",
+ "edition": "MICHELIN Guide Northeast Cities 2025: New York selection (New York City and Westchester County)",
+ "announced": "2025-11-18",
+ "announced_note": "Ceremony held the evening of Nov 18, 2025 at the Kimmel Center, Philadelphia (Michelin press release posted Nov 18; Time Out and Fine Dining Lovers reported it on Nov 19). No 2026 New York selection has been announced as of 2026-10-07: Michelin set the 2026 Northeast Cities ceremony for Dec 14, 2026 in New York.",
+ "next_edition": {
+  "ceremony": "2026-12-14",
+  "place": "The Glasshouse, New York",
+  "sources": [
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1479/"
+  ]
+ },
+ "counts": {
+  "three_star": 5,
+  "two_star": 15,
+  "one_star": 52,
+  "bib": 88,
+  "bib_reported_by_michelin": 90,
+  "bib_open_in_file": 86,
+  "bib_unconfirmed_2024_holdovers": 4,
+  "bib_closed_since": 2,
+  "recommended": null,
+  "green_star": 0,
+  "new_stars_2025": 6,
+  "new_bibs_2025": 9,
+  "new_recommended_2025_ny": 31,
+  "restaurants_in_file": 158
+ },
+ "counts_note": "Stars (5 three-star, 15 two-star, 52 one-star) are Michelin's own 2025 Northeast Cities starred list (press release a1442, list images), filtered to New York addresses; they match Wikipedia's 2025 column. Bib Gourmands: Michelin's press release lists only the 9 new NY Bibs; the full NY list was built from Michelin's official 2024 NY Bib list (91, press release a1383) minus the 8 that Wikipedia's 2025 column shows dropped or closed, plus the 9 new ones = 88, matching Wikipedia's 2025 count. Michelin's own article reports 90 NY Bibs for 2025 (seen only as a search-result snippet of guide.michelin.com, which we may not fetch), so 2 of the 4 Westchester 2024 Bibs that Wikipedia does not track (listed in bib_unconfirmed_2025) were probably retained, but we could not confirm which. Two 2025 Bibs (Atla, Bayon) have since closed and are in closed_since, not in restaurants. Recommended: no per-city count or complete list was published on an allowed source (the press release gives only Northeast totals: 6 three-star, 22 two-star, 93 one-star, 9 Green Star, 166 Bib, 377 Recommended, 664 total; and it lists only the 31 NY Recommended restaurants that were new in 2025). For reference the 2024 NY selection had 5/14/55 stars, 91 Bibs, 220 Recommended, 385 total (press release a1383). The brief's ~231 Recommended was not verified. green_star is 0 because MICHELIN retired the Green Star worldwide from June 1, 2026 (replaced by the non-award Mindful Voices platform).",
+ "scope_note": "Every 2025 NY Star, Bib Gourmand and new Recommended address is in the five boroughs or Westchester County (Westchester: Tarrytown/Pocantico Hills, North Salem, and the Bib towns). No MICHELIN New York selection was found upstate or on Long Island.",
+ "sources": [
+  "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+  "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+  "https://michelinmedia.com/pages/blog/detail/article/c0/a1422/",
+  "https://michelinmedia.com/pages/blog/detail/article/c0/a1479/",
+  "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City",
+  "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States",
+  "https://www.timeout.com/newyork/news/these-six-nyc-restaurants-just-earned-michelin-stars-111925",
+  "https://www.finedininglovers.com/explore/articles/michelin-new-additions-northeast-2025",
+  "https://travellingforbusiness.co.uk/news/michelin-retires-green-star-and-replaces-with-global-mindful-voices-initiative/"
+ ],
+ "special_awards_2025_ny": [
+  {
+   "award": "MICHELIN Sommelier Award",
+   "person": "Annie Shi",
+   "restaurant": "Lei",
+   "city": "Manhattan",
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "award": "MICHELIN Young Chef / Culinary Professional Award",
+   "person": "India Doris",
+   "restaurant": "Markette",
+   "city": "Manhattan",
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  }
+ ],
+ "green_star_history": {
+  "note": "Held a MICHELIN Green Star in the 2025 Northeast Cities edition; the Green Star was retired worldwide from June 1, 2026, so it is not shown. One White Street had a Green Star without a Star or Bib.",
+  "restaurants": [
+   "Blue Hill at Stone Barns",
+   "Dirt Candy",
+   "Family Meal at Blue Hill",
+   "One White Street"
+  ],
+  "sources": [
+   "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+   "https://travellingforbusiness.co.uk/news/michelin-retires-green-star-and-replaces-with-global-mindful-voices-initiative/"
+  ]
+ },
+ "closed_since": [
+  {
+   "name": "Atla",
+   "address": "372 Lafayette St",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10012",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "closed_reason": "Closed after service on May 31, 2026; the operators announced a new concept for the space.",
+   "closed_date": "2026-05-31",
+   "sources": [
+    "https://whatnow.com/new-york/restaurants/chef-enrique-olveras-noho-mexican-restaurant-to-close-this-may/",
+    "https://whatnow.com/new-york/restaurants/dinosaur-bar-b-que-and-4-other-nyc-restaurants-closed-in-may-2026/",
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Bayon",
+   "address": "408 E 64th St",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10065",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "closed_reason": "Final service August 3, 2026; the chef-owners retired after 45 years.",
+   "closed_date": "2026-08-03",
+   "sources": [
+    "https://whatnow.com/new-york/restaurants/a-michelin-recognized-cambodian-restaurant-has-closed-on-the-upper-east-side/",
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  }
+ ],
+ "bib_unconfirmed_2025": [
+  {
+   "name": "Badageoni Georgian Kitchen",
+   "michelin_name": null,
+   "address": "26-28 E Main St",
+   "city": "Mount Kisco",
+   "municipality": null,
+   "neighborhood": null,
+   "county": "Westchester",
+   "zip": "10549",
+   "distinction_2024": "Bib Gourmand",
+   "reason": "On Michelin's official 2024 New York Bib list; not covered by Wikipedia's 2025 table and no allowed source confirms 2025 retention.",
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/"
+   ]
+  },
+  {
+   "name": "RaaSa",
+   "michelin_name": null,
+   "address": "145 E Main St",
+   "city": "Elmsford",
+   "municipality": "Greenburgh",
+   "neighborhood": null,
+   "county": "Westchester",
+   "zip": "10523",
+   "distinction_2024": "Bib Gourmand",
+   "reason": "On Michelin's official 2024 New York Bib list; not covered by Wikipedia's 2025 table and no allowed source confirms 2025 retention.",
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/"
+   ]
+  },
+  {
+   "name": "Rafele Rye",
+   "michelin_name": null,
+   "address": "26 Purchase St",
+   "city": "Rye",
+   "municipality": null,
+   "neighborhood": null,
+   "county": "Westchester",
+   "zip": "10580",
+   "distinction_2024": "Bib Gourmand",
+   "reason": "On Michelin's official 2024 New York Bib list; not covered by Wikipedia's 2025 table and no allowed source confirms 2025 retention.",
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/"
+   ]
+  },
+  {
+   "name": "TVB by Pax Romana",
+   "michelin_name": "TVB by: Pax Romana",
+   "address": "171 E Post Rd",
+   "city": "White Plains",
+   "municipality": null,
+   "neighborhood": null,
+   "county": "Westchester",
+   "zip": "10601",
+   "distinction_2024": "Bib Gourmand",
+   "reason": "On Michelin's official 2024 New York Bib list; not covered by Wikipedia's 2025 table and no allowed source confirms 2025 retention.",
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/"
+   ]
+  }
+ ],
+ "bib_2024_not_in_2025": [
+  {
+   "name": "Ammazzacaffè",
+   "michelin_name": null,
+   "address": "702 Grand St",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Williamsburg",
+   "county": "Kings",
+   "zip": "11211",
+   "distinction_2024": "Bib Gourmand",
+   "status_2025": "not in 2025 selection",
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Cecily",
+   "michelin_name": null,
+   "address": "80 Franklin St",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Greenpoint",
+   "county": "Kings",
+   "zip": "11222",
+   "distinction_2024": "Bib Gourmand",
+   "status_2025": "closed",
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Chick Chick",
+   "michelin_name": null,
+   "address": "618 Amsterdam Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Upper West Side",
+   "county": "New York",
+   "zip": "10024",
+   "distinction_2024": "Bib Gourmand",
+   "status_2025": "not in 2025 selection",
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States",
+    "https://www.westsiderag.com/2025/12/01/here-are-the-2025-michelin-star-restaurants-on-the-upper-west-side"
+   ]
+  },
+  {
+   "name": "Enoteca Maria",
+   "michelin_name": null,
+   "address": "27 Hyatt St",
+   "city": "Staten Island",
+   "municipality": null,
+   "neighborhood": "St. George",
+   "county": "Richmond",
+   "zip": "10301",
+   "distinction_2024": "Bib Gourmand",
+   "status_2025": "not in 2025 selection",
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Falansai",
+   "michelin_name": null,
+   "address": "112 Harrison Pl",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Greenpoint",
+   "county": "Kings",
+   "zip": "11237",
+   "distinction_2024": "Bib Gourmand",
+   "status_2025": "not in 2025 selection",
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Saint Julivert Fisherie",
+   "michelin_name": null,
+   "address": "264 Clinton St",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Cobble Hill",
+   "county": "Kings",
+   "zip": "11201",
+   "distinction_2024": "Bib Gourmand",
+   "status_2025": "not in 2025 selection",
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Tredici Social",
+   "michelin_name": null,
+   "address": "104 Kraft Ave",
+   "city": "Bronxville",
+   "municipality": "Eastchester",
+   "neighborhood": null,
+   "county": "Westchester",
+   "zip": "10708",
+   "distinction_2024": "Bib Gourmand",
+   "status_2025": "not in 2025 selection",
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Ugly Baby",
+   "michelin_name": null,
+   "address": "407 Smith St",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Carroll Gardens",
+   "county": "Kings",
+   "zip": "11231",
+   "distinction_2024": "Bib Gourmand",
+   "status_2025": "closed",
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  }
+ ],
+ "recommended_new_2025_ny": [
+  {
+   "name": "6 Restaurant",
+   "address": "481 Court St",
+   "city": "Brooklyn",
+   "county": "Kings",
+   "zip": "11231",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Adda",
+   "address": "107 1st Ave",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10003",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Bartolo",
+   "address": "310 W 4th St",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10014",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Cafe Commerce",
+   "address": "964 Lexington Ave",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10021",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Café Kestrel",
+   "address": "293 Van Brunt St",
+   "city": "Brooklyn",
+   "county": "Kings",
+   "zip": "11231",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Cenadou",
+   "address": "721 Titicus Rd",
+   "city": "North Salem",
+   "county": "Westchester",
+   "zip": "10560",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Chez Fifi",
+   "address": "140 E 74th St",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10021",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Comal",
+   "address": "116 Forsyth St",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10002",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Crane Club",
+   "address": "85 10th Ave",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10011",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Crevette",
+   "address": "10 Downing St",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10014",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Enso",
+   "address": "117 Berry St",
+   "city": "Brooklyn",
+   "county": "Kings",
+   "zip": "11249",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Glin Thai Bistro",
+   "address": "330 Myrtle Ave",
+   "city": "Brooklyn",
+   "county": "Kings",
+   "zip": "11205",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Gui",
+   "address": "776 Eighth Ave",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10036",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Heroes",
+   "address": "357 W Broadway",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10013",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ],
+   "note": "temporarily closed at announcement"
+  },
+  {
+   "name": "Hungry Thirsty",
+   "address": "407 Smith St",
+   "city": "Brooklyn",
+   "county": "Kings",
+   "zip": "11231",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Hyderabadi Zaiqa",
+   "address": "366 W 52nd St",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10019",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "il Gigante",
+   "address": "880 Woodward Ave",
+   "city": "Queens",
+   "county": "Queens",
+   "zip": "11385",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Kabawa",
+   "address": "8 Extra Pl",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10003",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "La Tête d'Or",
+   "address": "318 Park Ave S",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10010",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Lei",
+   "address": "15-17 Doyers St",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10013",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Ly Ly Vietnam Cookhouse",
+   "address": "306 E 81st St",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10028",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Maison Passerelle",
+   "address": "1 Wall St",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10005",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Mango Bay",
+   "address": "271 Adelphi St",
+   "city": "Brooklyn",
+   "county": "Kings",
+   "zip": "11205",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Markette",
+   "address": "326 7th Ave",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10001",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Papa San",
+   "address": "501 W 34th St",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10001",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Rose Marie",
+   "address": "524 Lorimer St",
+   "city": "Brooklyn",
+   "county": "Kings",
+   "zip": "11211",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Santi",
+   "address": "11 E 53rd St",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10022",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Sempre Oggi",
+   "address": "164 W 75th St",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10023",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Sinsa",
+   "address": "95 2nd Ave",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10003",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ],
+   "note": "temporarily closed at announcement"
+  },
+  {
+   "name": "Smithereens",
+   "address": "414 E 9th St",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10009",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  },
+  {
+   "name": "Sushi Akira",
+   "address": "317 E 75th St",
+   "city": "Manhattan",
+   "county": "New York",
+   "zip": "10021",
+   "distinction": "Recommended",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/"
+   ]
+  }
+ ],
+ "recommended_new_2025_note": "Partial list only: the 31 New York Recommended restaurants that were new in the 2025 edition (press release image). Retained Recommended restaurants are not listed on any allowed source we could read.",
+ "restaurants": [
+  {
+   "name": "Eleven Madison Park",
+   "address": "11 Madison Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Midtown South",
+   "county": "New York",
+   "zip": "10010",
+   "distinction": "3 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Jungsik",
+   "michelin_name": "Jungsik New York",
+   "address": "2 Harrison St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Tribeca",
+   "county": "New York",
+   "zip": "10013",
+   "distinction": "3 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Le Bernardin",
+   "address": "155 W 51st St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Midtown West",
+   "county": "New York",
+   "zip": "10019",
+   "distinction": "3 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Per Se",
+   "address": "10 Columbus Circle",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Columbus Circle",
+   "county": "New York",
+   "zip": "10019",
+   "distinction": "3 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Sushi Sho",
+   "address": "3 E 41st St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Midtown East",
+   "county": "New York",
+   "zip": "10017",
+   "distinction": "3 Stars",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City",
+    "https://www.timeout.com/newyork/news/these-six-nyc-restaurants-just-earned-michelin-stars-111925"
+   ],
+   "previous_distinction": "2 Stars"
+  },
+  {
+   "name": "Aquavit",
+   "address": "65 E 55th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Midtown East",
+   "county": "New York",
+   "zip": "10022",
+   "distinction": "2 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Aska",
+   "address": "47 S 5th St",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Williamsburg",
+   "county": "Kings",
+   "zip": "11249",
+   "distinction": "2 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Atera",
+   "address": "77 Worth St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Tribeca",
+   "county": "New York",
+   "zip": "10013",
+   "distinction": "2 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Atomix",
+   "address": "104 E 30th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Flatiron District",
+   "county": "New York",
+   "zip": "10016",
+   "distinction": "2 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Blue Hill at Stone Barns",
+   "address": "630 Bedford Rd",
+   "city": "Tarrytown",
+   "municipality": "Mount Pleasant",
+   "neighborhood": "Pocantico Hills",
+   "county": "Westchester",
+   "zip": "10591",
+   "distinction": "2 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City",
+    "https://en.wikipedia.org/wiki/Blue_Hill_at_Stone_Barns"
+   ],
+   "note": "Michelin lists the mailing address as Tarrytown, NY 10591; the restaurant is at Stone Barns in the hamlet of Pocantico Hills (Town of Mount Pleasant), Westchester County."
+  },
+  {
+   "name": "César",
+   "address": "333 Hudson St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Hudson Square",
+   "county": "New York",
+   "zip": "10013",
+   "distinction": "2 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Chef's Table at Brooklyn Fare",
+   "address": "431 W 37th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Hell's Kitchen",
+   "county": "New York",
+   "zip": "10018",
+   "distinction": "2 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Gabriel Kreuther",
+   "address": "41 W 42nd St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Midtown West",
+   "county": "New York",
+   "zip": "10036",
+   "distinction": "2 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Jean-Georges",
+   "address": "1 Central Park West",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Columbus Circle",
+   "county": "New York",
+   "zip": "10023",
+   "distinction": "2 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Joo Ok",
+   "address": "22 W 32nd St, 16th Fl",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Koreatown",
+   "county": "New York",
+   "zip": "10001",
+   "distinction": "2 Stars",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City",
+    "https://www.timeout.com/newyork/news/these-six-nyc-restaurants-just-earned-michelin-stars-111925"
+   ],
+   "previous_distinction": "1 Star"
+  },
+  {
+   "name": "Masa",
+   "address": "10 Columbus Circle",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Columbus Circle",
+   "county": "New York",
+   "zip": "10019",
+   "distinction": "2 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City",
+    "https://www.timeout.com/newyork/news/these-six-nyc-restaurants-just-earned-michelin-stars-111925"
+   ],
+   "previous_distinction": "3 Stars",
+   "note": "Dropped from 3 Stars to 2 Stars in the 2025 edition (announced the week before the ceremony)."
+  },
+  {
+   "name": "odo",
+   "address": "17 W 20th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Flatiron District",
+   "county": "New York",
+   "zip": "10011",
+   "distinction": "2 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Saga",
+   "address": "70 Pine St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Financial District",
+   "county": "New York",
+   "zip": "10005",
+   "distinction": "2 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Sushi Noz",
+   "address": "181 E 78th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Upper East Side",
+   "county": "New York",
+   "zip": "10075",
+   "distinction": "2 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "The Modern",
+   "address": "9 W 53rd St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Midtown West",
+   "county": "New York",
+   "zip": "10019",
+   "distinction": "2 Stars",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "63 Clinton",
+   "address": "63 Clinton St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Lower East Side",
+   "county": "New York",
+   "zip": "10002",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Bar Miller",
+   "address": "620 E 6th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Alphabet City",
+   "county": "New York",
+   "zip": "10009",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "bōm",
+   "address": "17 W 19th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Flatiron District",
+   "county": "New York",
+   "zip": "10011",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Bridges",
+   "address": "9 Chatham Sq",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Chinatown",
+   "county": "New York",
+   "zip": "10038",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City",
+    "https://www.timeout.com/newyork/news/these-six-nyc-restaurants-just-earned-michelin-stars-111925"
+   ]
+  },
+  {
+   "name": "Café Boulud",
+   "address": "100 E 63rd St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Upper East Side",
+   "county": "New York",
+   "zip": "10065",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Casa Mono",
+   "address": "52 Irving Pl",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Gramercy Park",
+   "county": "New York",
+   "zip": "10003",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Corima",
+   "address": "3 Allen St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Chinatown",
+   "county": "New York",
+   "zip": "10002",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Cote",
+   "address": "16 W 22nd St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Flatiron District",
+   "county": "New York",
+   "zip": "10010",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Crown Shy",
+   "address": "70 Pine St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Financial District",
+   "county": "New York",
+   "zip": "10005",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Daniel",
+   "address": "60 E 65th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Upper East Side",
+   "county": "New York",
+   "zip": "10065",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Dirt Candy",
+   "address": "86 Allen St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Lower East Side",
+   "county": "New York",
+   "zip": "10002",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Essential by Christophe",
+   "address": "103 W 77th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Upper West Side",
+   "county": "New York",
+   "zip": "10024",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Estela",
+   "address": "47 E Houston St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Nolita",
+   "county": "New York",
+   "zip": "10012",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Family Meal at Blue Hill",
+   "address": "75 Washington Pl",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Greenwich Village",
+   "county": "New York",
+   "zip": "10011",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Francie",
+   "address": "134 Broadway",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Williamsburg",
+   "county": "Kings",
+   "zip": "11249",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Frevo",
+   "address": "48 W 8th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Greenwich Village",
+   "county": "New York",
+   "zip": "10011",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Gramercy Tavern",
+   "address": "42 E 20th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Flatiron District",
+   "county": "New York",
+   "zip": "10003",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Huso",
+   "address": "323A Greenwich St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Tribeca",
+   "county": "New York",
+   "zip": "10013",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City",
+    "https://www.timeout.com/newyork/news/these-six-nyc-restaurants-just-earned-michelin-stars-111925"
+   ]
+  },
+  {
+   "name": "Icca",
+   "address": "20 Warren St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Tribeca",
+   "county": "New York",
+   "zip": "10007",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Jeju Noodle Bar",
+   "address": "679 Greenwich St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "West Village",
+   "county": "New York",
+   "zip": "10014",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Jōji",
+   "address": "1 Vanderbilt Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Midtown East",
+   "county": "New York",
+   "zip": "10017",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Jua",
+   "address": "36 E 22nd St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Flatiron District",
+   "county": "New York",
+   "zip": "10010",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Kochi",
+   "address": "652 Tenth Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Midtown West",
+   "county": "New York",
+   "zip": "10036",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Kosaka",
+   "address": "220 W 13th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "West Village",
+   "county": "New York",
+   "zip": "10011",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "L'Abeille",
+   "address": "412 Greenwich St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Tribeca",
+   "county": "New York",
+   "zip": "10013",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "La Bastide by Andrea Calstier",
+   "address": "721 Titicus Rd",
+   "city": "North Salem",
+   "municipality": null,
+   "neighborhood": null,
+   "county": "Westchester",
+   "zip": "10560",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City",
+    "https://en.wikipedia.org/wiki/La_Bastide_by_Andrea_Calstier"
+   ]
+  },
+  {
+   "name": "Le Coucou",
+   "address": "138 Lafayette St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "SoHo",
+   "county": "New York",
+   "zip": "10013",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Le Pavillon",
+   "address": "1 Vanderbilt Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Midtown East",
+   "county": "New York",
+   "zip": "10017",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Mari",
+   "address": "679 Ninth Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Hell's Kitchen",
+   "county": "New York",
+   "zip": "10036",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Meju",
+   "address": "5-28 49th Ave",
+   "city": "Queens",
+   "municipality": null,
+   "neighborhood": "Hunters Point",
+   "county": "Queens",
+   "zip": "11101",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Muku",
+   "address": "412 Greenwich St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Tribeca",
+   "county": "New York",
+   "zip": "10013",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City",
+    "https://www.timeout.com/newyork/news/these-six-nyc-restaurants-just-earned-michelin-stars-111925",
+    "https://en.wikipedia.org/wiki/Sushi_Ichimura"
+   ],
+   "note": "Shares the 412 Greenwich St building with L'Abeille; opened in the former Sushi Ichimura space in 2025."
+  },
+  {
+   "name": "Noda",
+   "address": "37 W 20th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Flatiron District",
+   "county": "New York",
+   "zip": "10001",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Nōksu",
+   "address": "49 W 32nd St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Koreatown",
+   "county": "New York",
+   "zip": "10001",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Noz 17",
+   "address": "458 W 17th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Chelsea",
+   "county": "New York",
+   "zip": "10011",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Oiji Mi",
+   "address": "17 W 19th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Flatiron District",
+   "county": "New York",
+   "zip": "10011",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Oxomoco",
+   "address": "128 Greenpoint Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Greenpoint",
+   "county": "Kings",
+   "zip": "11222",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Restaurant Yuu",
+   "address": "55 Nassau Ave, #1A",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Greenpoint",
+   "county": "Kings",
+   "zip": "11222",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Rezdôra",
+   "address": "27 E 20th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Flatiron District",
+   "county": "New York",
+   "zip": "10003",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Semma",
+   "address": "60 Greenwich Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Greenwich Village",
+   "county": "New York",
+   "zip": "10011",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Shion 69 Leonard Street",
+   "address": "69 Leonard St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Tribeca",
+   "county": "New York",
+   "zip": "10013",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Shmoné",
+   "address": "61 W 8th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Greenwich Village",
+   "county": "New York",
+   "zip": "10011",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Shota Omakase",
+   "address": "50 S 3rd St",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Williamsburg",
+   "county": "Kings",
+   "zip": "11249",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Sushi Nakazawa",
+   "michelin_name": "Sushi Nakazawa New York",
+   "address": "23 Commerce St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "West Village",
+   "county": "New York",
+   "zip": "10014",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Tempura Matsui",
+   "address": "222 E 39th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Midtown East",
+   "county": "New York",
+   "zip": "10016",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "The Four Horsemen",
+   "address": "295 Grand St",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Williamsburg",
+   "county": "Kings",
+   "zip": "11211",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Torien",
+   "address": "292 Elizabeth St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "NoHo",
+   "county": "New York",
+   "zip": "10012",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Torrisi",
+   "address": "275 Mulberry St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Little Italy",
+   "county": "New York",
+   "zip": "10012",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Tsukimi",
+   "address": "288 E 10th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10003",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Tuome",
+   "address": "536 E 5th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10009",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Yamada",
+   "address": "16 Elizabeth St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Chinatown",
+   "county": "New York",
+   "zip": "10013",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City",
+    "https://www.timeout.com/newyork/news/these-six-nyc-restaurants-just-earned-michelin-stars-111925"
+   ]
+  },
+  {
+   "name": "YingTao",
+   "address": "805 9th Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Hell's Kitchen",
+   "county": "New York",
+   "zip": "10019",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "Yoshino",
+   "address": "342 Bowery",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "NoHo",
+   "county": "New York",
+   "zip": "10012",
+   "distinction": "1 Star",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_New_York_City"
+   ]
+  },
+  {
+   "name": "8282",
+   "address": "84 Stanton St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Lower East Side",
+   "county": "New York",
+   "zip": "10002",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Agi's Counter",
+   "address": "818 Franklin Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Crown Heights",
+   "county": "Kings",
+   "zip": "11225",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Alley 41",
+   "address": "136-45 41st Ave",
+   "city": "Queens",
+   "municipality": null,
+   "neighborhood": "Flushing",
+   "county": "Queens",
+   "zip": "11355",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Alta Calidad",
+   "address": "552 Vanderbilt Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Prospect Heights",
+   "county": "Kings",
+   "zip": "11238",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Bánh Anh Em",
+   "address": "99 3rd Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10003",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://www.finedininglovers.com/explore/articles/michelin-new-additions-northeast-2025",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Bohemian Spirit",
+   "address": "321 E 73rd St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Upper East Side",
+   "county": "New York",
+   "zip": "10021",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Bonnie's",
+   "address": "398 Manhattan Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Williamsburg",
+   "county": "Kings",
+   "zip": "11211",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Boro6 Wine Bar",
+   "address": "549 Warburton Ave",
+   "city": "Hastings-on-Hudson",
+   "municipality": "Greenburgh",
+   "neighborhood": null,
+   "county": "Westchester",
+   "zip": "10706",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Bungalow",
+   "address": "24 1st Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10009",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Burrata",
+   "address": "425 White Plains Rd",
+   "city": "Eastchester",
+   "municipality": null,
+   "neighborhood": null,
+   "county": "Westchester",
+   "zip": "10709",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Café Mars",
+   "address": "272 3rd Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Park Slope",
+   "county": "Kings",
+   "zip": "11215",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Caleta 111 Cevicheria",
+   "address": "111-27 Jamaica Ave",
+   "city": "Queens",
+   "municipality": null,
+   "neighborhood": "Richmond Hill",
+   "county": "Queens",
+   "zip": "11418",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Cardamom",
+   "address": "43-45 43rd St",
+   "city": "Queens",
+   "municipality": null,
+   "neighborhood": "Sunnyside",
+   "county": "Queens",
+   "zip": "11104",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "C as in Charlie",
+   "address": "5 Bleecker St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "NoHo",
+   "county": "New York",
+   "zip": "10012",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Cervo's",
+   "address": "43 Canal St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Lower East Side",
+   "county": "New York",
+   "zip": "10002",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Chalong",
+   "address": "749 9th Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Hell's Kitchen",
+   "county": "New York",
+   "zip": "10019",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://www.finedininglovers.com/explore/articles/michelin-new-additions-northeast-2025",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Chavela's",
+   "address": "736 Franklin Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Crown Heights",
+   "county": "Kings",
+   "zip": "11238",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "CheLi",
+   "address": "19 St Marks Pl",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10003",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Cho Dang Gol",
+   "address": "55 W 35th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Koreatown",
+   "county": "New York",
+   "zip": "10001",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Chuan Tian Xia",
+   "address": "5502 Seventh Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Sunset Park",
+   "county": "Kings",
+   "zip": "11220",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Chutney Masala",
+   "address": "76 Main St",
+   "city": "Irvington",
+   "municipality": "Greenburgh",
+   "neighborhood": null,
+   "county": "Westchester",
+   "zip": "10533",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Coqodaq",
+   "address": "12 E 22nd St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Flatiron District",
+   "county": "New York",
+   "zip": "10010",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Covacha",
+   "address": "368 Columbus Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Upper West Side",
+   "county": "New York",
+   "zip": "10024",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Dhamaka",
+   "address": "119 Delancey St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Lower East Side",
+   "county": "New York",
+   "zip": "10002",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Dim Sum Go Go",
+   "address": "5 E Broadway",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Chinatown",
+   "county": "New York",
+   "zip": "10038",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Gordo's Cantina",
+   "address": "140 St Nicholas Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Bushwick",
+   "county": "Kings",
+   "zip": "11237",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Haenyeo",
+   "address": "239 Fifth Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Park Slope",
+   "county": "Kings",
+   "zip": "11215",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "HanGawi",
+   "address": "12 E 32nd St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Koreatown",
+   "county": "New York",
+   "zip": "10016",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Hometown Bar-B-Que",
+   "michelin_name": "Hometown Barbecue New York",
+   "address": "454 Van Brunt St",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Red Hook",
+   "county": "Kings",
+   "zip": "11231",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Hupo",
+   "address": "1007 50th Ave",
+   "city": "Queens",
+   "municipality": null,
+   "neighborhood": "Long Island City",
+   "county": "Queens",
+   "zip": "11101",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Ishq",
+   "address": "202 Ave A",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10009",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Jiang Nan",
+   "address": "133-42 39th Ave",
+   "city": "Queens",
+   "municipality": null,
+   "neighborhood": "Flushing",
+   "county": "Queens",
+   "zip": "11354",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Katz's Delicatessen",
+   "michelin_name": "Katz's",
+   "address": "205 E Houston St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Lower East Side",
+   "county": "New York",
+   "zip": "10002",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Kung Fu Little Steamed Buns Ramen",
+   "address": "811 Eighth Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Hell's Kitchen",
+   "county": "New York",
+   "zip": "10019",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "La Dong",
+   "address": "11 E 17th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Union Square",
+   "county": "New York",
+   "zip": "10003",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://www.finedininglovers.com/explore/articles/michelin-new-additions-northeast-2025",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Laliko",
+   "address": "80 Carmine St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Greenwich Village",
+   "county": "New York",
+   "zip": "10014",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://www.finedininglovers.com/explore/articles/michelin-new-additions-northeast-2025",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Legend of Taste",
+   "address": "2002 Utopia Pkwy",
+   "city": "Queens",
+   "municipality": null,
+   "neighborhood": "Clearview",
+   "county": "Queens",
+   "zip": "11357",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Little Alley",
+   "address": "550 Third Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Murray Hill",
+   "county": "New York",
+   "zip": "10016",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Little Myanmar",
+   "address": "150 E 2nd St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10009",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "LORE",
+   "address": "441 7th Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Park Slope",
+   "county": "Kings",
+   "zip": "11215",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Lungi",
+   "address": "1136 1st Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Upper East Side",
+   "county": "New York",
+   "zip": "10065",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "MáLà Project",
+   "address": "122 First Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10009",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Miss Ada",
+   "address": "184 DeKalb Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Fort Greene",
+   "county": "Kings",
+   "zip": "11205",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Momofuku Noodle Bar",
+   "address": "171 First Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10003",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Nami Nori",
+   "address": "33 Carmine St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Greenwich Village",
+   "county": "New York",
+   "zip": "10014",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Noreetuh",
+   "address": "128 First Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10009",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://www.finedininglovers.com/explore/articles/michelin-new-additions-northeast-2025",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Norma Gastronomia Siciliana",
+   "address": "438 Third Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Murray Hill",
+   "county": "New York",
+   "zip": "10016",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Nyonya",
+   "address": "199 Grand St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Chinatown",
+   "county": "New York",
+   "zip": "10013",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Odre",
+   "address": "199 2nd Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10003",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Olmo",
+   "address": "103 Saratoga Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Bedford-Stuyvesant",
+   "county": "Kings",
+   "zip": "11233",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://www.finedininglovers.com/explore/articles/michelin-new-additions-northeast-2025",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Oso",
+   "address": "1618 Amsterdam Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Harlem",
+   "county": "New York",
+   "zip": "10031",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Peppercorn Station",
+   "address": "66 W 39th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Midtown",
+   "county": "New York",
+   "zip": "10018",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Phayul",
+   "address": "37-59 74th St",
+   "city": "Queens",
+   "municipality": null,
+   "neighborhood": "Jackson Heights",
+   "county": "Queens",
+   "zip": "11372",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Pierozek",
+   "address": "592 Manhattan Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Greenpoint",
+   "county": "Kings",
+   "zip": "11222",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Pinch Chinese",
+   "address": "177 Prince St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "SoHo",
+   "county": "New York",
+   "zip": "10012",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Potluck Club",
+   "address": "133 Chrystie St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Chinatown",
+   "county": "New York",
+   "zip": "10002",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Pranakhon",
+   "address": "88 University Pl",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Greenwich Village",
+   "county": "New York",
+   "zip": "10003",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Roberta's",
+   "address": "261 Moore St",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Bushwick",
+   "county": "Kings",
+   "zip": "11206",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Rolo's",
+   "address": "853 Onderdonk Ave",
+   "city": "Queens",
+   "municipality": null,
+   "neighborhood": "Ridgewood",
+   "county": "Queens",
+   "zip": "11385",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Ruffian",
+   "address": "125 E 7th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10009",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Runner Up",
+   "address": "367 7th Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Park Slope",
+   "county": "Kings",
+   "zip": "11215",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Russ & Daughters Cafe",
+   "address": "127 Orchard St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Lower East Side",
+   "county": "New York",
+   "zip": "10002",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Sagara",
+   "address": "98 Victory Blvd",
+   "city": "Staten Island",
+   "municipality": null,
+   "neighborhood": "Tompkinsville",
+   "county": "Richmond",
+   "zip": "10301",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Sal Tang's",
+   "address": "521 Hicks St",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Cobble Hill",
+   "county": "Kings",
+   "zip": "11231",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://www.finedininglovers.com/explore/articles/michelin-new-additions-northeast-2025",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Sami & Susu",
+   "address": "190 Orchard St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Lower East Side",
+   "county": "New York",
+   "zip": "10002",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "SaRanRom Thai",
+   "address": "8110 Broadway",
+   "city": "Queens",
+   "municipality": null,
+   "neighborhood": "Elmhurst",
+   "county": "Queens",
+   "zip": "11373",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Shalom Japan",
+   "address": "301 S 4th St",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Williamsburg",
+   "county": "Kings",
+   "zip": "11211",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Sobaya",
+   "address": "229 E 9th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10003",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Sobre Masa",
+   "address": "52 Harrison Pl",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Bushwick",
+   "county": "Kings",
+   "zip": "11237",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Soda Club",
+   "address": "155 Avenue B",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10009",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Speedy Romeo",
+   "address": "376 Classon Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Bedford-Stuyvesant",
+   "county": "Kings",
+   "zip": "11238",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Superiority Burger",
+   "address": "119 Avenue A",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10009",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Tanoreen",
+   "address": "7523 Third Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Bay Ridge",
+   "county": "Kings",
+   "zip": "11209",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Taqueria El Chato",
+   "address": "620 Manhattan Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Greenpoint",
+   "county": "Kings",
+   "zip": "11222",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://www.finedininglovers.com/explore/articles/michelin-new-additions-northeast-2025",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Thai Diner",
+   "address": "186 Mott St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Nolita",
+   "county": "New York",
+   "zip": "10012",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Tha Phraya",
+   "address": "1553 2nd Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Upper East Side",
+   "county": "New York",
+   "zip": "10028",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "The Cookery",
+   "address": "39 Chestnut St",
+   "city": "Dobbs Ferry",
+   "municipality": "Greenburgh",
+   "neighborhood": null,
+   "county": "Westchester",
+   "zip": "10522",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Tolo",
+   "address": "28 Canal St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Lower East Side",
+   "county": "New York",
+   "zip": "10002",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Tonchin",
+   "address": "13 W 36th St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Midtown",
+   "county": "New York",
+   "zip": "10018",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Tong Sam Gyup Goo Yi",
+   "address": "162-23 Depot Rd",
+   "city": "Queens",
+   "municipality": null,
+   "neighborhood": "Flushing",
+   "county": "Queens",
+   "zip": "11358",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Una Pizza Napoletana",
+   "address": "175 Orchard St",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "Lower East Side",
+   "county": "New York",
+   "zip": "10002",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Untable",
+   "address": "529 Henry St",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Carroll Gardens",
+   "county": "Kings",
+   "zip": "11231",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Win Son",
+   "address": "159 Graham Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Williamsburg",
+   "county": "Kings",
+   "zip": "11206",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Yellow Rose",
+   "address": "102 Third Ave",
+   "city": "Manhattan",
+   "municipality": null,
+   "neighborhood": "East Village",
+   "county": "New York",
+   "zip": "10003",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Yemenat",
+   "address": "7721 5th Ave",
+   "city": "Brooklyn",
+   "municipality": null,
+   "neighborhood": "Bay Ridge",
+   "county": "Kings",
+   "zip": "11209",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": true,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1442/",
+    "https://www.finedininglovers.com/explore/articles/michelin-new-additions-northeast-2025",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  },
+  {
+   "name": "Zaab Zaab",
+   "address": "76-04 Woodside Ave",
+   "city": "Queens",
+   "municipality": null,
+   "neighborhood": "Elmhurst",
+   "county": "Queens",
+   "zip": "11373",
+   "distinction": "Bib Gourmand",
+   "edition": "2025",
+   "new": false,
+   "sources": [
+    "https://michelinmedia.com/pages/blog/detail/article/c0/a1383/",
+    "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_United_States"
+   ]
+  }
+ ]
+}

@@ -205,7 +205,7 @@ enum Tier: Int, Comparable {
     var label: String {
         switch self {
         case .licensed: "On an official list"
-        case .confirmed: "Confirmed listing"
+        case .confirmed: "High-confidence listing"   // the family wording (Nick, 2026-10-13); these matched a permit far more often than single listings
         case .listing: "Listing only"
         }
     }

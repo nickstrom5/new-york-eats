@@ -46,6 +46,9 @@ Read `../STATE_EATS_PLAYBOOK.md`, `../state-prompts/NEW_YORK_PROMPT.md` and `pla
 - Guides list only **hand-checked** places (`data/research/app/*.json`, each with a 2025–26 source; see `data/research/README.md`).
   Honors (MICHELIN 2025 selection, James Beard 2023–26, America's Classics) are facts, never star ratings. Honorees with no 2025–26
   evidence of being open only annotate an existing listing.
+- `pipeline/website_blocklist.json` (hacked sites with hidden casino or pharmacy links, expired domains, another business's page; from
+  the 2026-10-12 link sweep) applies everywhere: stage 2 drops those links from the app and leaderboard exports (and asserts none ship),
+  `scripts/make-site.py` from the website. New entries need only a re-run.
 - Never fetch a host whose robots.txt disallows ClaudeBot / Claude-User / anthropic-ai (guide.michelin.com does). Never bypass bot
   protection; never scrape search-only inspection portals (ABCEats, HealthSpace, Nassau's lookup).
 - `pipeline/check_sources.py` checks every host the research cites (robots.txt for ClaudeBot, Claude-User, anthropic-ai, and bot

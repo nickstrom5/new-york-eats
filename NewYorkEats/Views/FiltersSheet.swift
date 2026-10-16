@@ -36,10 +36,10 @@ struct FiltersSheet: View {
                 }
                 Section {
                     Toggle("Hide chains (5+ locations)", isOn: $model.filters.hideChains)
-                    Toggle("Only licensed or confirmed places", isOn: $model.filters.confirmedOnly)
+                    Toggle("Only licensed, high-confidence or hand-checked places", isOn: $model.filters.confirmedOnly)
                     Toggle("Include non-restaurants", isOn: $model.filters.includeNonRestaurants)
                 } footer: {
-                    Text("Confirmed = on an official list (an NYC or New York State health permit, a Suffolk County inspection, a Buffalo or liquor license), a high-confidence map listing, or hand-checked by us. Non-restaurants are gas-station and grocery counters, stadium and campus dining, clubs and the like.")
+                    Text("That means on an official list (an NYC or New York State health permit, a Suffolk County inspection, a Buffalo or liquor license), a high-confidence map listing, or hand-checked by us. Non-restaurants are gas-station and grocery counters, stadium and campus dining, clubs and the like.")
                 }
                 if model.filters.activeCount > 0 {
                     Section { Button("Clear all filters", role: .destructive) { model.filters = Filters() } }

@@ -11,7 +11,7 @@ doesn't have are added from it (trade names only). Inspection results stay with 
 Web leaderboard only: ratings, reviews and price level from Google's Sep 2021 snapshot (UCSD Google Local). NY_APP=1 drops all of
 that (the App Store build ships no Google-derived data).
 """
-import os, re, sys, json, math, glob, hashlib, unicodedata, collections
+import os, re, sys, json, math, glob, hashlib, unicodedata, collections, urllib.parse
 import numpy as np, pandas as pd
 import shapely
 from shapely.geometry import shape
@@ -194,6 +194,29 @@ def load_curated():
 
 
 SOURCE_HOSTS = json.load(open(f"{DATA}/research/source_hosts.json")) if os.path.exists(f"{DATA}/research/source_hosts.json") else {}
+# websites never linked, whatever the link check said: hacked (hidden casino or pharmacy links), expired, or another business's page.
+# The same list and rules as scripts/make-site.py `blocked()`: "domain" covers it and every subdomain, "url" one page on a shared host.
+WEB_BLOCKLIST = json.load(open(f"{ROOT}/pipeline/website_blocklist.json", encoding="utf-8"))
+
+
+def _host_path(u):
+    s = urllib.parse.urlsplit(u.strip() if re.match(r"^[a-z][a-z0-9+.-]*://", u.strip(), re.I) else "//" + u.strip())
+    return (s.hostname or "").lower().rstrip(".").removeprefix("www."), s.path.rstrip("/").lower()
+
+
+def link_blocked(u):
+    if not u:
+        return False
+    host, path = _host_path(u)
+    for b in WEB_BLOCKLIST:
+        if b.get("match", "domain") == "url":
+            if (host, path) == _host_path(b["url"]):
+                return True
+        else:
+            d = _host_path(b["domain"])[0]
+            if host == d or host.endswith("." + d):
+                return True
+    return False
 
 
 def source_blocked(u):
@@ -1256,7 +1279,9 @@ if APP:
             w_ = clean_url(web)
             link_cands[w_] = x.brand_n if isinstance(x.brand_n, str) else x.name_out
             # fail closed: no check file, no links; and today's directory rules apply to links checked before they were added
-            if LINKS is not None and LINKS.get(w_, {}).get("ok") and not bad_host(w_ if w_.startswith("http") else "https://" + w_):
+            if link_blocked(w_):
+                link_drops["on the website blocklist"] += 1
+            elif LINKS is not None and LINKS.get(w_, {}).get("ok") and not bad_host(w_ if w_.startswith("http") else "https://" + w_):
                 p["w"] = w_
             else:
                 link_drops[LINKS.get(w_, {}).get("why", "not checked yet") if LINKS is not None else "no check file"] += 1
@@ -1276,6 +1301,7 @@ if APP:
              "files": [{"region": r_, "file": PART_FILE[(r_, b)], "count": len(places_by[(r_, b)]),
                         "count_restaurants": sum(1 for p in places_by[(r_, b)] if not p.get("v"))} for r_, b in PARTS if places_by.get((r_, b))]}
     assert sum(f["count"] for f in index["files"]) == len(o) and sum(f["count_restaurants"] for f in index["files"]) == len(nv), "file counts"
+    assert not any(link_blocked(p.get("w")) for ps in places_by.values() for p in ps), "a website on pipeline/website_blocklist.json"
     for old_f in glob.glob(f"{SITE}/places-*.json"):
         os.remove(old_f)
     json.dump(clean(index), open(f"{SITE}/index.json", "w"), separators=(",", ":"), ensure_ascii=False, allow_nan=False, default=str)
@@ -1330,7 +1356,7 @@ for r_ in REGIONS:
             C[c].append(v.item() if hasattr(v, "item") else v)
         e = {k: v for k, v in (("jbf", x.jbf), ("michelin", x.michelin), ("founded", r(x.founded) if x.founded == x.founded and x.founded is not None else None),
                                ("founded_note", x.founded_note), ("note", x.rnote), ("dishes", x.dishes), ("season", x.season),
-                               ("web", x.rsite if isinstance(x.rsite, str) else None), ("kinds", x.cur_tags), ("src", x.rsrc), ("chef", x.chef),
+                               ("web", x.rsite if isinstance(x.rsite, str) and not link_blocked(x.rsite) else None), ("kinds", x.cur_tags), ("src", x.rsrc), ("chef", x.chef),
                                ("lic", x.sla_lic), ("liq_since", x.liq_since), ("buf", x.buf_lic), ("lhd", x.st_lhd), ("muni", x.muni if not x.borough else None))
              if isinstance(v, (str, int)) and v != ""}
         if isinstance(x.st_hist, list): e["st_hist"] = x.st_hist

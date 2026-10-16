@@ -3,8 +3,9 @@ and anthropic-ai fetch that path and doesn't answer with a bot check. One robots
 
     ../.venv/bin/python check_sources.py            # report -> data/research/source_hosts.json, exit 1 if any record cites a blocked URL
     ../.venv/bin/python check_sources.py URL ...    # before using a new source: "usable" or why not, per URL
+    ../.venv/bin/python check_sources.py --self-test   # the robots.txt matcher's own cases (every run does them first)
 """
-import glob, json, os, re, subprocess, sys, time, urllib.parse, urllib.robotparser
+import glob, json, os, re, subprocess, sys, time, urllib.parse
 from datetime import date, datetime
 import requests
 
@@ -86,9 +87,83 @@ def refresh(cache, hosts, quiet=False):
         time.sleep(0.5)
         if i % 25 == 0 and not quiet:
             print(f"  {i}/{len(hosts)}", flush=True)
-    tmp = CACHE + ".tmp"
+    # several checkers run at once (research agents, the build): merge with what's on disk now, or one run's save drops another's hosts
+    on_disk = json.load(open(CACHE)) if os.path.exists(CACHE) else {}
+    for h, v in on_disk.items():
+        if h not in cache or v.get("checked", "") > cache[h].get("checked", ""):
+            cache[h] = v
+    tmp = f"{CACHE}.{os.getpid()}.tmp"
     json.dump(cache, open(tmp, "w"), indent=1)
     os.replace(tmp, CACHE)
+
+
+def _groups(text):
+    """robots.txt -> [(agent tokens, [(allow, pattern)])], per RFC 9309 (consecutive user-agent lines share one group)."""
+    groups, agents, rules, last = [], [], [], None
+    for line in text.splitlines():
+        line = line.split("#", 1)[0].strip()
+        if ":" not in line:
+            continue
+        k, v = (x.strip() for x in line.split(":", 1))
+        k = k.lower()
+        if k == "user-agent":
+            if last != "user-agent" and (agents or rules):
+                groups.append((agents, rules))
+                agents, rules = [], []
+            agents.append(v.lower())
+        elif k in ("allow", "disallow") and agents:
+            rules.append((k == "allow", v))
+        else:
+            continue
+        last = k
+    if agents:
+        groups.append((agents, rules))
+    return groups
+
+
+def _pat(p):
+    rx = "".join(".*" if ch == "*" else re.escape(ch) for ch in p.rstrip("$"))
+    return re.compile(rx + ("$" if p.endswith("$") else ""))
+
+
+def robots_allows(text, agent, url):
+    """True when robots.txt lets `agent` fetch `url`. Python's urllib.robotparser ignores `*` and `$` in paths, so it called
+    apps.isp.idaho.gov's `Disallow: /AbcReporting/*/search` an allowed path; this follows RFC 9309: the agent's own group (else
+    `*`), the longest matching rule wins, Allow wins a tie, an empty Disallow allows everything. Ported from id-eats (2026-10-16)."""
+    parts = urllib.parse.urlsplit(url)
+    path = (parts.path or "/") + (("?" + parts.query) if parts.query else "")
+    groups = _groups(text)
+    mine = [r for a, r in groups if any(t != "*" and t in agent.lower() for t in a)]
+    rules = [x for r in (mine or [r for a, r in groups if "*" in a]) for x in r]
+    best = None
+    for allow, p in rules:
+        if p == "" or not _pat(p).match(path):
+            continue
+        key = (len(p), allow)
+        if best is None or key > best:
+            best = key
+    return best is None or best[1]
+
+
+def self_test():
+    """The cases urllib.robotparser got wrong, plus the rest of the rules above. `check_sources.py --self-test`; every run does it first."""
+    isp = "User-agent: SemrushBot\nDisallow: /\n\nUser-agent: *\nDisallow: /AbcReporting/*/search\n"   # apps.isp.idaho.gov, 2026-10-08
+    own = "User-agent: *\nDisallow: /\nUser-agent: ClaudeBot\nAllow: /"
+    cases = [
+        (isp, "ClaudeBot", "https://apps.isp.idaho.gov/AbcReporting/LicenseSearch/search?q=1", False),
+        (isp, "Claude-User", "https://apps.isp.idaho.gov/AbcReporting/LicenseSearch/search", False),
+        (isp, "ClaudeBot", "https://apps.isp.idaho.gov/AbcReporting/", True),
+        (own, "ClaudeBot", "https://example.com/any/page", True),
+        (own, "Claude-User", "https://example.com/any/page", False),          # no group of its own: `*` applies
+        ("User-agent: *\nDisallow: /*.pdf$", "ClaudeBot", "https://example.com/a/menu.pdf", False),
+        ("User-agent: *\nDisallow: /*.pdf$", "ClaudeBot", "https://example.com/a/menu.pdf?v=2", True),
+        ("User-agent: *\nDisallow: /news\nAllow: /news/", "ClaudeBot", "https://example.com/news/story", True),   # longest wins
+        ("User-agent: *\nDisallow: /p\nAllow: /p", "ClaudeBot", "https://example.com/p", True),                   # Allow wins a tie
+        ("User-agent: *\nDisallow:", "ClaudeBot", "https://example.com/anything", True),
+    ]
+    bad = [(a, u, want) for text, a, u, want in cases if robots_allows(text, a, u) != want]
+    if bad:
+        sys.exit("robots.txt matcher self-test failed: " + "; ".join(f"{a} {u} should be {'allowed' if w else 'disallowed'}" for a, u, w in bad))
 
 
 def why_not(cache, u):
@@ -100,15 +175,17 @@ def why_not(cache, u):
     if c["verdict"] != "ok":
         return c["verdict"]
     if c.get("rules"):
-        rp = urllib.robotparser.RobotFileParser()
-        rp.parse(c["rules"].splitlines())
-        blocked = [a for a in AGENTS if not rp.can_fetch(a, u)]
+        blocked = [a for a in AGENTS if not robots_allows(c["rules"], a, u)]
         if blocked:
             return "robots.txt disallows " + ", ".join(blocked)
     return None
 
 
 def main():
+    self_test()
+    if sys.argv[1:] == ["--self-test"]:
+        print("robots.txt matcher self-test passed")
+        return
     cache = json.load(open(CACHE)) if os.path.exists(CACHE) else {}
     if len(sys.argv) > 1:
         refresh(cache, sorted({host(u) for u in sys.argv[1:]} - API_HOSTS), quiet=True)

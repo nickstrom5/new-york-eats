@@ -868,7 +868,7 @@ window.APP_STORE_URL = "";
       const pests = (n.p || "").split(",").map((x) => ({ "04K": "rats", "04L": "mice", "04M": "roaches" })[x]).filter(Boolean);
       html += section("Health inspections · NYC Health Department", head
         + kv("Latest inspection", n.d ? niceDate(n.d) : "") + kv("Score at that inspection", n.s != null ? `${n.s} points (lower is better)` : "")
-        + kv("Critical violations cited", n.c != null ? String(n.c) : "") + kv("Pests cited in the last year", pests.join(", "))
+        + kv("Critical violations cited", n.c != null ? String(n.c) : "") + kv("Pests cited in the year up to that inspection", pests.join(", "))
         + kv("Closed by the Health Department", n.x ? niceDate(n.x) : "")
         + `<p class="ex-fine">Grades are the Health Department's own: A, B or C, posted at the restaurant (N = not yet graded, Z = grade pending, P = pending on re-opening). A grade comes from a graded inspection, so it can be older than the latest visit. We never compute one from a score. Source: NYC Open Data, records through ${esc(niceDate(RT.nyc))}.</p>`
         + `<p class="ex-fine"><a href="${ABCEATS}" rel="noopener" target="_blank">Full inspection history on ABCEats</a></p>`, " ex-nyc");

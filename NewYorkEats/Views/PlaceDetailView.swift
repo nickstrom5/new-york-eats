@@ -177,7 +177,7 @@ struct PlaceDetailView: View {
                 if let d = n.d { kv("Latest inspection", Self.date(d)) }
                 if let s = n.s { kv("Score at that inspection", "\(s) points (lower is better)") }
                 if let c = n.c { kv("Critical violations cited", "\(c)") }
-                if !n.pestNames.isEmpty { kv("Pests cited in the last year", n.pestNames.joined(separator: ", ")) }
+                if !n.pestNames.isEmpty { kv("Pests cited in the year up to that inspection", n.pestNames.joined(separator: ", ")) }
                 if let x = n.x { kv("Closed by the Health Department", Self.date(x)) }
                 Text("Grades are the Health Department's own: A, B or C, posted at the restaurant (N = not yet graded, Z = grade pending, P = pending on re-opening). A grade comes from a graded inspection, so it can be older than the latest visit. Source: NYC Open Data, records through \(Self.date(model.recordsThrough?.nyc ?? "")).")
                     .font(.caption).foregroundStyle(Theme.muted)
@@ -265,9 +265,9 @@ struct PlaceDetailView: View {
     }
 
     static func date(_ iso: String) -> String {
-        let f = DateFormatter(); f.dateFormat = "yyyy-MM-dd"; f.locale = Locale(identifier: "en_US_POSIX")
+        let f = DateFormatter(); f.dateFormat = "yyyy-MM-dd"; f.locale = Locale(identifier: "en_US_POSIX"); f.timeZone = .gmt   // a day, not an instant: GMT has every midnight
         guard let d = f.date(from: iso) else { return iso }
-        return d.formatted(date: .abbreviated, time: .omitted)
+        return d.formatted(Date.FormatStyle(date: .abbreviated, time: .omitted, timeZone: .gmt))
     }
 
     private func lines(_ s: String?, prefix: String) -> [String] {

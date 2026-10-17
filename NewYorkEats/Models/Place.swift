@@ -56,7 +56,7 @@ struct NYCInspection: Decodable, Hashable {
     let d: String?
     let s: Int?
     let c: Int?
-    /// pests cited in the last year: 04K rats, 04L mice, 04M roaches ("conditions conducive" is not counted)
+    /// pests cited in the year up to the latest inspection: 04K rats, 04L mice, 04M roaches ("conditions conducive" is not counted)
     let p: String?
     /// latest date DOHMH closed the place
     let x: String?

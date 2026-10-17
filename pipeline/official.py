@@ -230,7 +230,7 @@ def _suffolk():
                                               "dates": set(), "n": 0, "geo": f.get("geometry")})
         b["n"] += 1
         if a.get("Inspection_Date"):
-            b["dates"].add(pd.Timestamp(a["Inspection_Date"], unit="ms").strftime("%Y-%m-%d"))
+            b["dates"].add(pd.Timestamp(a["Inspection_Date"], unit="ms", tz="UTC").tz_convert("America/New_York").strftime("%Y-%m-%d"))
     rows = []
     for fid, b in by.items():
         g = b["geo"]

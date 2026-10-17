@@ -237,7 +237,7 @@ s = s[:a] + r'''  const honorsList = [...(r.mi ? [MI_TXT[r.mi] + " · MICHELIN G
   const nyc = r.nd || r.gl ? `<div class="dsec"><h3>Health inspections · NYC Department of Health (DOHMH)</h3>
       ${r.gl ? `<div class="hero" style="margin:0 0 10px">${ngPill(r.gl)}<span class="lbl">${esc(GR_TXT[r.gl] || r.gl)} · official letter grade${r.gd ? ", graded " + esc(r.gd) : ""}</span></div>` : `<p class="note">No letter grade on file yet.</p>`}
       ${kv([r.nd ? ["Latest inspection", esc(r.nd)] : null, r.ns != null ? ["Score at that inspection", fmtN(r.ns) + " violation points (lower is better)"] : null,
-            r.nc != null ? ["Critical violations cited", fmtN(r.nc)] : null, r.np ? ["Pests cited in the last year", esc(r.np.split(",").map(c => ({"04K":"rats","04L":"mice","04M":"roaches"})[c] || c).join(", "))] : null,
+            r.nc != null ? ["Critical violations cited", fmtN(r.nc)] : null, r.np ? ["Pests cited in the year up to that inspection", esc(r.np.split(",").map(c => ({"04K":"rats","04L":"mice","04M":"roaches"})[c] || c).join(", "))] : null,
             r.nx ? ["Closed by DOHMH", esc(r.nx) + (x.reopened ? ` · re-opened ${esc(x.reopened)}` : "")] : null])}
       <p class="note">Grades are DOHMH's own, posted at the restaurant (A, B, C; N = not yet graded, Z = grade pending, P = pending on re-opening); we never compute a grade from the score. Source: NYC Open Data “DOHMH New York City Restaurant Inspection Results”, records through ${esc(META.records_through?.nyc || "")}. Full history at <a href="https://a816-health.nyc.gov/ABCEatsRestaurants/" target="_blank" rel="noopener">ABCEats</a>.</p></div>` : "";
   const stt = r.sd ? `<div class="dsec"><h3>Health inspections · NYSDOH ${x.lhd ? "· " + esc(x.lhd) : ""}</h3>

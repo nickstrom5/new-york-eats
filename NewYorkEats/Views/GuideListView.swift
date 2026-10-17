@@ -201,9 +201,9 @@ struct PlaceChips: View {
 
     /// "2025-02-25" -> "Feb 2025"
     static func monthYear(_ iso: String) -> String {
-        let f = DateFormatter(); f.dateFormat = "yyyy-MM-dd"; f.locale = Locale(identifier: "en_US_POSIX")
+        let f = DateFormatter(); f.dateFormat = "yyyy-MM-dd"; f.locale = Locale(identifier: "en_US_POSIX"); f.timeZone = .gmt   // a day, not an instant
         guard let d = f.date(from: iso) else { return iso }
-        let o = DateFormatter(); o.dateFormat = "MMM yyyy"; o.locale = Locale(identifier: "en_US_POSIX")
+        let o = DateFormatter(); o.dateFormat = "MMM yyyy"; o.locale = Locale(identifier: "en_US_POSIX"); o.timeZone = .gmt
         return o.string(from: d)
     }
 }

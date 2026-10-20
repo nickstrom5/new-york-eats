@@ -36,7 +36,7 @@ DOCS = f"{ROOT}/docs"
 # Where the site lives. Today: GitHub Pages at the project address, because newyork.eatsranked.com has no DNS record yet.
 # Once Nick adds the Cloudflare record (CNAME newyork -> nickstrom5.github.io, DNS only) and `dig` shows it, set
 # CUSTOM_DOMAIN = "newyork.eatsranked.com", re-run, push, and switch NewYorkEats/App/Links.swift with it.
-CUSTOM_DOMAIN = None
+CUSTOM_DOMAIN = "newyork.eatsranked.com"
 DOMAIN = f"https://{CUSTOM_DOMAIN}" if CUSTOM_DOMAIN else "https://nickstrom5.github.io/new-york-eats"
 BASE = "" if CUSTOM_DOMAIN else "/new-york-eats"     # path prefix for root-relative links
 BRAND = "New York Eats"

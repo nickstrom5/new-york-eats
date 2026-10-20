@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nickstrom5.github.io/new-york-eats/sitemap.xml
+Sitemap: https://newyork.eatsranked.com/sitemap.xml

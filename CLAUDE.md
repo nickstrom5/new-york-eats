@@ -102,4 +102,4 @@ Other sessions run scripts with the same names (`listings.py`, `official.py`): n
 
 ## Outward actions need Nick's explicit yes, every time
 Creating repos, pushing, Pages, anything in App Store Connect, uploads, emails, records requests. Never submit for review or accept
-agreements. Public commits use `329204362+nickstrom5@users.noreply.github.com`. Support email: work-with-nick@gmail.com.
+agreements. Public commits use `329204362+nickstrom5@users.noreply.github.com`. Support email: nick@eatsranked.com.

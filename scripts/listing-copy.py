@@ -59,7 +59,7 @@ Every place in the New York guides was checked by hand in October 2026 against a
 PRIVATE BY DESIGN
 No account, no tracking, no ads. Your location, if you share it, only sorts lists on your device. Saved places stay on your device.
 
-Places open and close, and some upstate stands are seasonal, so check before you go. Spot a mistake? Email work-with-nick@gmail.com.
+Places open and close, and some upstate stands are seasonal, so check before you go. Spot a mistake? Email nick@eatsranked.com.
 
 An independent app, not affiliated with any restaurant or chain, the State or City of New York or any of their agencies, Michelin, or the James Beard Foundation. MICHELIN and the MICHELIN Guide are trademarks of Michelin. James Beard Foundation and James Beard Award are trademarks of the James Beard Foundation. Place data from Overture Maps Foundation (CDLA Permissive 2.0) and others; sources and licenses are on the About tab."""
 
@@ -84,13 +84,13 @@ REPLY = f"""Thank you. Here is the information requested. A screen recording fro
 - Core Location: optional, on-device only, for distance sorting. Core Spotlight: on-device indexing for iPhone search.
 - No backend, accounts, analytics, advertising, payments or AI services. The restaurant data is bundled in the app.
 - Bundled data: Overture Maps open place data (CDLA Permissive 2.0 / Apache 2.0 / CC0; licenses in the app); public records from the NYC and New York State health departments, Suffolk County, the State Liquor Authority (trade names only) and the City of Buffalo; Census boundaries; MICHELIN and James Beard records (facts only); and our research.
-- The website with the privacy policy and support page is static and hosted on GitHub Pages: https://nickstrom5.github.io/new-york-eats/
+- The website with the privacy policy and support page is static and hosted on GitHub Pages: https://newyork.eatsranked.com/
 
 5. Regional differences: none. The content covers New York State; the app is offered in the United States and works the same everywhere.
 
 6. Regulated or protected material: the app is not in a regulated industry and includes no protected third-party material. The data is open-licensed or public record, with attribution and licenses on the About tab. Ratings, hours and photos appear only in Apple's own place card through MapKit; the app stores no ratings or reviews. Inspection results are shown as their agencies publish them, each with its date: New York City's official letter grades, and elsewhere the state's inspection counts with the Health Department's own disclaimer; the app computes no grade. Every website link was checked before release; adult venues are excluded. The app is independent and not affiliated with any restaurant, government agency, Michelin or the James Beard Foundation.
 
-Support: work-with-nick@gmail.com"""
+Support: nick@eatsranked.com"""
 
 name_words = set(re.findall(r"[a-z]+", (NAME + " " + SUB).lower()))
 kw_words = set(re.findall(r"[a-z]+", KEYWORDS))
@@ -146,8 +146,8 @@ Primary Food & Drink, secondary Travel. Availability: United States. Price: Free
 
 ## App Store Connect fields
 - Version: `1.0.0` (must equal the build's CFBundleShortVersionString; App Store Connect defaults to "1.0"). Bundle ID `com.newyorkeats.ios`.
-- Support and Marketing URL: https://nickstrom5.github.io/new-york-eats/ ; Privacy Policy URL (on the App Privacy page):
-  https://nickstrom5.github.io/new-york-eats/privacy.html. Switch all three to newyork.eatsranked.com once that CNAME resolves.
+- Support and Marketing URL: https://newyork.eatsranked.com/ ; Privacy Policy URL (on the App Privacy page):
+  https://newyork.eatsranked.com/privacy.html.
 - Copyright: `© 2026 Nicholas Soderstrom`. Sign-in required: untick. Contact: Nick's name, email and phone (private to App Review).
 - Content rights: Yes, third-party content, with the rights (open data, public records, Apple's place card).
 - App Privacy: Data Not Collected. Tracking: No.

@@ -27,7 +27,7 @@ import requests
 OUT = os.path.join(os.path.dirname(__file__), "..", "data", "raw", "official")
 os.makedirs(OUT, exist_ok=True)
 S = requests.Session()
-S.headers["User-Agent"] = "ny-eats data pipeline (work-with-nick@gmail.com)"
+S.headers["User-Agent"] = "ny-eats data pipeline (nick@eatsranked.com)"
 HIST_FROM = "2023-01-01"
 ONLY = set(sys.argv[1:])   # e.g. `fetch_official.py dohmh sla_active` refreshes just those
 

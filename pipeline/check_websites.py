@@ -43,7 +43,7 @@ OUT = f"{ROOT}/data/ny/website_check.json"
 RULES = 2            # bump when the rules change: every cached verdict from older rules is fetched again
 RECHECK_DAYS = 14
 TODAY = datetime.date.today().isoformat()
-UA = "NewYorkEatsLinkCheck/1.0 (+https://newyork.eatsranked.com/; work-with-nick@gmail.com)"
+UA = "NewYorkEatsLinkCheck/1.0 (+https://newyork.eatsranked.com/; nick@eatsranked.com)"
 GENERIC = set("""the and of a an at on in restaurant restaurants bar bars grill grille cafe caffe coffee pizza pizzeria pub tavern house
 supper club inn lounge kitchen bistro eatery diner bakery deli market express food foods co company inc llc ltd corp ny nyc new york brooklyn queens bronx manhattan
 family original new old north south east west st saint mt sports place spot shop shoppe taproom brewing brewery

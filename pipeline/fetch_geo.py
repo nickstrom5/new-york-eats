@@ -24,7 +24,7 @@ from shapely.ops import unary_union
 NY = os.path.join(os.path.dirname(__file__), "..", "data", "ny")
 GEO = os.path.join(NY, "geo")
 os.makedirs(GEO, exist_ok=True)
-UA = {"User-Agent": "ny-eats data pipeline (work-with-nick@gmail.com)"}
+UA = {"User-Agent": "ny-eats data pipeline (nick@eatsranked.com)"}
 
 REGIONS = {
     "New York City": ["Bronx", "Kings", "New York", "Queens", "Richmond"],

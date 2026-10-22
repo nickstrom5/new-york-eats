@@ -18,6 +18,8 @@ final class AppModel {
     /// boroughs, cities, villages and hamlets sorted by how many restaurants they have
     private(set) var towns: [(name: String, count: Int)] = []
     private(set) var cuisines: [(name: String, count: Int)] = []
+    /// Bib Gourmand places (non-restaurants left out, like the other counts): the Filters switch shows only when there are some.
+    private(set) var bibCount = 0
     /// city -> its region (a name shared by two regions keeps the one with more places)
     private(set) var townRegions: [String: String] = [:]
     /// normalized town name -> display name ("saratoga springs" -> "Saratoga Springs")
@@ -118,6 +120,7 @@ final class AppModel {
         townRegions = tr.compactMapValues { $0.max { $0.value < $1.value }?.key }
         towns = tc.map { ($0.key, $0.value) }.sorted { $0.count != $1.count ? $0.count > $1.count : $0.name < $1.name }
         cuisines = cc.map { ($0.key, $0.value) }.sorted { $0.count != $1.count ? $0.count > $1.count : $0.name < $1.name }
+        bibCount = places.lazy.filter { !$0.isVenue && $0.michelin == .bib }.count
         var keys: [String: String] = [:]
         for (name, _) in towns {   // the biggest place wins a shared spelling
             let k = Search.normalizeAddress(name)
@@ -132,6 +135,7 @@ final class AppModel {
         villageKeys = vk
         if let t = filters.town, tc[t] == nil { filters.town = nil }
         if let c = filters.cuisine, cc[c] == nil { filters.cuisine = nil }
+        if filters.bibGourmand && bibCount == 0 { filters.bibGourmand = false }
         if let r = filters.region, !regions.contains(r) { filters.region = nil }
         isLoaded = true
     }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20",
+ "generated": "2026-10-22",
  "data_generated": "2026-10-07",
  "domain": "https://newyork.eatsranked.com",
  "og_line": "Slices, bagels & 61,100 restaurants",
@@ -50,7 +50,7 @@
   "Westchester"
  ],
  "website_links_verified": true,
- "website_links_shown": 27299,
+ "website_links_shown": 27662,
  "website_blocklist": {
   "entries": 208,
   "links_dropped": {
@@ -272,80 +272,80 @@
    "gzip": 663276
   },
   "detail-new-york-city.json": {
-   "bytes": 3004811,
-   "gzip": 719210
+   "bytes": 3014603,
+   "gzip": 721268
   },
   "core-long-island.json": {
    "bytes": 630840,
    "gzip": 150786
   },
   "detail-long-island.json": {
-   "bytes": 765762,
-   "gzip": 188591
+   "bytes": 768927,
+   "gzip": 189127
   },
   "core-mid-hudson.json": {
    "bytes": 523320,
    "gzip": 138475
   },
   "detail-mid-hudson.json": {
-   "bytes": 810877,
-   "gzip": 184368
+   "bytes": 812077,
+   "gzip": 184566
   },
   "core-capital-region.json": {
    "bytes": 248735,
    "gzip": 69689
   },
   "detail-capital-region.json": {
-   "bytes": 390127,
-   "gzip": 91411
+   "bytes": 390674,
+   "gzip": 91541
   },
   "core-mohawk-valley.json": {
    "bytes": 114913,
    "gzip": 34241
   },
   "detail-mohawk-valley.json": {
-   "bytes": 195456,
-   "gzip": 43192
+   "bytes": 196088,
+   "gzip": 43302
   },
   "core-north-country.json": {
    "bytes": 102188,
    "gzip": 31040
   },
   "detail-north-country.json": {
-   "bytes": 168398,
-   "gzip": 38833
+   "bytes": 168661,
+   "gzip": 38901
   },
   "core-central-new-york.json": {
    "bytes": 194780,
    "gzip": 55566
   },
   "detail-central-new-york.json": {
-   "bytes": 385425,
-   "gzip": 80832
+   "bytes": 386092,
+   "gzip": 81046
   },
   "core-southern-tier.json": {
    "bytes": 138923,
    "gzip": 40355
   },
   "detail-southern-tier.json": {
-   "bytes": 253130,
-   "gzip": 54429
+   "bytes": 252978,
+   "gzip": 54322
   },
   "core-finger-lakes.json": {
    "bytes": 278397,
    "gzip": 73966
   },
   "detail-finger-lakes.json": {
-   "bytes": 535026,
-   "gzip": 114009
+   "bytes": 535123,
+   "gzip": 113952
   },
   "core-western-new-york.json": {
    "bytes": 306685,
    "gzip": 80053
   },
   "detail-western-new-york.json": {
-   "bytes": 413388,
-   "gzip": 97024
+   "bytes": 413819,
+   "gzip": 97068
   },
   "guides.json": {
    "bytes": 75364,

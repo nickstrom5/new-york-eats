@@ -46,6 +46,11 @@ Read `../STATE_EATS_PLAYBOOK.md`, `../state-prompts/NEW_YORK_PROMPT.md` and `pla
 - Guides list only **hand-checked** places (`data/research/app/*.json`, each with a 2025–26 source; see `data/research/README.md`).
   Honors (MICHELIN 2025 selection, James Beard 2023–26, America's Classics) are facts, never star ratings. Honorees with no 2025–26
   evidence of being open only annotate an existing listing.
+- Hijacked pages (QA 2026-10-19, P1 #4; ported 2026-10-21): `check_websites.py` runs `pipeline/injection.py`, Wisconsin's detector, on every
+  page (planted casino, betting, adult, pharma and link-farm links, visible, hidden or off-screen; other-language gambling text; parked
+  and default pages). Keep it identical to `../wi-eats/pipeline/injection.py`; `test_injection.py` must pass. `--recheck-ok` fetches every
+  passing page again before each submission (resumable: pages re-checked in the last 2 days are skipped), `--retry-transient` re-fetches
+  429s and connection errors afterwards, and `CHECK_WORKERS=4` slows a run (Squarespace rate-limits across all our concurrent checkers).
 - `pipeline/website_blocklist.json` (hacked sites with hidden casino or pharmacy links, expired domains, another business's page; from
   the 2026-10-12 link sweep) applies everywhere: stage 2 drops those links from the app and leaderboard exports (and asserts none ship),
   `scripts/make-site.py` from the website. New entries need only a re-run.

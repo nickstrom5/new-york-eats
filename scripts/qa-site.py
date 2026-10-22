@@ -179,7 +179,7 @@ def read_cols(d):
         gd = g("gd")
         rows.append({"id": g("id"), "n": g("n"), "c": lk("cities", g("c")), "co": g("co"), "cu": lk("cuisines", g("cu")), "t": g("t") or 0,
                      "la": None if g("la") is None else (g("la") + d["la0"]) / 1e5, "lo": None if g("lo") is None else (g("lo") + d["lo0"]) / 1e5,
-                     "a": g("a"), "pl": lk("mailing", g("pl")), "hd": lk("hoods", g("hd")), "ch": g("ch") or 1, "v": g("v") == 1, "hc": g("hc") or 0, "k": g("k") or 0, "ip": g("ip"), "f": g("f"),
+                     "a": g("a"), "pl": lk("mailing", g("pl")), "hd": lk("hoods", g("hd")), "ch": g("ch") or 1, "v": g("v") == 1, "hc": g("hc") or 0, "k": g("k") or 0, "ip": g("ip"), "f": g("f"), "mi": g("mi"),
                      "br": g("br"), "ng": g("ng"), "gd": None if gd is None else (datetime.date(2000, 1, 1) + datetime.timedelta(days=gd)).isoformat(),
                      "ri": g("ri"), "rr": g("rr") if g("rr") is not None else i})
     return rows
@@ -722,6 +722,27 @@ def check_explore(page, base, width, data, problems, errors):
         want = {key(r) for r in data.guides if r["id"] in data.guide_ids(kinds)}
         if got != want:
             problems.append(f"{where}: the {g} guide shows {len(got)} places, expected the {len(want)} hand-checked ones")
+
+    # 1b. the Bib Gourmand box, statewide: exactly the MICHELIN Bib Gourmands (mi 2, a guide row or a region row), nothing else
+    bibs = {key(r) for r in data.guides + data.all if r["mi"] == 2 and not r["v"]}
+    fresh("g=all&r=all&bib=1")
+    wait_js(page, "(n) => document.querySelector('#ex-count').textContent.startsWith(n + ' place')", 30000, f"{len(bibs):,}")
+    got = all_rows(page)
+    box = page.locator("#ex-bibwrap")
+    if not bibs:
+        problems.append(f"{where}: the data has no Bib Gourmand (mi 2) places")
+    elif {r["key"] for r in got} != bibs:
+        problems.append(f"{where}: Bib Gourmand shows {len(got)} places, expected the {len(bibs)} with mi 2 "
+                        f"(extra {sorted({r['key'] for r in got} - bibs)[:3]}, missing {sorted(bibs - {r['key'] for r in got})[:3]})")
+    if not box.is_visible() or box.inner_text().strip() != f"Bib Gourmand ({len(bibs):,})" or not page.locator("#ex-bib").is_checked():
+        problems.append(f"{where}: the Bib Gourmand box isn't shown ticked as 'Bib Gourmand ({len(bibs):,})' ({box.inner_text().strip()!r})")
+    tags = page.evaluate("[...document.querySelectorAll('#ex-list .ex-row')].map(r => [...r.querySelectorAll('.tag-hon')].map(t => t.textContent))")
+    wrong = [t for t in tags if "Bib Gourmand" not in t or any("MICHELIN Star" in x for x in t)]
+    if wrong:
+        problems.append(f"{where}: Bib Gourmand rows without the Bib Gourmand tag, or with stars: {wrong[:3]}")
+    page.locator("#ex-bib").uncheck()
+    if not wait_js(page, "(n) => !document.querySelector('#ex-count').textContent.startsWith(n + ' place')", 5000, f"{len(bibs):,}"):
+        problems.append(f"{where}: unticking Bib Gourmand didn't bring the whole list back")
 
     # 2. the region picker loads a region's file and lists only that region; the count is the region's restaurants
     fresh("g=all&r=new-york-city")

@@ -41,6 +41,13 @@ struct FiltersSheet: View {
                 } footer: {
                     Text("That means on an official list (an NYC or New York State health permit, a Suffolk County inspection, a Buffalo or liquor license), a high-confidence map listing, or hand-checked by us. Non-restaurants are gas-station and grocery counters, stadium and campus dining, clubs and the like.")
                 }
+                // a fact from the MICHELIN Guide, not a rating; shown only when the data has Bib Gourmand places (below the
+                // Show switches, so the half-height sheet keeps those in view)
+                if model.bibCount > 0 {
+                    Section("MICHELIN Guide") {
+                        Toggle("Bib Gourmand (\(model.bibCount.formatted()))", isOn: $model.filters.bibGourmand)
+                    }
+                }
                 if model.filters.activeCount > 0 {
                     Section { Button("Clear all filters", role: .destructive) { model.filters = Filters() } }
                 }

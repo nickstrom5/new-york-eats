@@ -76,6 +76,14 @@ CAL_COUNTIES = {c["county"]: c for c in json.load(open(f"{ROOT}/data/ny/calibrat
 # exists, only the hand-checked research's own links are shown: no link beats a wrong link (the playbook's hijacked-domain lesson).
 WEB_CHECK_FILE = f"{ROOT}/data/ny/website_check.json"
 WEB_CHECK = json.load(open(WEB_CHECK_FILE)) if os.path.exists(WEB_CHECK_FILE) else None
+if WEB_CHECK is not None:
+    # the export strips tracking tags (pipeline/tracking_params.py) after the check ran on the tagged URL: the same page, so the
+    # cleaned URL keeps that verdict (otherwise 622 good links vanished). The next check run records the cleaned URLs themselves.
+    import sys
+    sys.path.insert(0, f"{ROOT}/pipeline")
+    import tracking_params
+    for _url, _verdict in list(WEB_CHECK.items()):
+        WEB_CHECK.setdefault(tracking_params.clean(_url), _verdict)
 # Websites the site never links, whatever the link check said (pipeline/website_blocklist.json: hacked with hidden casino or pharmacy
 # links, expired, or another business's page): [{"domain", "match": "domain" (it and every subdomain) | "url" (that page only, for one
 # site on a shared host; give "url" too), "place", "reason", "severity", "evidence", "found"}]. Only the link goes, never the place: it

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22",
+ "generated": "2026-10-24",
  "data_generated": "2026-10-07",
  "domain": "https://newyork.eatsranked.com",
  "og_line": "Slices, bagels & 61,100 restaurants",
@@ -272,80 +272,80 @@
    "gzip": 663276
   },
   "detail-new-york-city.json": {
-   "bytes": 3014603,
-   "gzip": 721268
+   "bytes": 3002147,
+   "gzip": 719810
   },
   "core-long-island.json": {
    "bytes": 630840,
    "gzip": 150786
   },
   "detail-long-island.json": {
-   "bytes": 768927,
-   "gzip": 189127
+   "bytes": 763991,
+   "gzip": 188570
   },
   "core-mid-hudson.json": {
    "bytes": 523320,
    "gzip": 138475
   },
   "detail-mid-hudson.json": {
-   "bytes": 812077,
-   "gzip": 184566
+   "bytes": 808319,
+   "gzip": 183931
   },
   "core-capital-region.json": {
    "bytes": 248735,
    "gzip": 69689
   },
   "detail-capital-region.json": {
-   "bytes": 390674,
-   "gzip": 91541
+   "bytes": 387340,
+   "gzip": 91004
   },
   "core-mohawk-valley.json": {
    "bytes": 114913,
    "gzip": 34241
   },
   "detail-mohawk-valley.json": {
-   "bytes": 196088,
-   "gzip": 43302
+   "bytes": 194693,
+   "gzip": 43183
   },
   "core-north-country.json": {
    "bytes": 102188,
    "gzip": 31040
   },
   "detail-north-country.json": {
-   "bytes": 168661,
-   "gzip": 38901
+   "bytes": 167396,
+   "gzip": 38813
   },
   "core-central-new-york.json": {
    "bytes": 194780,
    "gzip": 55566
   },
   "detail-central-new-york.json": {
-   "bytes": 386092,
-   "gzip": 81046
+   "bytes": 383990,
+   "gzip": 80801
   },
   "core-southern-tier.json": {
    "bytes": 138923,
    "gzip": 40355
   },
   "detail-southern-tier.json": {
-   "bytes": 252978,
-   "gzip": 54322
+   "bytes": 251112,
+   "gzip": 54119
   },
   "core-finger-lakes.json": {
    "bytes": 278397,
    "gzip": 73966
   },
   "detail-finger-lakes.json": {
-   "bytes": 535123,
-   "gzip": 113952
+   "bytes": 531648,
+   "gzip": 113658
   },
   "core-western-new-york.json": {
    "bytes": 306685,
    "gzip": 80053
   },
   "detail-western-new-york.json": {
-   "bytes": 413819,
-   "gzip": 97068
+   "bytes": 410316,
+   "gzip": 96749
   },
   "guides.json": {
    "bytes": 75364,

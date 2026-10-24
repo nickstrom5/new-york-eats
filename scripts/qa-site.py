@@ -241,6 +241,11 @@ def check_static_pages(data, problems):
     rt_ok = {nice_date(v) for v in rt.values()}
     wc_file = os.path.join(ROOT, "data", "ny", "website_check.json")
     link_ok = json.load(open(wc_file)) if os.path.exists(wc_file) else None   # pipeline/check_websites.py's verdict per link
+    if link_ok is not None:   # the same page without its tracking tags keeps the verdict, as in make-site.py
+        sys.path.insert(0, os.path.join(ROOT, "pipeline"))
+        import tracking_params
+        for _url, _verdict in list(link_ok.items()):
+            link_ok.setdefault(tracking_params.clean(_url), _verdict)
     vouched = lambda r, href: (link_ok.get(href) or {}).get("ok") if link_ok is not None else (r["hc"] == 1 and r["k"])
     for f in all_html():
         name = os.path.relpath(f, DOCS)

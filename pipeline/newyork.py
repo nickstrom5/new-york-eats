@@ -24,6 +24,7 @@ from official import street_key, street_nums, ON_PREMISE
 from listings_util import official_match, _close_words
 from check_websites import bad_host
 import tracking_params   # outbound links lose their tracking tags (QA 2026-10-23, P1 #3)
+import link_blocklist   # no blocklisted link in any field of the app data, "src" included (as Florida's export, 2026-10-20)
 
 APP = os.environ.get("NY_APP") == "1"
 SITE = os.environ.get("NY_SITE") or (os.path.join(ROOT, "data", "app") if APP else os.path.join(ROOT, "site"))
@@ -1298,6 +1299,8 @@ if APP:
     json.dump(link_cands, open(f"{NY}/website_candidates.json", "w"), indent=0, ensure_ascii=False)
     # tracking tags (ref=google, utm_*, cn_channel …) off every outbound link; the store's own parameters stay (tracking_params.py)
     tp_changes = tracking_params.scrub(list(places_by.values()))
+    bl_drops = link_blocklist.scrub(list(places_by.values()))
+    print("blocklisted links dropped:", dict(bl_drops))
     print("tracking tags stripped:", dict(tp_changes))
     os.makedirs(SITE, exist_ok=True)
     index = {"v": 1, **meta_common, "cities": CITIES, "mailing": PLACES, "hoods": HOODS, "munis": MUNIS, "cuisines": CUIS, "brands": BRANDS,

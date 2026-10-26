@@ -51,7 +51,8 @@ EMAIL = "nick@eatsranked.com"
 APP_STORE_URL = ""
 TODAY = datetime.date.today().isoformat()
 CHECKED = "October 2026"
-PRIVACY_UPDATED = TERMS_UPDATED = "2026-10-07"
+TERMS_UPDATED = "2026-10-07"
+PRIVACY_UPDATED = "2026-10-26"   # the app's data updates (OTA-DATA.md)
 MONTHS = "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split()
 # NYSDOH's own words (health.data.ny.gov cnih-y5dw), quoted verbatim wherever its counts appear, plus ours
 NYSDOH_DISCLAIMER = ("Any use of this data to develop a restaurant grading system is not supported or endorsed by the New York State "
@@ -1905,6 +1906,7 @@ body = f"""{nav}
       <li><b>Location.</b> If you allow it, your location is used on your device to sort places by distance and show where you are on the map. It is never sent to us. You can turn it off in Settings at any time.</li>
       <li><b>Saved places and filters</b> are stored only on your device and are deleted when you delete the app.</li>
       <li><b>Apple Maps.</b> When you open a place's hours and photos, or ask for directions, the app asks Apple Maps for that place. Apple handles that request under <a href="https://www.apple.com/legal/privacy/" rel="noopener">Apple's privacy policy</a>, as it does for any app that shows a map.</li>
+      <li><b>Data updates.</b> When you open the app, it checks this website for newer restaurant data, at most once a day (or an hour later if a check didn't go through), and downloads it when there is some. These requests carry no location or identifiers. GitHub, which hosts this site, may keep standard server logs of them, as it does for any visit here.</li>
       <li><b>Spotlight.</b> The app may add its hand-checked places to your device's search index so you can find them from Spotlight. That index stays on your device.</li>
       <li><b>Calls, websites, and email</b> you start from a place open in the Phone app, your browser or Mail, and are handled by them.</li>
     </ul>

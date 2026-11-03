@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "version": "2026-10-07.1",
+ "version": "2026-10-07.2",
  "records_through": "2026-10-07",
- "published": "2026-10-26T20:23:10Z",
+ "published": "2026-11-03T13:15:20Z",
  "min_app_build": 1,
  "files": {
   "index": {
-   "path": "index-2a8bd31d5079.json",
-   "sha256": "2a8bd31d507958c954cf8b752618d83c341a2b92e4e4b224d5e889459049c8b3",
+   "path": "index-36883fc94ee6.json",
+   "sha256": "36883fc94ee63927af810e13644bf3ce851a4056e9e52503eb53406e02043c8d",
    "bytes": 65406,
    "rows": 0
   },
@@ -48,28 +48,28 @@
    "rows": 1461
   },
   "places-new-york-city-bronx": {
-   "path": "places-new-york-city-bronx-d198f0b9191a.json",
-   "sha256": "d198f0b9191a84358f286fd53b3a037fd3bfb138e487130d41a7f014d8401b9a",
-   "bytes": 699013,
+   "path": "places-new-york-city-bronx-db33a9b90222.json",
+   "sha256": "db33a9b90222a3bc252c0bde5a25980349b49cb5d9026cddafbb614ccc61083e",
+   "bytes": 698948,
    "rows": 2717
   },
   "places-new-york-city-brooklyn": {
-   "path": "places-new-york-city-brooklyn-57f21ba07ce6.json",
-   "sha256": "57f21ba07ce656f9f91105bbab536b82627359001ac28ca7567cd7b827808e5d",
-   "bytes": 2086950,
-   "rows": 8269
+   "path": "places-new-york-city-brooklyn-1ad8bdd06d24.json",
+   "sha256": "1ad8bdd06d24ffa17fd31ce0a52a56d031929f0ae024b444dcf33a4c9e1ad072",
+   "bytes": 2086396,
+   "rows": 8267
   },
   "places-new-york-city-manhattan": {
-   "path": "places-new-york-city-manhattan-2c95ede7b25f.json",
-   "sha256": "2c95ede7b25f83148743c58bb3ab9f5b52d621d845fc3785b9bc1c8c0dba7821",
-   "bytes": 3161778,
-   "rows": 12356
+   "path": "places-new-york-city-manhattan-6057fbf4087a.json",
+   "sha256": "6057fbf4087ac1566f6aac388acfde42831c3907d63ca9747cd67a7ff92d6c66",
+   "bytes": 3160928,
+   "rows": 12353
   },
   "places-new-york-city-queens": {
-   "path": "places-new-york-city-queens-4b7b2f525c9a.json",
-   "sha256": "4b7b2f525c9ad76c4caa3830abac167c78b6627bc002bfb84a194fbb01cad663",
-   "bytes": 1873976,
-   "rows": 7237
+   "path": "places-new-york-city-queens-2b534880463a.json",
+   "sha256": "2b534880463ab36ed1ebcd7d6271e476db5ae98515bd9a38c1f2b377414051b5",
+   "bytes": 1873726,
+   "rows": 7236
   },
   "places-new-york-city-staten-island": {
    "path": "places-new-york-city-staten-island-bcd85c7492a5.json",
@@ -90,16 +90,36 @@
    "rows": 1792
   },
   "places-western-new-york": {
-   "path": "places-western-new-york-01924cb32649.json",
-   "sha256": "01924cb326494c362ed46beb42983b0e6c7afa234eeb0978b4e47e129b7d7ab7",
-   "bytes": 911888,
-   "rows": 3759
+   "path": "places-western-new-york-e4087fdadb82.json",
+   "sha256": "e4087fdadb82bbc47dfc905b48322707be749956b438ab9e2dd77a9817e37386",
+   "bytes": 911662,
+   "rows": 3758
   }
  },
  "counts": {
-  "places": 63761,
+  "places": 63754,
   "files": 15,
-  "bytes": 16395490,
-  "restaurants": 61100
+  "bytes": 16393545,
+  "restaurants": 61093
+ },
+ "previous": {
+  "version": "2026-10-07.1",
+  "files": {
+   "index": "index-2a8bd31d5079.json",
+   "places-capital-region": "places-capital-region-8e246a9b47df.json",
+   "places-central-new-york": "places-central-new-york-d4912124b77e.json",
+   "places-finger-lakes": "places-finger-lakes-217f971b4e37.json",
+   "places-long-island": "places-long-island-498e7d4c6edf.json",
+   "places-mid-hudson": "places-mid-hudson-eba4a5a46124.json",
+   "places-mohawk-valley": "places-mohawk-valley-f4b857397ef3.json",
+   "places-new-york-city-bronx": "places-new-york-city-bronx-d198f0b9191a.json",
+   "places-new-york-city-brooklyn": "places-new-york-city-brooklyn-57f21ba07ce6.json",
+   "places-new-york-city-manhattan": "places-new-york-city-manhattan-2c95ede7b25f.json",
+   "places-new-york-city-queens": "places-new-york-city-queens-4b7b2f525c9a.json",
+   "places-new-york-city-staten-island": "places-new-york-city-staten-island-bcd85c7492a5.json",
+   "places-north-country": "places-north-country-a0acae4fc36d.json",
+   "places-southern-tier": "places-southern-tier-4e0f70e34b52.json",
+   "places-western-new-york": "places-western-new-york-01924cb32649.json"
+  }
  }
 }

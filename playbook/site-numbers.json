@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-26",
+ "generated": "2026-11-03",
  "data_generated": "2026-10-07",
  "domain": "https://newyork.eatsranked.com",
- "og_line": "Slices, bagels & 61,100 restaurants",
- "restaurants": 61100,
+ "og_line": "Slices, bagels & 61,093 restaurants",
+ "restaurants": 61093,
  "cities": 1555,
  "regions": 10,
  "records_through": {
@@ -24,11 +24,11 @@
  "oldest_known_year": 100,
  "michelin": 157,
  "james_beard": 116,
- "nyc_graded_abc": 22738,
+ "nyc_graded_abc": 22735,
  "nyc_grade_status": {
   "Z": 1179,
   "B": 1776,
-  "A": 20443,
+  "A": 20440,
   "C": 519,
   "N": 5,
   "P": 3
@@ -50,12 +50,10 @@
   "Westchester"
  ],
  "website_links_verified": true,
- "website_links_shown": 27662,
+ "website_links_shown": 27661,
  "website_blocklist": {
   "entries": 208,
-  "links_dropped": {
-   "iloveny.com": 10
-  },
+  "links_dropped": {},
   "matching_nothing": [
    "acaiberryfoods.com",
    "albertinakerr.org",
@@ -149,6 +147,7 @@
    "https://www.elks.org/lodges/home.cfm",
    "hydraulichearth.com",
    "ilforno.com",
+   "iloveny.com",
    "irelands32.com",
    "islandbagelbar.com",
    "itgo.com",
@@ -268,12 +267,12 @@
  },
  "data_files": {
   "core-new-york-city.json": {
-   "bytes": 2712635,
-   "gzip": 663276
+   "bytes": 2712135,
+   "gzip": 663191
   },
   "detail-new-york-city.json": {
-   "bytes": 3002147,
-   "gzip": 719810
+   "bytes": 3001339,
+   "gzip": 719474
   },
   "core-long-island.json": {
    "bytes": 630840,
@@ -340,20 +339,20 @@
    "gzip": 113658
   },
   "core-western-new-york.json": {
-   "bytes": 306685,
-   "gzip": 80053
+   "bytes": 306613,
+   "gzip": 80025
   },
   "detail-western-new-york.json": {
-   "bytes": 410316,
-   "gzip": 96749
+   "bytes": 410202,
+   "gzip": 96680
   },
   "guides.json": {
    "bytes": 75364,
-   "gzip": 25812
+   "gzip": 25782
   },
   "index.json": {
    "bytes": 35156,
-   "gzip": 12224
+   "gzip": 12233
   },
   "ny_shapes.json": {
    "bytes": 82363,
@@ -362,7 +361,7 @@
  },
  "regions_pages": {
   "New York City": {
-   "restaurants": 30976,
+   "restaurants": 30970,
    "hand_checked": 92,
    "honored_not_checked": 222,
    "slices": 24,
@@ -461,7 +460,7 @@
    "dimsum": 1
   },
   "Western New York": {
-   "restaurants": 3508,
+   "restaurants": 3507,
    "hand_checked": 32,
    "honored_not_checked": 2,
    "slices": 6,
@@ -474,21 +473,21 @@
  },
  "city_pages": {
   "Manhattan": {
-   "restaurants": 12069,
+   "restaurants": 12066,
    "region": "New York City",
    "hand_checked": 55,
    "honored_not_checked": 160,
    "nearby_shown": 6
   },
   "Brooklyn": {
-   "restaurants": 8117,
+   "restaurants": 8115,
    "region": "New York City",
    "hand_checked": 23,
    "honored_not_checked": 48,
    "nearby_shown": 6
   },
   "Queens": {
-   "restaurants": 6991,
+   "restaurants": 6990,
    "region": "New York City",
    "hand_checked": 7,
    "honored_not_checked": 13,

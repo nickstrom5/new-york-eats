@@ -169,7 +169,7 @@ final class NewYorkEatsTests: XCTestCase {
         XCTAssertGreaterThan(m.count(.icons), 150)
         XCTAssertEqual(Set(m.places.map(\.id)).count, m.places.count, "ids are unique")
         XCTAssertTrue(m.places.contains { $0.name.hasPrefix("Katz's") && $0.city == "Manhattan" && $0.handChecked })
-        XCTAssertFalse(m.places.contains { $0.name.range(of: #"gentlem[ae]n'?s club|strip club|exotic dancer"#, options: [.regularExpression, .caseInsensitive]) != nil },
+        XCTAssertFalse(m.places.contains { $0.name.range(of: #"gentlem[ae]n['’]?s? (?:club|lounge)|strip club|exotic dancer|spearmint rhino|bikini bar|\btopless\b|male exotic|\bgold club\b|centerfolds|peppermint hippo|stilettos? cabaret|^pumps(?: exotic bar)?$|showgirls|flash ?dancers|^sapphire(?: \d+)?$"#, options: [.regularExpression, .caseInsensitive]) != nil },
                        "adult clubs aren't restaurants")
         XCTAssertFalse(m.places.contains { ($0.website?.absoluteString ?? "").range(
             of: #"yelp\.com|business\.site|google\.com|groupon\.com|yellowpages\.com"#, options: .regularExpression) != nil },

@@ -1187,10 +1187,20 @@ for fx in fixes:
     hit = (o.name_out.str.upper() == fx["name"].upper()) & (o.city == fx["city"]) & o.street.fillna("").str.startswith(fx["street_number"] + " ")
     o.loc[hit, "name_out"] = fx["fixed"]
 webs = o.web.fillna("").astype(str) + " " + o.rsite.fillna("").astype(str)
-adult = (o.name_out.str.contains(r"gentlem[ae]n'?s club|exotic dancer|strip club|adult entertainment|\bscores\b(?= ny| new york)", case=False, regex=True)
+# QA 2026-10-29: "Gentlemen Club", "Gentleman's Lounge", topless and bikini bars, a male exotic cabaret and the Gold Club, Peppermint Hippo
+# and Stilettos brands got through, so they count too. Pumps (Brooklyn's topless bar) goes by its names: Manny's Grill shares 1089 Grand St.
+# Sapphire goes by its name too: a steakhouse shares 333 E 60th St
+adult = (o.name_out.str.contains(r"gentlem[ae]n['’]?s? (?:club|lounge)|exotic dancer|strip club|adult entertainment|\bscores\b(?= ny| new york)|"
+                                 r"bikini bar|\btopless\b|male exotic|\bgold club\b|centerfolds|peppermint hippo|stilettos? cabaret|^pumps(?: exotic bar)?$|showgirls|flash ?dancers|^sapphire(?: \d+)?$", case=False, regex=True)
          | (o.name_out.str.contains(r"\bcabaret\b", case=False, regex=True) & ~o.name_out.str.contains(r"theat|dinner|jazz|comedy", case=False, regex=True))) \
     | webs.str.contains(r"centerfolds|gentlemensclub|stripclub|rickscabaret|scoresny|sapphirenewyork|flashdancers|headquartersnyc", case=False, regex=True)
-print("adult clubs removed:", int(adult.sum()), o.name_out[adult].tolist()[:10], flush=True)
+# a club under a plain name goes by its checked address (data/research/adult_venues.json, each with a source)
+AV = json.load(open(f"{DATA}/research/adult_venues.json"))["venues"]
+av_keys = {(n_, s_, t.lower()) for v in AV for n_, s_ in [street_key(v["address"])] for t in v["towns"]}
+adult_addr = pd.Series([(n_, s_, (c_ or "").lower()) in av_keys if n_ and s_ else False
+                        for (n_, s_), c_ in zip(o.street.map(street_key), o.city)], index=o.index)
+adult = adult | adult_addr
+print("adult clubs removed:", int(adult.sum()), "(by checked address", int(adult_addr.sum()), ")", o.name_out[adult].tolist()[:30], flush=True)
 o = o[~adult]
 smoke = o.name_out.str.contains(r"\bvape\b|smoke shop|\btobacco\b|cigar|\bcbd\b|dispensary|cannabis|head shop|hookah lounge", case=False, regex=True) & ~o.hc
 o.loc[smoke, "venue"] = True

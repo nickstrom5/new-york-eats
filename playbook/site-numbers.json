@@ -2,8 +2,8 @@
  "generated": "2026-11-03",
  "data_generated": "2026-10-07",
  "domain": "https://newyork.eatsranked.com",
- "og_line": "Slices, bagels & 61,093 restaurants",
- "restaurants": 61093,
+ "og_line": "Slices, bagels & 61,054 restaurants",
+ "restaurants": 61054,
  "cities": 1555,
  "regions": 10,
  "records_through": {
@@ -267,8 +267,8 @@
  },
  "data_files": {
   "core-new-york-city.json": {
-   "bytes": 2712135,
-   "gzip": 663191
+   "bytes": 2712145,
+   "gzip": 663193
   },
   "detail-new-york-city.json": {
    "bytes": 3001339,
@@ -283,24 +283,24 @@
    "gzip": 188570
   },
   "core-mid-hudson.json": {
-   "bytes": 523320,
-   "gzip": 138475
+   "bytes": 523328,
+   "gzip": 138477
   },
   "detail-mid-hudson.json": {
    "bytes": 808319,
    "gzip": 183931
   },
   "core-capital-region.json": {
-   "bytes": 248735,
-   "gzip": 69689
+   "bytes": 248782,
+   "gzip": 69703
   },
   "detail-capital-region.json": {
    "bytes": 387340,
    "gzip": 91004
   },
   "core-mohawk-valley.json": {
-   "bytes": 114913,
-   "gzip": 34241
+   "bytes": 114930,
+   "gzip": 34244
   },
   "detail-mohawk-valley.json": {
    "bytes": 194693,
@@ -315,32 +315,32 @@
    "gzip": 38813
   },
   "core-central-new-york.json": {
-   "bytes": 194780,
-   "gzip": 55566
+   "bytes": 194805,
+   "gzip": 55570
   },
   "detail-central-new-york.json": {
    "bytes": 383990,
    "gzip": 80801
   },
   "core-southern-tier.json": {
-   "bytes": 138923,
-   "gzip": 40355
+   "bytes": 138934,
+   "gzip": 40359
   },
   "detail-southern-tier.json": {
    "bytes": 251112,
    "gzip": 54119
   },
   "core-finger-lakes.json": {
-   "bytes": 278397,
-   "gzip": 73966
+   "bytes": 278411,
+   "gzip": 73967
   },
   "detail-finger-lakes.json": {
    "bytes": 531648,
    "gzip": 113658
   },
   "core-western-new-york.json": {
-   "bytes": 306613,
-   "gzip": 80025
+   "bytes": 306654,
+   "gzip": 80033
   },
   "detail-western-new-york.json": {
    "bytes": 410202,
@@ -351,8 +351,8 @@
    "gzip": 25782
   },
   "index.json": {
-   "bytes": 35156,
-   "gzip": 12233
+   "bytes": 35155,
+   "gzip": 12229
   },
   "ny_shapes.json": {
    "bytes": 82363,
@@ -361,7 +361,7 @@
  },
  "regions_pages": {
   "New York City": {
-   "restaurants": 30970,
+   "restaurants": 30968,
    "hand_checked": 92,
    "honored_not_checked": 222,
    "slices": 24,
@@ -383,7 +383,7 @@
    "dimsum": 1
   },
   "Mid-Hudson": {
-   "restaurants": 6415,
+   "restaurants": 6413,
    "hand_checked": 16,
    "honored_not_checked": 12,
    "slices": 0,
@@ -394,7 +394,7 @@
    "dimsum": 1
   },
   "Capital Region": {
-   "restaurants": 2998,
+   "restaurants": 2988,
    "hand_checked": 13,
    "honored_not_checked": 4,
    "slices": 1,
@@ -405,7 +405,7 @@
    "dimsum": 1
   },
   "Mohawk Valley": {
-   "restaurants": 1322,
+   "restaurants": 1318,
    "hand_checked": 17,
    "honored_not_checked": 1,
    "slices": 6,
@@ -427,7 +427,7 @@
    "dimsum": 0
   },
   "Central New York": {
-   "restaurants": 2232,
+   "restaurants": 2226,
    "hand_checked": 12,
    "honored_not_checked": 0,
    "slices": 2,
@@ -438,7 +438,7 @@
    "dimsum": 1
   },
   "Southern Tier": {
-   "restaurants": 1636,
+   "restaurants": 1633,
    "hand_checked": 6,
    "honored_not_checked": 2,
    "slices": 0,
@@ -449,7 +449,7 @@
    "dimsum": 0
   },
   "Finger Lakes": {
-   "restaurants": 3133,
+   "restaurants": 3130,
    "hand_checked": 14,
    "honored_not_checked": 1,
    "slices": 0,
@@ -460,7 +460,7 @@
    "dimsum": 1
   },
   "Western New York": {
-   "restaurants": 3507,
+   "restaurants": 3498,
    "hand_checked": 32,
    "honored_not_checked": 2,
    "slices": 6,
@@ -487,7 +487,7 @@
    "nearby_shown": 6
   },
   "Queens": {
-   "restaurants": 6990,
+   "restaurants": 6988,
    "region": "New York City",
    "hand_checked": 7,
    "honored_not_checked": 13,
@@ -508,21 +508,21 @@
    "nearby_shown": 6
   },
   "Buffalo": {
-   "restaurants": 964,
+   "restaurants": 963,
    "region": "Western New York",
    "hand_checked": 15,
    "honored_not_checked": 2,
    "nearby_shown": 6
   },
   "Rochester": {
-   "restaurants": 1288,
+   "restaurants": 1286,
    "region": "Finger Lakes",
    "hand_checked": 8,
    "honored_not_checked": 0,
    "nearby_shown": 6
   },
   "Syracuse": {
-   "restaurants": 751,
+   "restaurants": 750,
    "region": "Central New York",
    "hand_checked": 5,
    "honored_not_checked": 0,
@@ -543,7 +543,7 @@
    "nearby_shown": 6
   },
   "Niagara Falls": {
-   "restaurants": 285,
+   "restaurants": 284,
    "region": "Western New York",
    "hand_checked": 0,
    "honored_not_checked": 0,
@@ -557,7 +557,7 @@
    "nearby_shown": 5
   },
   "Schenectady": {
-   "restaurants": 253,
+   "restaurants": 250,
    "region": "Capital Region",
    "hand_checked": 1,
    "honored_not_checked": 0,
@@ -578,21 +578,21 @@
    "nearby_shown": 0
   },
   "Newburgh": {
-   "restaurants": 159,
+   "restaurants": 158,
    "region": "Mid-Hudson",
    "hand_checked": 0,
    "honored_not_checked": 0,
    "nearby_shown": 4
   },
   "Saratoga Springs": {
-   "restaurants": 218,
+   "restaurants": 216,
    "region": "Capital Region",
    "hand_checked": 0,
    "honored_not_checked": 0,
    "nearby_shown": 3
   },
   "Utica": {
-   "restaurants": 213,
+   "restaurants": 211,
    "region": "Mohawk Valley",
    "hand_checked": 10,
    "honored_not_checked": 0,
@@ -606,7 +606,7 @@
    "nearby_shown": 6
   },
   "Binghamton": {
-   "restaurants": 197,
+   "restaurants": 194,
    "region": "Southern Tier",
    "hand_checked": 0,
    "honored_not_checked": 0,

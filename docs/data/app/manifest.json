@@ -1,32 +1,32 @@
 {
  "schema": 1,
- "version": "2026-10-07.2",
+ "version": "2026-10-07.3",
  "records_through": "2026-10-07",
- "published": "2026-11-03T13:15:20Z",
+ "published": "2026-11-03T17:50:33Z",
  "min_app_build": 1,
  "files": {
   "index": {
-   "path": "index-36883fc94ee6.json",
-   "sha256": "36883fc94ee63927af810e13644bf3ce851a4056e9e52503eb53406e02043c8d",
+   "path": "index-227568be5713.json",
+   "sha256": "227568be5713a7e44c2f89d6cf28f17be92b4d1734d8a474400bd0301e6ec4f1",
    "bytes": 65406,
    "rows": 0
   },
   "places-capital-region": {
-   "path": "places-capital-region-8e246a9b47df.json",
-   "sha256": "8e246a9b47dff73491d22a4e2a7819ccc4d4d98fe1d834b6b204a8a789dd47b5",
-   "bytes": 816416,
+   "path": "places-capital-region-eea6ace75146.json",
+   "sha256": "eea6ace75146ac948d0d5a5aae972ca5dcf34dad8d2e74ba00d8ec5d7d6f837d",
+   "bytes": 816476,
    "rows": 3210
   },
   "places-central-new-york": {
-   "path": "places-central-new-york-d4912124b77e.json",
-   "sha256": "d4912124b77ecf62a93e3fc241d42566f950b6a56c4d1f9c2e432aed47bdec99",
-   "bytes": 730122,
+   "path": "places-central-new-york-686362f97965.json",
+   "sha256": "686362f97965ddfe68c4173141be192341761bd97f58cb9e8d6702832afbcf95",
+   "bytes": 730158,
    "rows": 2485
   },
   "places-finger-lakes": {
-   "path": "places-finger-lakes-217f971b4e37.json",
-   "sha256": "217f971b4e377f3e838e46ce2e7a2339b1164efa4947cc09a11a961790c116c6",
-   "bytes": 1002438,
+   "path": "places-finger-lakes-912c91212b83.json",
+   "sha256": "912c91212b83ef641dd4a59ffb4b13c58fdeacdcb8965d2395393dfdf4a609dc",
+   "bytes": 1002456,
    "rows": 3405
   },
   "places-long-island": {
@@ -36,15 +36,15 @@
    "rows": 7855
   },
   "places-mid-hudson": {
-   "path": "places-mid-hudson-eba4a5a46124.json",
-   "sha256": "eba4a5a46124810b717b6cab133c060759278699bfe7a4ea88e72903e5f80c0c",
-   "bytes": 1704833,
+   "path": "places-mid-hudson-cf1c74e7424b.json",
+   "sha256": "cf1c74e7424b09830503c87cbb7b6a5dae7a5d4a4ffad1d166b026a71d364fc5",
+   "bytes": 1704845,
    "rows": 6741
   },
   "places-mohawk-valley": {
-   "path": "places-mohawk-valley-f4b857397ef3.json",
-   "sha256": "f4b857397ef33144619802d6b64c52e184eab42e12dc1d280140c3851d713988",
-   "bytes": 393802,
+   "path": "places-mohawk-valley-00f43a5b9094.json",
+   "sha256": "00f43a5b90949eafff29b8d57187e64a5b0f22fe8f262db874db99ee09fc2a2d",
+   "bytes": 393826,
    "rows": 1461
   },
   "places-new-york-city-bronx": {
@@ -66,9 +66,9 @@
    "rows": 12353
   },
   "places-new-york-city-queens": {
-   "path": "places-new-york-city-queens-2b534880463a.json",
-   "sha256": "2b534880463ab36ed1ebcd7d6271e476db5ae98515bd9a38c1f2b377414051b5",
-   "bytes": 1873726,
+   "path": "places-new-york-city-queens-bdfac4030aa8.json",
+   "sha256": "bdfac4030aa883200ddfbbd3bf128eca65f4e0b1e897410fa0d21383f41beca3",
+   "bytes": 1873738,
    "rows": 7236
   },
   "places-new-york-city-staten-island": {
@@ -84,42 +84,42 @@
    "rows": 1284
   },
   "places-southern-tier": {
-   "path": "places-southern-tier-4e0f70e34b52.json",
-   "sha256": "4e0f70e34b52f0accbd292fcf77b2225e6413d59e2b61f48fd361fbb69ef5cbd",
-   "bytes": 491555,
+   "path": "places-southern-tier-cf2eaa7eb6f0.json",
+   "sha256": "cf2eaa7eb6f003dc75149c851b85643b4f1c7322070219ad7d2d504dfc71acb2",
+   "bytes": 491573,
    "rows": 1792
   },
   "places-western-new-york": {
-   "path": "places-western-new-york-e4087fdadb82.json",
-   "sha256": "e4087fdadb82bbc47dfc905b48322707be749956b438ab9e2dd77a9817e37386",
-   "bytes": 911662,
+   "path": "places-western-new-york-175494a1eb51.json",
+   "sha256": "175494a1eb514dddb3b8551efe73c923814e3efa2636e54629ce8e74f3be5926",
+   "bytes": 911716,
    "rows": 3758
   }
  },
  "counts": {
   "places": 63754,
   "files": 15,
-  "bytes": 16393545,
-  "restaurants": 61093
+  "bytes": 16393779,
+  "restaurants": 61054
  },
  "previous": {
-  "version": "2026-10-07.1",
+  "version": "2026-10-07.2",
   "files": {
-   "index": "index-2a8bd31d5079.json",
+   "index": "index-36883fc94ee6.json",
    "places-capital-region": "places-capital-region-8e246a9b47df.json",
    "places-central-new-york": "places-central-new-york-d4912124b77e.json",
    "places-finger-lakes": "places-finger-lakes-217f971b4e37.json",
    "places-long-island": "places-long-island-498e7d4c6edf.json",
    "places-mid-hudson": "places-mid-hudson-eba4a5a46124.json",
    "places-mohawk-valley": "places-mohawk-valley-f4b857397ef3.json",
-   "places-new-york-city-bronx": "places-new-york-city-bronx-d198f0b9191a.json",
-   "places-new-york-city-brooklyn": "places-new-york-city-brooklyn-57f21ba07ce6.json",
-   "places-new-york-city-manhattan": "places-new-york-city-manhattan-2c95ede7b25f.json",
-   "places-new-york-city-queens": "places-new-york-city-queens-4b7b2f525c9a.json",
+   "places-new-york-city-bronx": "places-new-york-city-bronx-db33a9b90222.json",
+   "places-new-york-city-brooklyn": "places-new-york-city-brooklyn-1ad8bdd06d24.json",
+   "places-new-york-city-manhattan": "places-new-york-city-manhattan-6057fbf4087a.json",
+   "places-new-york-city-queens": "places-new-york-city-queens-2b534880463a.json",
    "places-new-york-city-staten-island": "places-new-york-city-staten-island-bcd85c7492a5.json",
    "places-north-country": "places-north-country-a0acae4fc36d.json",
    "places-southern-tier": "places-southern-tier-4e0f70e34b52.json",
-   "places-western-new-york": "places-western-new-york-01924cb32649.json"
+   "places-western-new-york": "places-western-new-york-e4087fdadb82.json"
   }
  }
 }

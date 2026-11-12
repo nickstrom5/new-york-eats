@@ -96,7 +96,7 @@ PRIVATE_DIGESTS = {
     "31b7679e2f02e2b0561693acc0c78f067633b6713ac53fb5980dcb0f7c2ea237",
     "928009cbd52e0a32a3542c0f41efa0ac8feef2e05974b8126f26c7d4f9b593e3",
 }
-CSP_REST = ("style-src 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; base-uri 'none'; "
+CSP_REST = ("style-src 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; manifest-src 'self'; base-uri 'none'; "
             "form-action 'none'; upgrade-insecure-requests")
 GUIDE_KINDS = {"new-york-pizza-slices.html": ("slices", ["slice", "buffalo pizza", "tomato pie"]),
                "new-york-bagels-delis.html": ("bagels", ["bagel", "deli", "appetizing"]),

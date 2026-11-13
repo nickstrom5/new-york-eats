@@ -124,6 +124,8 @@ class Handler(http.server.SimpleHTTPRequestHandler):
 
 def serve():
     port = int(os.environ.get("QA_PORT") or 0)   # a fixed port when the machine is shared (each session has its own range)
+    # the default listen backlog (5) resets one of a browser's burst of requests when the machine is busy
+    http.server.ThreadingHTTPServer.request_queue_size = 64
     srv = http.server.ThreadingHTTPServer(("127.0.0.1", port), functools.partial(Handler, directory=DOCS))
     threading.Thread(target=srv.serve_forever, daemon=True).start()
     return f"http://127.0.0.1:{srv.server_address[1]}"
